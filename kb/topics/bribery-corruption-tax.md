@@ -8,7 +8,7 @@ domain_id: bribery_corruption_tax
 domain_scope: adjacent
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:23:02Z'
+  at: '2026-11-16T16:31:16Z'
 ---
 
 # Bribery, corruption, tax evasion & failure-to-prevent

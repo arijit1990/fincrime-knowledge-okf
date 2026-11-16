@@ -41,7 +41,7 @@ digest_points: 26
 
 # Guidance on Beneficial Ownership of Legal Persons (digest)
 
-[source overview](overview.md)
+[previous part](digest-005.md) | [source overview](overview.md)
 
 > **Digest, not the original wording.** The licence of this source does not permit reproducing its text, so this part (pp. 59-64) is a paraphrased digest of every material point. Each point was machine-checked: its anchor phrase occurs verbatim in the original, and an independent reviewing agent confirmed the point is supported by the text. Labels: normative strength / kind. Quote the original, not this digest, when exact wording matters (see `resource`). Normative force of this document: **international standard**.
 
@@ -111,6 +111,6 @@ digest_points: 26
 
 ---
 
-[source overview](overview.md)
+[previous part](digest-005.md) | [source overview](overview.md)
 
 [^original]: Financial Action Task Force, "Guidance on Beneficial Ownership of Legal Persons" (2023-03). https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-Beneficial-Ownership-Legal-Persons.html

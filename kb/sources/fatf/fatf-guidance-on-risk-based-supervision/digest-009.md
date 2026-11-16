@@ -42,7 +42,7 @@ digest_points: 60
 
 # Guidance on Risk-Based Supervision (digest)
 
-[previous part](digest-008.md) | [source overview](overview.md)
+[previous part](digest-008.md) | [source overview](overview.md) | [next part](digest-010.md)
 
 > **Digest, not the original wording.** The licence of this source does not permit reproducing its text, so this part (pp. 83-92) is a paraphrased digest of every material point. Each point was machine-checked: its anchor phrase occurs verbatim in the original, and an independent reviewing agent confirmed the point is supported by the text. Labels: normative strength / kind. Quote the original, not this digest, when exact wording matters (see `resource`). Normative force of this document: **international standard**.
 
@@ -216,6 +216,6 @@ digest_points: 60
 
 ---
 
-[previous part](digest-008.md) | [source overview](overview.md)
+[previous part](digest-008.md) | [source overview](overview.md) | [next part](digest-010.md)
 
 [^original]: Financial Action Task Force, "Guidance on Risk-Based Supervision" (2021-03). https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-rba-supervision.html

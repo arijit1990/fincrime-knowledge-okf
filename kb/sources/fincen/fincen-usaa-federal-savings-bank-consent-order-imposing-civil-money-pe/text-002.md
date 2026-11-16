@@ -25,10 +25,10 @@ parts_total: 4
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:23:02Z'
+  at: '2026-11-16T16:31:16Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-16T16:23:02Z'
+  at: '2026-11-16T16:31:16Z'
 sources:
 - id: original
   resource: https://www.fincen.gov/system/files/enforcement_action/2023-04-05/USAA_Consent_Order_Final_508_2.pdf

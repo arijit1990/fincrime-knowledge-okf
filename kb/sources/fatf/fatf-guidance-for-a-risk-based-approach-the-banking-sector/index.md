@@ -1,3 +1,7 @@
 # Parts
 
 * [Guidance for a Risk-Based Approach: The Banking Sector](overview.md) - Guidance by Financial Action Task Force (2014-10); INTL; international standard; status current.
+* [Guidance for a Risk-Based Approach: The Banking Sector - part 1 of 5 (pp. 1-13)](digest-001.md) - Verified paraphrased digest, pp. 1-13: TABLE OF CONTENTS; TABLE OF ACRONYMS; INTRODUCTION > A. BACKGROUND AND CONTEXT; and 5 more sections
+* [Guidance for a Risk-Based Approach: The Banking Sector - part 2 of 5 (pp. 14-24)](digest-002.md) - Verified paraphrased digest, pp. 14-24: SECTION II – GUIDANCE FOR SUPERVISORS; SECTION II – GUIDANCE FOR SUPERVISORS > A. THE RISK-BASED APPROACH TO SUPERVISION; SECTION II – GUIDANCE FOR SUPERVISORS > B. SUPERVISION OF THE RISK-BASED APPROACH; and 4 more sections
+* [Guidance for a Risk-Based Approach: The Banking Sector - part 4 of 5 (pp. 37-46)](digest-004.md) - Verified paraphrased digest, pp. 37-46: EXAMPLES OF COUNTRIES’ SUPERVISORY PRACTICES FOR THE IMPLEMENTATION OF THE RISK-BASED APPROACH TO THE BANKING SECTOR > _ITALY_; EXAMPLES OF COUNTRIES’ SUPERVISORY PRACTICES FOR THE IMPLEMENTATION OF THE RISK-BASED APPROACH TO THE BANKING SECTOR > _FRANCE_; EXAMPLES OF COUNTRIES’ SUPERVISORY PRACTICES FOR THE IMPLEMENTATION OF THE RISK-BASED APPROACH TO THE BANKING SECTOR > _THE NETHERLANDS_; and 9 more sections
+* [Guidance for a Risk-Based Approach: The Banking Sector - part 5 of 5 (pp. 47-50)](digest-005.md) - Verified paraphrased digest, pp. 47-50: ANNEX 2; BIBLIOGRAPHY

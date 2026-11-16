@@ -41,7 +41,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:23:02Z'
+  at: '2026-11-16T16:31:16Z'
 sources:
 - id: original
   resource: https://public-inspection.federalregister.gov/2021-06607.pdf

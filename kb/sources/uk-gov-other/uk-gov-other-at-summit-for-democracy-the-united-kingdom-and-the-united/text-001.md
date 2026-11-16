@@ -25,10 +25,10 @@ parts_total: 1
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:23:02Z'
+  at: '2026-11-16T16:31:16Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-16T16:23:02Z'
+  at: '2026-11-16T16:31:16Z'
 sources:
 - id: original
   resource: https://www.gov.uk/government/news/at-summit-for-democracy-the-united-kingdom-and-the-united-states-announce-winners-of-challenge-to-drive-innovation-in-privacy-enhancing-technologies

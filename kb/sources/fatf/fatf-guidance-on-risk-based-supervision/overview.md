@@ -39,14 +39,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:23:02Z'
+  at: '2026-11-16T16:31:16Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-rba-supervision.html
   title: Guidance on Risk-Based Supervision
   author: org:fatf
-digest_points: 346
-digest_pending_parts: 4
+digest_points: 543
+digest_pending_parts: 1
 ---
 
 # Guidance on Risk-Based Supervision
@@ -66,7 +66,7 @@ digest_pending_parts: 4
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [risk based approach](../../../topics/risk-based-approach.md), [effectiveness](../../../topics/effectiveness.md), [regulation](../../../topics/regulation.md) |
 
-> **Digest in progress:** 4 of 10 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 1 of 10 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -80,10 +80,13 @@ Manually downloaded official source (site blocks automated access)
 |---|---|---|
 | [digest part 1](digest-001.md) | pp. 1-13 | RISK-BASED SUPERVISION; RISK-BASED SUPERVISION > Acknowledgements; RISK-BASED SUPERVISION > Acronyms; RISK-BASED SUPERVISION > Executive Summary; and 1 more sections |
 | [digest part 2](digest-002.md) | pp. 13-23 | RISK-BASED SUPERVISION > 1. Introduction; RISK-BASED SUPERVISION > 2. Supervisors’ risk understanding |
+| [digest part 3](digest-003.md) | pp. 23-33 | RISK-BASED SUPERVISION > 2. Supervisors’ risk understanding; RISK-BASED SUPERVISION > 3. Risk-based approach to supervision |
 | [digest part 4](digest-004.md) | pp. 33-43 | RISK-BASED SUPERVISION > 3. Risk-based approach to supervision |
 | [digest part 5](digest-005.md) | pp. 43-52 | RISK-BASED SUPERVISION > 3. Risk-based approach to supervision; RISK-BASED SUPERVISION > 4. Cross-cutting issues; RISK-BASED SUPERVISION > Annex A. Overview of supervisory tools; RISK-BASED SUPERVISION > _Overview of challenges identified in Mutual Evaluations_; and 1 more sections |
+| [digest part 7](digest-007.md) | pp. 63-73 | RISK-BASED SUPERVISION > 6. Applying risk-based supervision; RISK-BASED SUPERVISION > _Objectives and scope_ |
 | [digest part 8](digest-008.md) | pp. 73-83 | RISK-BASED SUPERVISION > _Objectives and scope_ |
 | [digest part 9](digest-009.md) | pp. 83-92 | RISK-BASED SUPERVISION > _Objectives and scope_; RISK-BASED SUPERVISION > 8. Supervision of DNFBPs |
+| [digest part 10](digest-010.md) | pp. 92-104 | RISK-BASED SUPERVISION > 8. Supervision of DNFBPs; RISK-BASED SUPERVISION > 9. Supervision of VASPs; RISK-BASED SUPERVISION > 10. Supervision in the COVID-19 context; RISK-BASED SUPERVISION > Glossary |
 
 ## How to cite
 

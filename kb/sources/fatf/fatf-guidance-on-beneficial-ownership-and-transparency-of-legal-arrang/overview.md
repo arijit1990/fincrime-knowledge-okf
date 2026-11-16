@@ -37,14 +37,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:23:02Z'
+  at: '2026-11-16T16:31:16Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-Beneficial-Ownership-Transparency-Legal-Arrangements.html
   title: Guidance on Beneficial Ownership and Transparency of Legal Arrangements
   author: org:fatf
-digest_points: 54
-digest_pending_parts: 4
+digest_points: 135
+digest_pending_parts: 2
 ---
 
 # Guidance on Beneficial Ownership and Transparency of Legal Arrangements
@@ -64,7 +64,7 @@ digest_pending_parts: 4
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [beneficial ownership](../../../topics/beneficial-ownership.md), [regulation](../../../topics/regulation.md) |
 
-> **Digest in progress:** 4 of 5 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 2 of 5 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -76,7 +76,9 @@ Manually downloaded official source (site blocks automated access)
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-14 | BENEFICIAL OWNERSHIP AND TRANSPARENCY OF LEGAL ARRANGEMENTS; BENEFICIAL OWNERSHIP AND TRANSPARENCY OF LEGAL ARRANGEMENTS > Table of contents; BENEFICIAL OWNERSHIP AND TRANSPARENCY OF LEGAL ARRANGEMENTS > Abbreviations and acronyms; BENEFICIAL OWNERSHIP AND TRANSPARENCY OF LEGAL ARRANGEMENTS > 1. Introduction; and 1 more sections |
 | [digest part 2](digest-002.md) | pp. 14-26 | BENEFICIAL OWNERSHIP AND TRANSPARENCY OF LEGAL ARRANGEMENTS > 2. Scope of R.25: Trusts and other similar legal arrangements |
+| [digest part 5](digest-005.md) | pp. 48-54 | BENEFICIAL OWNERSHIP AND TRANSPARENCY OF LEGAL ARRANGEMENTS > 8. International co-operation; BENEFICIAL OWNERSHIP AND TRANSPARENCY OF LEGAL ARRANGEMENTS > Bibliography |
 
 ## How to cite
 

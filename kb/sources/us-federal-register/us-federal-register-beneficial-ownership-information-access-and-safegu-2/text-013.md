@@ -24,10 +24,10 @@ parts_total: 15
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:23:02Z'
+  at: '2026-11-16T16:31:16Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-16T16:23:02Z'
+  at: '2026-11-16T16:31:16Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2022/12/16/2022-27031/beneficial-ownership-information-access-and-safeguards-and-use-of-fincen-identifiers-for-entities

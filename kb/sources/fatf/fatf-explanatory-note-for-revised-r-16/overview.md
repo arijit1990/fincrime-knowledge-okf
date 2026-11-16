@@ -11,7 +11,7 @@ tags:
 - other
 - regulation
 - sanctions_adjacent
-status: draft
+status: stable
 source_id: fatf-explanatory-note-for-revised-r-16
 issuer: fatf
 issuer_name: Financial Action Task Force
@@ -41,15 +41,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:23:02Z'
+  at: '2026-11-16T16:31:16Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Fatfrecommendations.html
   title: Explanatory note for revised R.16
   author: org:fatf
   last_modified: '2025-10-28T00:00:00Z'
-digest_points: 72
-digest_pending_parts: 2
+digest_points: 174
 ---
 
 # Explanatory note for revised R.16
@@ -69,8 +68,6 @@ digest_pending_parts: 2
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [correspondent banking](../../../topics/correspondent-banking.md), [regulation](../../../topics/regulation.md), [data features](../../../topics/data-features.md), [sanctions adjacent](../../../topics/sanctions-adjacent.md) |
 
-> **Digest in progress:** 2 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -81,7 +78,9 @@ FATF explanatory note (2025) on the revised Recommendation 16 payment-transparen
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-10 | Explanatory note for revised R.16 > 1. Background of R.16 revision; Explanatory note for revised R.16 > 2. Second public consultation; Explanatory note for revised R.16 > 3.Key Issues addressed in the adopted text |
 | [digest part 2](digest-002.md) | pp. 10-21 | Explanatory note for revised R.16 > 3.Key Issues addressed in the adopted text; Explanatory note for revised R.16 > 4.Timeline, implementation and transition issues; Recommendation 16. ~~Wire transfers~~ Payment transparency *; Interpretive Note to Recommendation 16 ( ~~Wire transfers~~ Payment transparency) > A. OBJECTIVE; and 6 more sections |
+| [digest part 3](digest-003.md) | pp. 21-22 | Interpretive Note to Recommendation 16 ( ~~Wire transfers~~ Payment transparency) > D. RESPONSIBILITIES OF ORDERING, INTERMEDIARY AND BENEFICIARY FINANCIAL INSTITUTIONS58 INCLUDING MVTS59 |
 
 ## How to cite
 

@@ -39,14 +39,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:23:02Z'
+  at: '2026-11-16T16:31:16Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Mutualevaluations/Fatf-methodology.html
   title: Methodology for Assessing Technical Compliance with the FATF Recommendations and the Effectiveness of AML/CFT/CPF Systems
   author: org:fatf
-digest_points: 0
-digest_pending_parts: 33
+digest_points: 104
+digest_pending_parts: 31
 ---
 
 # Methodology for Assessing Technical Compliance with the FATF Recommendations and the Effectiveness of AML/CFT/CPF Systems
@@ -66,7 +66,7 @@ digest_pending_parts: 33
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [regulation](../../../topics/regulation.md), [effectiveness](../../../topics/effectiveness.md), [risk assessment](../../../topics/risk-assessment.md) |
 
-> **Digest in progress:** 33 of 33 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 31 of 33 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -78,6 +78,8 @@ Manually downloaded official source (site blocks automated access)
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 18](digest-018.md) | pp. 135-141 | 132 EFFECTIVENESS ASSESSMENT; EFFECTIVENESS ASSESSMENT 133; 134 EFFECTIVENESS ASSESSMENT; EFFECTIVENESS ASSESSMENT 135; and 2 more sections |
+| [digest part 22](digest-022.md) | pp. 162-169 | EFFECTIVENESS ASSESSMENT 159; 160 EFFECTIVENESS ASSESSMENT; EFFECTIVENESS ASSESSMENT 161; 162 EFFECTIVENESS ASSESSMENT; and 4 more sections |
 
 ## How to cite
 

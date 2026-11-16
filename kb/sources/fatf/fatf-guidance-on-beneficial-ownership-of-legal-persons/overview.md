@@ -37,14 +37,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:23:02Z'
+  at: '2026-11-16T16:31:16Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-Beneficial-Ownership-Legal-Persons.html
   title: Guidance on Beneficial Ownership of Legal Persons
   author: org:fatf
-digest_points: 26
-digest_pending_parts: 5
+digest_points: 327
+digest_pending_parts: 1
 ---
 
 # Guidance on Beneficial Ownership of Legal Persons
@@ -64,7 +64,7 @@ digest_pending_parts: 5
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [beneficial ownership](../../../topics/beneficial-ownership.md), [regulation](../../../topics/regulation.md) |
 
-> **Digest in progress:** 5 of 6 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 1 of 6 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -76,6 +76,10 @@ Manually downloaded official source (site blocks automated access)
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 2](digest-002.md) | pp. 15-26 | BENEFICIAL OWNERSHIP OF LEGAL PERSONS > 3. BASIC INFORMATION; BENEFICIAL OWNERSHIP OF LEGAL PERSONS > 4. BENEFICIAL OWNERSHIP INFORMATION; BENEFICIAL OWNERSHIP OF LEGAL PERSONS > 5. A MULTI-PRONGED APPROACH TO BENEFICIAL OWNERSHIP INFORMATION; BENEFICIAL OWNERSHIP OF LEGAL PERSONS > 6. ADEQUATE BENEFICIAL OWNERSHIP INFORMATION; and 1 more sections |
+| [digest part 3](digest-003.md) | pp. 26-37 | BENEFICIAL OWNERSHIP OF LEGAL PERSONS > 7. ACCURATE INFORMATION – MEANS OF VERIFICATION OF BENEFICIAL OWNERSHIP INFORMATION; BENEFICIAL OWNERSHIP OF LEGAL PERSONS > 9. OBLIGATIONS OF COMPANIES UNDER THE COMPANY APPROACH; BENEFICIAL OWNERSHIP OF LEGAL PERSONS > 10. THE REGISTRY APPROACH |
+| [digest part 4](digest-004.md) | pp. 37-49 | BENEFICIAL OWNERSHIP OF LEGAL PERSONS > 11. MECHANISMS AND SOURCES FOR OBTAINING BENEFICIAL OWNERSHIP INFORMATION OF LEGAL PERSONS: CHARACTERISTICS OF ALTERNATIVE MECHANISMS; BENEFICIAL OWNERSHIP OF LEGAL PERSONS > 12. ADDITIONAL SUPPLEMENTARY MEASURES; BENEFICIAL OWNERSHIP OF LEGAL PERSONS > 13. ACCESS TO INFORMATION; BENEFICIAL OWNERSHIP OF LEGAL PERSONS > 14. MECHANISMS FOR PREVENTING AND MITIGATING RISK OF THE MISUSE OF BEARER SHARES AND BEARER SHARE WARRANTS |
+| [digest part 5](digest-005.md) | pp. 49-59 | BENEFICIAL OWNERSHIP OF LEGAL PERSONS > 15. MECHANISMS FOR PREVENTING AND MITIGATING RISK OF THE MISUSE OF NOMINEE ARRANGEMENTS; BENEFICIAL OWNERSHIP OF LEGAL PERSONS > 16. SANCTIONS; BENEFICIAL OWNERSHIP OF LEGAL PERSONS > 18. APPLICABILITY OF RELEVANT REGULATORY REGIMES |
 | [digest part 6](digest-006.md) | pp. 59-64 | BENEFICIAL OWNERSHIP OF LEGAL PERSONS > 18. APPLICABILITY OF RELEVANT REGULATORY REGIMES; BENEFICIAL OWNERSHIP OF LEGAL PERSONS > 19. INTERNATIONAL CO-OPERATION |
 
 ## How to cite

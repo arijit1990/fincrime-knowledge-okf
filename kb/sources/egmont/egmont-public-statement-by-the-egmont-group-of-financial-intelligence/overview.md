@@ -37,7 +37,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:23:02Z'
+  at: '2026-11-16T16:31:16Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/news/public-statement-by-the-egmont-group-of-financial-intelligence-units-advancing-the-future-of-public-private-partnerships-in-combating-money-laundering-and-terrorist-financing/

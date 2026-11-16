@@ -8,7 +8,7 @@ issuer_id: un
 tier: 2
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:23:02Z'
+  at: '2026-11-16T16:31:16Z'
 ---
 
 # United Nations (incl. Security Council)

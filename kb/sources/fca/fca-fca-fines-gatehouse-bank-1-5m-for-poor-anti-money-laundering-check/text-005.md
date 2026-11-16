@@ -25,10 +25,10 @@ parts_total: 5
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:23:02Z'
+  at: '2026-11-16T16:31:16Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-16T16:23:02Z'
+  at: '2026-11-16T16:31:16Z'
 sources:
 - id: original
   resource: https://www.fca.org.uk/news/press-releases/fca-fines-gatehouse-bank-1.5m-poor-anti-money-laundering-checks

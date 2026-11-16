@@ -9,7 +9,7 @@ tags:
 - intl
 - proliferation_financing
 - risk_assessment
-status: draft
+status: stable
 source_id: fatf-guidance-on-proliferation-financing-risk-assessment-and-mitigatio
 issuer: fatf
 issuer_name: Financial Action Task Force
@@ -37,14 +37,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:23:02Z'
+  at: '2026-11-16T16:31:16Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Financingofproliferation/Proliferation-financing-risk-assessment-mitigation.html
   title: Guidance on Proliferation Financing Risk Assessment and Mitigation
   author: org:fatf
-digest_points: 0
-digest_pending_parts: 5
+digest_points: 348
 ---
 
 # Guidance on Proliferation Financing Risk Assessment and Mitigation
@@ -64,8 +63,6 @@ digest_pending_parts: 5
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [proliferation financing](../../../topics/proliferation-financing.md), [risk assessment](../../../topics/risk-assessment.md) |
 
-> **Digest in progress:** 5 of 5 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -76,6 +73,11 @@ Manually downloaded official source (site blocks automated access)
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-13 | _Table of contents_; Acronyms; Background and context; Objectives and scope; and 6 more sections |
+| [digest part 2](digest-002.md) | pp. 14-24 | Target audience, status, and contents > Preliminary Scoping; Target audience, status, and contents > Planning and Organisation; Target audience, status, and contents > Identification; Target audience, status, and contents > Indicators of the potential breach, non-implementation or evasion of PF-TFS; and 1 more sections |
+| [digest part 3](digest-003.md) | pp. 25-37 | Target audience, status, and contents > Why is a PF risk assessment relevant to countries or private sector firms that are far away from the DPRK and Iran?; Target audience, status, and contents > Which types of banking services/products are vulnerable to the potential breach, non-implementation, or evasion of PF-TFS?; Target audience, status, and contents > How are virtual assets misused for the purposes of the potential breach, non-implementation, or evasion of PF-TFS?; Target audience, status, and contents > Analysis; and 4 more sections |
+| [digest part 4](digest-004.md) | pp. 37-49 | Target audience, status, and contents > SECTION TWO: MITIGATION OF PROLIFERATION FINANCING RISKS |
+| [digest part 5](digest-005.md) | pp. 49-60 | Target audience, status, and contents > SECTION TWO: MITIGATION OF PROLIFERATION FINANCING RISKS; Target audience, status, and contents > Annex B. Bibliography and References |
 
 ## How to cite
 
