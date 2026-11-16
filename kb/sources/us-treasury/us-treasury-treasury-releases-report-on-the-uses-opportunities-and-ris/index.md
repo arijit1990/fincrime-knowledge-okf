@@ -1,0 +1,7 @@
+# Parts
+
+* [Treasury Releases Report on the Uses, Opportunities, and Risks of Artificial Intelligence in Financial Services](overview.md) - Risk assessment by US Department of the Treasury (2024-12-19); US; empirical observation; status current.
+* [Treasury Releases Report on the Uses, Opportunities, and Risks of Artificial Intelligence in Financial Services - part 1 of 4 (pp. 1-12)](text-001.md) - Verbatim extracted text, pp. 1-12: Contents; Contents > I. E XECUTIVE S UMMARY; Contents > II. B ACKGROUND; and 1 more sections
+* [Treasury Releases Report on the Uses, Opportunities, and Risks of Artificial Intelligence in Financial Services - part 2 of 4 (pp. 12-23)](text-002.md) - Verbatim extracted text, pp. 12-23: Contents > III. KEY RECOMMENDATIONS BASED ON SUMMARY OF RESPONSES; Contents > IV. S UMMARY OF R ESPONSES TO THE AI RFI
+* [Treasury Releases Report on the Uses, Opportunities, and Risks of Artificial Intelligence in Financial Services - part 3 of 4 (pp. 23-32)](text-003.md) - Verbatim extracted text, pp. 23-32: Contents > IV. S UMMARY OF R ESPONSES TO THE AI RFI; Contents > V. P OLICY C ONSIDERATIONS
+* [Treasury Releases Report on the Uses, Opportunities, and Risks of Artificial Intelligence in Financial Services - part 4 of 4 (pp. 32-36)](text-004.md) - Verbatim extracted text, pp. 32-36: Contents > VI. P OTENTIAL N EXT S TEPS; Contents > VII.A PPENDIX : A BBREVIATIONS

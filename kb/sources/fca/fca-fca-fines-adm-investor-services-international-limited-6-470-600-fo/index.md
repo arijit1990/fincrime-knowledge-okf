@@ -1,0 +1,9 @@
+# Parts
+
+* [FCA fines ADM Investor Services International Limited £6,470,600 for serious financial crime control failings](overview.md) - Enforcement notice by Financial Conduct Authority (2023-09-29); UK; supervisory expectation; status current.
+* [FCA fines ADM Investor Services International Limited £6,470,600 for serious financial crime control failings - part 1 of 6 (pp. 1-8)](text-001.md) - Verbatim extracted text, pp. 1-8: FINAL NOTICE; 2. SUMMARY OF REASONS; 3. DEFINITIONS; and 1 more sections
+* [FCA fines ADM Investor Services International Limited £6,470,600 for serious financial crime control failings - part 2 of 6 (pp. 8-15)](text-002.md) - Verbatim extracted text, pp. 8-15: ADMISI; _2014 Internal Audit_; Deficiencies in ADMISI’s AML systems and controls; and 1 more sections
+* [FCA fines ADM Investor Services International Limited £6,470,600 for serious financial crime control failings - part 3 of 6 (pp. 15-26)](text-003.md) - Verbatim extracted text, pp. 15-26: _PEPs_; _ADMISI’s Compliance Manual_
+* [FCA fines ADM Investor Services International Limited £6,470,600 for serious financial crime control failings - part 4 of 6 (pp. 26-32)](text-004.md) - Verbatim extracted text, pp. 26-32: _PEPs_; 5. FAILINGS; Financial penalty – breach of Principle 3
+* [FCA fines ADM Investor Services International Limited £6,470,600 for serious financial crime control failings - part 5 of 6 (pp. 32-41)](text-005.md) - Verbatim extracted text, pp. 32-41: _Step 1: disgorgement_; _DEPP 6.5A.3G(2)_; Penalty; and 7 more sections
+* [FCA fines ADM Investor Services International Limited £6,470,600 for serious financial crime control failings - part 6 of 6 (pp. 41-50)](text-006.md) - Verbatim extracted text, pp. 41-50: The seriousness assessment; the Authority does not consider that the seriousness level percentage should be adjusted downwards on the grounds of proportionality.

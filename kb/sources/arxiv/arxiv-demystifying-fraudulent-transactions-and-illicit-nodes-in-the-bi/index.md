@@ -1,0 +1,7 @@
+# Parts
+
+* [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics](overview.md) - Preprint by arXiv (2023-05-25); GLOBAL_ACADEMIC; academic finding; status unknown.
+* [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics - part 1 of 4 (pp. 1-5)](text-001.md) - Verbatim extracted text, pp. 1-5: ABSTRACT; CCS CONCEPTS; KEYWORDS; and 1 more sections
+* [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics - part 2 of 4 (pp. 5-8)](text-002.md) - Verbatim extracted text, pp. 5-8: 3 THE ELLIPTIC++ DATASET; USER 5; 500 ADDRINTERACTION {TOTAL}
+* [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics - part 3 of 4 (pp. 8-11)](text-003.md) - Verbatim extracted text, pp. 8-11: Addresses per User: Max 14, 885; Addresses per User: Max 14, 885 > LSTMEC 0.665 0.350 0.459 0.946; Addresses per User: Max 14, 885 > RF+MLP+XGBAR 0.933 0.572 0.709 0.983; and 7 more sections
+* [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics - part 4 of 4 (pp. 11-16)](text-004.md) - Verbatim extracted text, pp. 11-16: Addresses per User: Max 14, 885 > REFERENCES; Addresses per User: Max 14, 885 > OUR BLOCKCHAIN TRANSACTION PARSER AND EXTRACTOR; Addresses per User: Max 14, 885 > OUR BLOCKCHAIN ADDRESS PARSER AND EXTRACTOR; and 6 more sections

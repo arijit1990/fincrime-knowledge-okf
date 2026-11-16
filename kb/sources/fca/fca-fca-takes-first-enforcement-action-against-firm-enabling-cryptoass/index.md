@@ -1,0 +1,9 @@
+# Parts
+
+* [FCA takes first enforcement action against firm enabling cryptoasset trading](overview.md) - Enforcement notice by Financial Conduct Authority (2024-07-25); UK; supervisory expectation; status current.
+* [FCA takes first enforcement action against firm enabling cryptoasset trading - part 1 of 6 (pp. 1-9)](text-001.md) - Verbatim extracted text, pp. 1-9: To: CB Payments Ltd; 2. SUMMARY OF REASONS; The Firm
+* [FCA takes first enforcement action against firm enabling cryptoasset trading - part 2 of 6 (pp. 9-16)](text-002.md) - Verbatim extracted text, pp. 9-16: Financial Crime Risks in the E-money and Cryptoasset Sectors; Concerns raised in 2020 about CBPL’s Financial Crime Framework; Voluntary Application for Requirements (VREQ); and 5 more sections
+* [FCA takes first enforcement action against firm enabling cryptoasset trading - part 3 of 6 (pp. 16-23)](text-003.md) - Verbatim extracted text, pp. 16-23: Implementation Issues (First Breach Notification); Monitoring of the VREQ Controls Pre-December 2022; The Second Breach Notification; and 2 more sections
+* [FCA takes first enforcement action against firm enabling cryptoasset trading - part 4 of 6 (pp. 23-30)](text-004.md) - Verbatim extracted text, pp. 23-30: Further Breaches (Breach Notifications Three to Six); _Fifth breach notification_; _Sixth breach notification_; and 5 more sections
+* [FCA takes first enforcement action against firm enabling cryptoasset trading - part 5 of 6 (pp. 30-37)](text-005.md) - Verbatim extracted text, pp. 30-37: Step 1: Disgorgement; Step 2: Seriousness of the Breach; Step 3: Mitigating and Aggravating Factors; and 4 more sections
+* [FCA takes first enforcement action against firm enabling cryptoasset trading - part 6 of 6 (pp. 37-39)](text-006.md) - Verbatim extracted text, pp. 37-39: Publicity; RELEVANT STATUTORY PROVISIONS; RELEVANT REGULATORY PROVISIONS; and 1 more sections

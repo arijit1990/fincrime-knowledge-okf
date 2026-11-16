@@ -1,0 +1,11 @@
+# Parts
+
+* [FCA fines HSBC Bank plc £63.9 million for deficient transaction monitoring controls](overview.md) - Enforcement notice by Financial Conduct Authority (2021-12-16); UK; supervisory expectation; status current.
+* [FCA fines HSBC Bank plc £63.9 million for deficient transaction monitoring controls - part 1 of 8 (pp. 1-10)](text-001.md) - Verbatim extracted text, pp. 1-10: DECISION NOTICE
+* [FCA fines HSBC Bank plc £63.9 million for deficient transaction monitoring controls - part 2 of 8 (pp. 11-17)](text-002.md) - Verbatim extracted text, pp. 11-17: Structure and customer base; Money Laundering Regulations 2007; JMLSG guidance; and 1 more sections
+* [FCA fines HSBC Bank plc £63.9 million for deficient transaction monitoring controls - part 3 of 8 (pp. 17-23)](text-003.md) - Verbatim extracted text, pp. 17-23: Deficiencies in HSBC’s transaction monitoring components; Scenario coverage; _Customer examples_; and 5 more sections
+* [FCA fines HSBC Bank plc £63.9 million for deficient transaction monitoring controls - part 4 of 8 (pp. 23-30)](text-004.md) - Verbatim extracted text, pp. 23-30: Parameters; Thresholds; Post 2016 – CAMP; and 1 more sections
+* [FCA fines HSBC Bank plc £63.9 million for deficient transaction monitoring controls - part 5 of 8 (pp. 30-35)](text-005.md) - Verbatim extracted text, pp. 30-35: Data; Data changes in 2016; Data Reconciliation- post 2016; and 2 more sections
+* [FCA fines HSBC Bank plc £63.9 million for deficient transaction monitoring controls - part 6 of 8 (pp. 36-42)](text-006.md) - Verbatim extracted text, pp. 36-42: _List of correspondent banking relationships_; _Transaction mapping_; _Data quality assessment_; and 2 more sections
+* [FCA fines HSBC Bank plc £63.9 million for deficient transaction monitoring controls - part 7 of 8 (pp. 42-49)](text-007.md) - Verbatim extracted text, pp. 42-49: Step 1 – disgorgement; Step 2 – the seriousness of the breach; Step 3 – mitigating and aggravating factors.; and 1 more sections
+* [FCA fines HSBC Bank plc £63.9 million for deficient transaction monitoring controls - part 8 of 8 (pp. 49-57)](text-008.md) - Verbatim extracted text, pp. 49-57: Step 5 – penalty discount.; 7. PROCEDURAL MATTERS; The Tribunal; and 9 more sections

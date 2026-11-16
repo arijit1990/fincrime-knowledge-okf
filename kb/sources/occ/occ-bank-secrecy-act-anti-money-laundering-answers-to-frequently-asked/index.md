@@ -1,0 +1,4 @@
+# Parts
+
+* [Bank Secrecy Act/Anti-Money Laundering: Answers to Frequently Asked Questions Regarding Suspicious Activity Reporting and Other AML Considerations](overview.md) - Guidance by Office of the Comptroller of the Currency (2021-01-21); US; regulatory expectation; status current.
+* [Bank Secrecy Act/Anti-Money Laundering: Answers to Frequently Asked Questions Regarding Suspicious Activity Reporting and Other AML Considerations - part 1 of 1 (pp. 1-5)](text-001.md) - Verbatim extracted text, pp. 1-5: January 19, 2021 > _Question 1: Requests by Law Enforcement for Financial Institutions to Maintain Accounts_; January 19, 2021 > _Question 2: Receipt of Grand Jury Subpoenas/Law Enforcement Inquiries and SAR Filing_; January 19, 2021 > Is a financial institution required to terminate a customer relationship following the filing of a SAR or multiple SARs?; and 4 more sections

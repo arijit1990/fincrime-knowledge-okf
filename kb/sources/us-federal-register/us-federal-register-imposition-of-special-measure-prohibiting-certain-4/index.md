@@ -1,0 +1,6 @@
+# Parts
+
+* [Imposition of Special Measure Prohibiting Certain Transmittals of Funds Involving Intercam Banco S.A., Institución de Banca Multiple](overview.md) - Regulation rule by Federal Register (2025-06-30); US; legal requirement; status current.
+* [Imposition of Special Measure Prohibiting Certain Transmittals of Funds Involving Intercam Banco S.A., Institución de Banca Multiple - part 1 of 3 (pp. 1-4)](text-001.md) - Verbatim extracted text, pp. 1-4: 31 CFR Chapter X, Part 1010; I. Summary of Order; _A. Statutory Provisions_; and 1 more sections
+* [Imposition of Special Measure Prohibiting Certain Transmittals of Funds Involving Intercam Banco S.A., Institución de Banca Multiple - part 2 of 3 (pp. 4-7)](text-002.md) - Verbatim extracted text, pp. 4-7: _B. Illicit Opioid Trafficking_; IV. Imposition of a Special Measure Prohibiting Certain Transmittals of Funds Involving Intercam
+* [Imposition of Special Measure Prohibiting Certain Transmittals of Funds Involving Intercam Banco S.A., Institución de Banca Multiple - part 3 of 3 (p. 7)](text-003.md) - Verbatim extracted text, p. 7: _D. Whether the Special Measure_; _A. Definitions_; 2. Covered Financial Institution; and 3 more sections

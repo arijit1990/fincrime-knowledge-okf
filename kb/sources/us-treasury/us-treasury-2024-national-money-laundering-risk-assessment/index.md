@@ -1,0 +1,18 @@
+# Parts
+
+* [2024 National Money Laundering Risk Assessment](overview.md) - Risk assessment by US Department of the Treasury (2024-02); US; empirical observation; status current.
+* [2024 National Money Laundering Risk Assessment - part 1 of 15 (pp. 1-12)](text-001.md) - Verbatim extracted text, pp. 1-12: 2024 National Money Laundering Risk Assessment; 2024 National Money Laundering Risk Assessment > National Money Laundering Risk Assessment (NMLRA)
+* [2024 National Money Laundering Risk Assessment - part 2 of 15 (pp. 12-18)](text-002.md) - Verbatim extracted text, pp. 12-18: 2024 National Money Laundering Risk Assessment > National Money Laundering Risk Assessment (NMLRA)
+* [2024 National Money Laundering Risk Assessment - part 3 of 15 (pp. 18-24)](text-003.md) - Verbatim extracted text, pp. 18-24: 2024 National Money Laundering Risk Assessment > National Money Laundering Risk Assessment (NMLRA)
+* [2024 National Money Laundering Risk Assessment - part 4 of 15 (pp. 24-31)](text-004.md) - Verbatim extracted text, pp. 24-31: 2024 National Money Laundering Risk Assessment > National Money Laundering Risk Assessment (NMLRA)
+* [2024 National Money Laundering Risk Assessment - part 5 of 15 (pp. 31-37)](text-005.md) - Verbatim extracted text, pp. 31-37: 2024 National Money Laundering Risk Assessment > National Money Laundering Risk Assessment (NMLRA)
+* [2024 National Money Laundering Risk Assessment - part 6 of 15 (pp. 37-44)](text-006.md) - Verbatim extracted text, pp. 37-44: 2024 National Money Laundering Risk Assessment > National Money Laundering Risk Assessment (NMLRA)
+* [2024 National Money Laundering Risk Assessment - part 7 of 15 (pp. 44-51)](text-007.md) - Verbatim extracted text, pp. 44-51: 2024 National Money Laundering Risk Assessment > National Money Laundering Risk Assessment (NMLRA)
+* [2024 National Money Laundering Risk Assessment - part 8 of 15 (pp. 51-58)](text-008.md) - Verbatim extracted text, pp. 51-58: 2024 National Money Laundering Risk Assessment > National Money Laundering Risk Assessment (NMLRA)
+* [2024 National Money Laundering Risk Assessment - part 9 of 15 (pp. 58-64)](text-009.md) - Verbatim extracted text, pp. 58-64: 2024 National Money Laundering Risk Assessment > National Money Laundering Risk Assessment (NMLRA)
+* [2024 National Money Laundering Risk Assessment - part 10 of 15 (pp. 64-71)](text-010.md) - Verbatim extracted text, pp. 64-71: 2024 National Money Laundering Risk Assessment > National Money Laundering Risk Assessment (NMLRA)
+* [2024 National Money Laundering Risk Assessment - part 11 of 15 (pp. 71-77)](text-011.md) - Verbatim extracted text, pp. 71-77: 2024 National Money Laundering Risk Assessment > National Money Laundering Risk Assessment (NMLRA)
+* [2024 National Money Laundering Risk Assessment - part 12 of 15 (pp. 78-84)](text-012.md) - Verbatim extracted text, pp. 78-84: 2024 National Money Laundering Risk Assessment > National Money Laundering Risk Assessment (NMLRA)
+* [2024 National Money Laundering Risk Assessment - part 13 of 15 (pp. 84-91)](text-013.md) - Verbatim extracted text, pp. 84-91: 2024 National Money Laundering Risk Assessment > National Money Laundering Risk Assessment (NMLRA)
+* [2024 National Money Laundering Risk Assessment - part 14 of 15 (pp. 91-97)](text-014.md) - Verbatim extracted text, pp. 91-97: 2024 National Money Laundering Risk Assessment > National Money Laundering Risk Assessment (NMLRA)
+* [2024 National Money Laundering Risk Assessment - part 15 of 15 (pp. 97-107)](text-015.md) - Verbatim extracted text, pp. 97-107: 2024 National Money Laundering Risk Assessment > National Money Laundering Risk Assessment (NMLRA)

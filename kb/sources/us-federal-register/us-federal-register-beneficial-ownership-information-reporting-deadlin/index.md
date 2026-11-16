@@ -1,0 +1,5 @@
+# Parts
+
+* [Beneficial Ownership Information Reporting Deadline Extension for Reporting Companies Created or Registered in 2024](overview.md) - Regulation rule by Federal Register (2023-11-30); US; legal requirement; status current.
+* [Beneficial Ownership Information Reporting Deadline Extension for Reporting Companies Created or Registered in 2024 - part 1 of 2 (pp. 1-4)](text-001.md) - Verbatim extracted text, pp. 1-4: REGULATORY REVIEW—UPDATED TEN-YEAR SCHEDULE—Continued; REGULATORY REVIEW—UPDATED TEN-YEAR SCHEDULE—Continued > ACTION: Final rule.; REGULATORY REVIEW—UPDATED TEN-YEAR SCHEDULE—Continued > I. Introduction; and 2 more sections
+* [Beneficial Ownership Information Reporting Deadline Extension for Reporting Companies Created or Registered in 2024 - part 2 of 2 (pp. 4-6)](text-002.md) - Verbatim extracted text, pp. 4-6: REGULATORY REVIEW—UPDATED TEN-YEAR SCHEDULE—Continued > III. Discussion of Comments Received; REGULATORY REVIEW—UPDATED TEN-YEAR SCHEDULE—Continued > IV. Regulatory Analysis; REGULATORY REVIEW—UPDATED TEN-YEAR SCHEDULE—Continued > V. Effective Date; and 3 more sections

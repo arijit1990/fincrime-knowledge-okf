@@ -1,0 +1,9 @@
+# Contents
+
+* [Artificial intelligence and machine learning in financial services](fsb-artificial-intelligence-and-machine-learning-in-financial-services/) - Risk assessment by Financial Stability Board (2017-11-01); INTL; international standard; status current.
+* [FSB Correspondent Banking Data Report](fsb-fsb-correspondent-banking-data-report/) - Annual report by Financial Stability Board (2017-07-04); INTL; international standard; status current.
+* [FSB publishes updates on work to assess and address correspondent banking declines](fsb-fsb-publishes-updates-on-work-to-assess-and-address-correspondent/) - Other by Financial Stability Board (2019-05-29); INTL; international standard; status current.
+* [High-level Recommendations for the Regulation, Supervision and Oversight of Crypto-asset Activities and Markets: Final report](fsb-high-level-recommendations-for-the-regulation-supervision-and-over/) - Standard by Financial Stability Board (2023-07-17); INTL; international standard; status current.
+* [Recommendations to Promote Alignment and Interoperability Across Data Frameworks Related to Cross-border Payments: Final report](fsb-recommendations-to-promote-alignment-and-interoperability-across-d/) - Standard by Financial Stability Board (2024-12-12); INTL; international standard; status current.
+* [Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Consultation report](fsb-sound-practices-for-responsible-adoption-of-artificial-intelligenc/) - Consultation by Financial Stability Board (2026-06-10); INTL; hypothesis; status consultation.
+* [The Financial Stability Implications of Artificial Intelligence](fsb-the-financial-stability-implications-of-artificial-intelligence/) - Risk assessment by Financial Stability Board (2024-11-14); INTL; international standard; status current.

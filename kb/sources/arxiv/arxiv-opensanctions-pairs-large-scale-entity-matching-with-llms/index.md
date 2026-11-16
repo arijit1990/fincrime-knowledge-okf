@@ -1,0 +1,6 @@
+# Parts
+
+* [OpenSanctions Pairs: Large-Scale Entity Matching with LLMs](overview.md) - Preprint by arXiv (2026-02-24); GLOBAL_ACADEMIC; academic finding; status unknown.
+* [OpenSanctions Pairs: Large-Scale Entity Matching with LLMs - part 1 of 3 (pp. 1-7)](text-001.md) - Verbatim extracted text, pp. 1-7: OpenSanctions Pairs: A Large-Scale Dataset for Pairwise Entity Matching; OpenSanctions Pairs: A Large-Scale Dataset for Pairwise Entity Matching > 1 Introduction; OpenSanctions Pairs: A Large-Scale Dataset for Pairwise Entity Matching > 2 Related work; and 3 more sections
+* [OpenSanctions Pairs: Large-Scale Entity Matching with LLMs - part 2 of 3 (pp. 7-12)](text-002.md) - Verbatim extracted text, pp. 7-12: OpenSanctions Pairs: A Large-Scale Dataset for Pairwise Entity Matching > 5 Experiments and analysis; OpenSanctions Pairs: A Large-Scale Dataset for Pairwise Entity Matching > 6 Limitations; OpenSanctions Pairs: A Large-Scale Dataset for Pairwise Entity Matching > 7 Conclusion; and 1 more sections
+* [OpenSanctions Pairs: Large-Scale Entity Matching with LLMs - part 3 of 3 (pp. 13-14)](text-003.md) - Verbatim extracted text, pp. 13-14: OpenSanctions Pairs: A Large-Scale Dataset for Pairwise Entity Matching > A Prompts

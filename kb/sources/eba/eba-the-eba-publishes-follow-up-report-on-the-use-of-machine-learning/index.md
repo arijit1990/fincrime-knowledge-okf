@@ -1,0 +1,6 @@
+# Parts
+
+* [The EBA publishes follow-up Report on the use of machine learning for internal ratings-based models](overview.md) - Guidance by European Banking Authority (2023-08-28); EU; regulatory expectation; status current.
+* [The EBA publishes follow-up Report on the use of machine learning for internal ratings-based models - part 1 of 3 (pp. 1-7)](text-001.md) - Verbatim extracted text, pp. 1-7: MACHINE LEARNING FOR IRB MODELS; 1. Executive Summary; 2. Introduction; and 1 more sections
+* [The EBA publishes follow-up Report on the use of machine learning for internal ratings-based models - part 2 of 3 (pp. 8-18)](text-002.md) - Verbatim extracted text, pp. 8-18: 4.Complexity of ML techniques; 4.Complexity of ML techniques > 4.1 Statistical Issues (Overfitting); 4.Complexity of ML techniques > 4.2 Human Skills; and 5 more sections
+* [The EBA publishes follow-up Report on the use of machine learning for internal ratings-based models - part 3 of 3 (pp. 18-24)](text-003.md) - Verbatim extracted text, pp. 18-24: 5. Interaction with (non-CRR) regulatory frameworks > 5.2 Interaction with AI Act; 6. Way forward; Annex I– Principle-based recommendations > Recommendations regarding the regulatory compliant use of ML techniques in the context of the IRB framework

@@ -1,0 +1,9 @@
+# Parts
+
+* [Anti-Money Laundering and Countering the Financing of Terrorism Programs](overview.md) - Consultation by Federal Register (2026-07-09); US; hypothesis; status consultation.
+* [Anti-Money Laundering and Countering the Financing of Terrorism Programs - part 1 of 6 (pp. 1-4)](text-001.md) - Verbatim extracted text, pp. 1-4: Proposed Rules > Anti-Money Laundering and Countering the Financing of Terrorism Programs; Proposed Rules > FOR FURTHER INFORMATION CONTACT: Lara; Proposed Rules > I. Scope; and 2 more sections
+* [Anti-Money Laundering and Countering the Financing of Terrorism Programs - part 2 of 6 (pp. 4-8)](text-002.md) - Verbatim extracted text, pp. 4-8: Proposed Rules > III. Overview of the Proposed Rule; Proposed Rules > _A. Proposed Rule_; Proposed Rules > IV. Section-by-Section Analysis; and 4 more sections
+* [Anti-Money Laundering and Countering the Financing of Terrorism Programs - part 3 of 6 (pp. 8-12)](text-003.md) - Verbatim extracted text, pp. 8-12: Proposed Rules > i. Risk Assessment Processes; Proposed Rules > a. ML/TF Risks; Proposed Rules > b. AML/CFT Priorities; and 1 more sections
+* [Anti-Money Laundering and Countering the Financing of Terrorism Programs - part 4 of 6 (pp. 12-16)](text-004.md) - Verbatim extracted text, pp. 12-16: Proposed Rules > 2. Independent Testing; Proposed Rules > _F. Customer Identification Program_; Proposed Rules > 1. Definitions; and 9 more sections
+* [Anti-Money Laundering and Countering the Financing of Terrorism Programs - part 5 of 6 (pp. 16-20)](text-005.md) - Verbatim extracted text, pp. 16-20: Proposed Rules > 2. Ongoing Costs to Banks; Proposed Rules > VIII. Alternatives Considered; Proposed Rules > IX. Administrative Law Matters; and 5 more sections
+* [Anti-Money Laundering and Countering the Financing of Terrorism Programs - part 6 of 6 (p. 20)](text-006.md) - Verbatim extracted text, p. 20: Proposed Rules > 12 CFR Parts 1024 and 1026 [Docket No. CFPB–2026–0018]

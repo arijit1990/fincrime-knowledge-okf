@@ -1,0 +1,7 @@
+# Parts
+
+* [Privacy Technologies for Financial Intelligence](overview.md) - Preprint by arXiv (2024-08-19); GLOBAL_ACADEMIC; academic finding; status unknown.
+* [Privacy Technologies for Financial Intelligence - part 1 of 4 (pp. 1-16)](text-001.md) - Verbatim extracted text, pp. 1-16: Privacy Technologies for Financial Intelligence; Privacy Technologies for Financial Intelligence > Abstract; Privacy Technologies for Financial Intelligence > 1. Introduction; and 8 more sections
+* [Privacy Technologies for Financial Intelligence - part 2 of 4 (pp. 16-29)](text-002.md) - Verbatim extracted text, pp. 16-29: Privacy Technologies for Financial Intelligence > 4. Privacy-Preserving Information Sharing; Privacy Technologies for Financial Intelligence > _4.1. Suspicious Persons List_; Privacy Technologies for Financial Intelligence > _4.2. Transaction Flow Tracing and Typology Matching_; and 2 more sections
+* [Privacy Technologies for Financial Intelligence - part 3 of 4 (pp. 29-41)](text-003.md) - Verbatim extracted text, pp. 29-41: Privacy Technologies for Financial Intelligence > 5. Real-World Case Studies; Privacy Technologies for Financial Intelligence > 6. Discussion; Privacy Technologies for Financial Intelligence > 7. Conclusion; and 1 more sections
+* [Privacy Technologies for Financial Intelligence - part 4 of 4 (pp. 41-42)](text-004.md) - Verbatim extracted text, pp. 41-42: Privacy Technologies for Financial Intelligence > References

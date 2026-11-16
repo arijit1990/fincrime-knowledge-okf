@@ -1,0 +1,78 @@
+---
+type: Organisation
+title: arXiv
+description: 'arXiv: 56 sources (tier 3, academic).'
+tags:
+- global_academic
+issuer_id: arxiv
+tier: 3
+generated:
+  by: process:fincrime-kb-build
+  at: '2026-11-16T16:23:02Z'
+---
+
+# arXiv
+
+Tier 3 (academic). Jurisdiction(s): GLOBAL_ACADEMIC. 56 sources in this bundle.
+
+
+### Academic finding
+
+_Peer-reviewed or preprint research finding_
+
+* [KONTOGRAPH: Verified Point-in-Time Feature Consistency and Amortised Explanation for Real-Time Anti-Money Laundering under a 200 ms Decision Budget](../sources/arxiv/arxiv-kontograph-verified-point-in-time-feature-consistency-and-amorti/overview.md) - 2026-08-23, preprint, arXiv **[unknown]**
+* [Detection, Attribution, Narration: An End-to-End Pipeline for Explainable Money Mule Identification](../sources/arxiv/arxiv-detection-attribution-narration-an-end-to-end-pipeline-for-expla/overview.md) - 2026-07-20, preprint, arXiv **[unknown]**
+* [Clue-Guided Money Laundering Group Discovery](../sources/arxiv/arxiv-clue-guided-money-laundering-group-discovery/overview.md) - 2026-06-24, preprint, arXiv **[unknown]** _(digest)_
+* [Do Transaction-Level and Actor-Level AML Queues Agree? An Empirical Evaluation of Granularity Effects on the Elliptic++ Graph](../sources/arxiv/arxiv-do-transaction-level-and-actor-level-aml-queues-agree-an-empiric/overview.md) - 2026-04-26, preprint, arXiv **[unknown]** _(digest)_
+* [TransXion: A High-Fidelity Graph Benchmark for Realistic Anti-Money Laundering](../sources/arxiv/arxiv-transxion-a-high-fidelity-graph-benchmark-for-realistic-anti-mon/overview.md) - 2026-04-19, preprint, arXiv **[unknown]**
+* [Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks](../sources/arxiv/arxiv-explainable-aml-triage-with-llms-evidence-retrieval-and-counterf/overview.md) - 2026-03-22, preprint, arXiv **[unknown]**
+* [OpenSanctions Pairs: Large-Scale Entity Matching with LLMs](../sources/arxiv/arxiv-opensanctions-pairs-large-scale-entity-matching-with-llms/overview.md) - 2026-02-24, preprint, arXiv **[unknown]**
+* [Tide: A Customisable Dataset Generator for Anti-Money Laundering Research](../sources/arxiv/arxiv-tide-a-customisable-dataset-generator-for-anti-money-laundering/overview.md) - 2026-02-03, preprint, arXiv **[unknown]**
+* [An Agentic LLM Framework for Adverse Media Screening in AML Compliance](../sources/arxiv/arxiv-an-agentic-llm-framework-for-adverse-media-screening-in-aml-comp/overview.md) - 2025-12-29, preprint, arXiv **[unknown]**
+* [Explainable Fraud Detection with GNNExplainer and Shapley Values](../sources/arxiv/arxiv-explainable-fraud-detection-with-gnnexplainer-and-shapley-values/overview.md) - 2025-12-09, preprint, arXiv **[unknown]** _(digest)_
+* [Co-Investigator AI: The Rise of Agentic AI for Smarter, Trustworthy AML Compliance Narratives](../sources/arxiv/arxiv-co-investigator-ai-the-rise-of-agentic-ai-for-smarter-trustworth/overview.md) - 2025-10-09, preprint, arXiv **[unknown]**
+* [FraudTransformer: Time-Aware GPT for Transaction Fraud Detection](../sources/arxiv/arxiv-fraudtransformer-time-aware-gpt-for-transaction-fraud-detection/overview.md) - 2025-09-28, preprint, arXiv **[unknown]**
+* [Hybrid Data can Enhance the Utility of Synthetic Data for Training Anti-Money Laundering Models](../sources/arxiv/arxiv-hybrid-data-can-enhance-the-utility-of-synthetic-data-for-traini/overview.md) - 2025-09-23, preprint, arXiv **[unknown]**
+* [AMLNet: A Knowledge-Based Multi-Agent Framework to Generate and Detect Realistic Money Laundering Transactions](../sources/arxiv/arxiv-amlnet-a-knowledge-based-multi-agent-framework-to-generate-and-d/overview.md) - 2025-09-15, preprint, arXiv **[unknown]**
+* [Your Spending Needs Attention: Modeling Financial Habits with Transformers](../sources/arxiv/arxiv-your-spending-needs-attention-modeling-financial-habits-with-tra/overview.md) - 2025-07-31, preprint, arXiv **[unknown]**
+* [Exploring the In-Context Learning Capabilities of LLMs for Money Laundering Detection in Financial Graphs](../sources/arxiv/arxiv-exploring-the-in-context-learning-capabilities-of-llms-for-money/overview.md) - 2025-07-20, preprint, arXiv **[unknown]**
+* [Amatriciana: Exploiting Temporal GNNs for Robust and Efficient Money Laundering Detection](../sources/arxiv/arxiv-amatriciana-exploiting-temporal-gnns-for-robust-and-efficient-mo/overview.md) - 2025-05-31, preprint, arXiv **[unknown]**
+* [GARG-AML against Smurfing: A Scalable and Interpretable Graph-Based Framework for Anti-Money Laundering](../sources/arxiv/arxiv-garg-aml-against-smurfing-a-scalable-and-interpretable-graph-bas/overview.md) - 2025-04-06, preprint, arXiv **[unknown]**
+* [FRAUD-RLA: A new reinforcement learning adversarial attack against credit card fraud detection](../sources/arxiv/arxiv-fraud-rla-a-new-reinforcement-learning-adversarial-attack-agains/overview.md) - 2025-04-02, preprint, arXiv **[unknown]** _(digest)_
+* [TeMP-TraG: Edge-based Temporal Message Passing in Transaction Graphs](../sources/arxiv/arxiv-temp-trag-edge-based-temporal-message-passing-in-transaction-gra/overview.md) - 2025-03-21, preprint, arXiv **[unknown]** _(digest)_
+* [AMLgentex: Mobilizing Data-Driven Research to Combat Money Laundering](../sources/arxiv/arxiv-amlgentex-mobilizing-data-driven-research-to-combat-money-launde/overview.md) - 2025-03-06, preprint, arXiv **[unknown]**
+* [Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints](../sources/arxiv/arxiv-cost-sensitive-learning-to-defer-to-multiple-experts-with-worklo/overview.md) - 2024-11-03, preprint, arXiv **[unknown]** _(digest)_
+* [Privacy Technologies for Financial Intelligence](../sources/arxiv/arxiv-privacy-technologies-for-financial-intelligence/overview.md) - 2024-08-19, preprint, arXiv **[unknown]**
+* [Network Analytics for Anti-Money Laundering -- A Systematic Literature Review and Experimental Evaluation](../sources/arxiv/arxiv-network-analytics-for-anti-money-laundering-a-systematic-literat/overview.md) - 2024-05-29, preprint, arXiv **[unknown]**
+* [The Shape of Money Laundering: Subgraph Representation Learning on the Blockchain with the Elliptic2 Dataset](../sources/arxiv/arxiv-the-shape-of-money-laundering-subgraph-representation-learning-o/overview.md) - 2024-04-29, preprint, arXiv **[unknown]**
+* [A Customer Level Fraudulent Activity Detection Benchmark for Enhancing Machine Learning Model Research and Evaluation](../sources/arxiv/arxiv-a-customer-level-fraudulent-activity-detection-benchmark-for-enh/overview.md) - 2024-04-23, preprint, arXiv **[unknown]** _(digest)_
+* [Graph Feature Preprocessor: Real-time Subgraph-based Feature Extraction for Financial Crime Detection](../sources/arxiv/arxiv-graph-feature-preprocessor-real-time-subgraph-based-feature-extr/overview.md) - 2024-02-13, preprint, arXiv **[unknown]** _(digest)_
+* [BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis](../sources/arxiv/arxiv-babd-a-bitcoin-address-behavior-dataset-for-pattern-analysis/overview.md) - 2023-12-28, preprint, arXiv **[unknown]** _(digest)_
+* [FiFAR: A Fraud Detection Dataset for Learning to Defer](../sources/arxiv/arxiv-fifar-a-fraud-detection-dataset-for-learning-to-defer/overview.md) - 2023-12-20, preprint, arXiv **[unknown]** _(digest)_
+* [Topology-Agnostic Detection of Temporal Money Laundering Flows in Billion-Scale Transactions](../sources/arxiv/arxiv-topology-agnostic-detection-of-temporal-money-laundering-flows-i/overview.md) - 2023-09-24, preprint, arXiv **[unknown]** _(digest)_
+* [Provably Powerful Graph Neural Networks for Directed Multigraphs](../sources/arxiv/arxiv-provably-powerful-graph-neural-networks-for-directed-multigraphs/overview.md) - 2023-06-20, preprint, arXiv **[unknown]**
+* [Privacy-Preserving Financial Anomaly Detection via Federated Learning & Multi-Party Computation](../sources/arxiv/arxiv-privacy-preserving-financial-anomaly-detection-via-federated-lea/overview.md) - 2023-06-10, preprint, arXiv **[unknown]** _(digest)_
+* [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics](../sources/arxiv/arxiv-demystifying-fraudulent-transactions-and-illicit-nodes-in-the-bi/overview.md) - 2023-05-25, preprint, arXiv **[unknown]**
+* [Towards Improved Illicit Node Detection with Positive-Unlabelled Learning](../sources/arxiv/arxiv-towards-improved-illicit-node-detection-with-positive-unlabelled/overview.md) - 2023-04-03, preprint, arXiv **[unknown]** _(digest)_
+* [Adversarial Learning in Real-World Fraud Detection: Challenges and Perspectives](../sources/arxiv/arxiv-adversarial-learning-in-real-world-fraud-detection-challenges-an/overview.md) - 2023-03-07, preprint, arXiv **[unknown]** _(digest)_
+* [Catch Me If You Can: Semi-supervised Graph Learning for Spotting Money Laundering](../sources/arxiv/arxiv-catch-me-if-you-can-semi-supervised-graph-learning-for-spotting/overview.md) - 2023-02-23, preprint, arXiv **[unknown]** _(digest)_
+* [Turning the Tables: Biased, Imbalanced, Dynamic Tabular Datasets for ML Evaluation](../sources/arxiv/arxiv-turning-the-tables-biased-imbalanced-dynamic-tabular-datasets-fo/overview.md) - 2022-11-24, preprint, arXiv **[unknown]** _(digest)_
+* [Fighting Money Laundering with Statistics and Machine Learning](../sources/arxiv/arxiv-fighting-money-laundering-with-statistics-and-machine-learning/overview.md) - 2022-11-01, preprint, arXiv **[unknown]** _(digest)_
+* [LaundroGraph: Self-Supervised Graph Representation Learning for Anti-Money Laundering](../sources/arxiv/arxiv-laundrograph-self-supervised-graph-representation-learning-for-a/overview.md) - 2022-10-25, preprint, arXiv **[unknown]** _(digest)_
+* [Anti-Money Laundering Alert Optimization Using Machine Learning with Graphs](../sources/arxiv/arxiv-anti-money-laundering-alert-optimization-using-machine-learning/overview.md) - 2021-12-14, preprint, arXiv **[unknown]**
+* [GuiltyWalker: Distance to illicit nodes in the Bitcoin network](../sources/arxiv/arxiv-guiltywalker-distance-to-illicit-nodes-in-the-bitcoin-network/overview.md) - 2021-10-02, preprint, arXiv **[unknown]**
+* [Machine Learning for Fraud Detection in E-Commerce: A Research Agenda](../sources/arxiv/arxiv-machine-learning-for-fraud-detection-in-e-commerce-a-research-ag/overview.md) - 2021-05-07, preprint, arXiv **[unknown]** _(digest)_
+* [Precision–recall curve (PRC) classification trees](../sources/arxiv/arxiv-precision-recall-curve-prc-classification-trees/overview.md) - 2021-04-13, preprint, arXiv **[unknown]** _(digest)_
+* [CubeFlow: Money Laundering Detection with Coupled Tensors](../sources/arxiv/arxiv-cubeflow-money-laundering-detection-with-coupled-tensors/overview.md) - 2021-03-23, preprint, arXiv **[unknown]** _(digest)_
+* [Financial Crime & Fraud Detection Using Graph Computing: Application Considerations & Outlook](../sources/arxiv/arxiv-financial-crime-fraud-detection-using-graph-computing-applicatio/overview.md) - 2021-02-03, preprint, arXiv **[unknown]** _(digest)_
+* [Detecting Mixing Services via Mining Bitcoin Transaction Network With Hybrid Motifs](../sources/arxiv/arxiv-detecting-mixing-services-via-mining-bitcoin-transaction-network/overview.md) - 2021-01-21, preprint, arXiv **[unknown]** _(digest)_
+* [Adversarial Attacks for Tabular Data: Application to Fraud Detection and Imbalanced Data](../sources/arxiv/arxiv-adversarial-attacks-for-tabular-data-application-to-fraud-detect/overview.md) - 2021-01-20, preprint, arXiv **[unknown]**
+* [Machine learning methods to detect money laundering in the Bitcoin blockchain in the presence of label scarcity](../sources/arxiv/arxiv-machine-learning-methods-to-detect-money-laundering-in-the-bitco/overview.md) - 2020-05-29, preprint, arXiv **[unknown]** _(digest)_
+* [Tabular Transformers for Modeling Multivariate Time Series](../sources/arxiv/arxiv-tabular-transformers-for-modeling-multivariate-time-series/overview.md) - 2020-03-11, preprint, arXiv **[unknown]** _(digest)_
+* [Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics](../sources/arxiv/arxiv-anti-money-laundering-in-bitcoin-experimenting-with-graph-convol/overview.md) - 2019-07-31, preprint, arXiv **[unknown]** _(digest)_
+* [Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics](../sources/arxiv/arxiv-anti-money-laundering-in-bitcoin-experimenting-with-graph-convol-2/overview.md) - 2019-07-31, preprint, arXiv **[unknown]** _(digest)_
+* [Towards automated feature engineering for credit card fraud detection using multi-perspective HMMs](../sources/arxiv/arxiv-towards-automated-feature-engineering-for-credit-card-fraud-dete/overview.md) - 2019-03-09, preprint, arXiv **[unknown]** _(digest)_
+* [Scalable Graph Learning for Anti-Money Laundering: A First Look](../sources/arxiv/arxiv-scalable-graph-learning-for-anti-money-laundering-a-first-look/overview.md) - 2018-11-30, preprint, arXiv **[unknown]** _(digest)_
+* [Adaptive Fraud Detection System Using Dynamic Risk Features](../sources/arxiv/arxiv-adaptive-fraud-detection-system-using-dynamic-risk-features/overview.md) - 2018-10-10, preprint, arXiv **[unknown]** _(digest)_
+* [Using social network analysis to prevent money laundering](../sources/arxiv/arxiv-using-social-network-analysis-to-prevent-money-laundering/overview.md) - 2016-09-20, preprint, arXiv **[unknown]** _(digest)_
+* [A Survey of Predictive Modelling under Imbalanced Distributions](../sources/arxiv/arxiv-a-survey-of-predictive-modelling-under-imbalanced-distributions/overview.md) - 2015-05-07, preprint, arXiv **[unknown]** _(digest)_

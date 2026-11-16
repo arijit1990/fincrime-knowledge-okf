@@ -1,0 +1,5 @@
+# Parts
+
+* [Advisory on Ransomware and the Use of the Financial System to Facilitate Ransom Payments](overview.md) - Advisory alert by FinCEN (2021-11-08); US; regulatory expectation; status current.
+* [Advisory on Ransomware and the Use of the Financial System to Facilitate Ransom Payments - part 1 of 2 (pp. 1-9)](text-001.md) - Verbatim extracted text, pp. 1-9: Advisory on Ransomware and the Use of the Financial System to Facilitate Ransom Payments > Introduction; Advisory on Ransomware and the Use of the Financial System to Facilitate Ransom Payments > The Role of Financial Intermediaries in Facilitating Ransomware Payments; Advisory on Ransomware and the Use of the Financial System to Facilitate Ransom Payments > Trends and Typologies of Ransomware and Associated Payments; and 2 more sections
+* [Advisory on Ransomware and the Use of the Financial System to Facilitate Ransom Payments - part 2 of 2 (pp. 9-11)](text-002.md) - Verbatim extracted text, pp. 9-11: Advisory on Ransomware and the Use of the Financial System to Facilitate Ransom Payments > Financial Red Flag Indicators of Ransomware and Associated Payments

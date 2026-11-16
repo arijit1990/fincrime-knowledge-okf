@@ -1,0 +1,4 @@
+# Parts
+
+* [At Summit for Democracy, the United Kingdom and the United States Announce Winners of Challenge to Drive Innovation in Privacy-Enhancing Technologies that Reinforce Democratic Values](overview.md) - Other by UK Government (other department) (2023-03-31); UK; expert interpretation; status current.
+* [At Summit for Democracy, the United Kingdom and the United States Announce Winners of Challenge to Drive Innovation in Privacy-Enhancing Technologies that Reinforce Democratic Values - part 1 of 1 (p. 1)](text-001.md) - Verbatim extracted text, p. 1: At Summit for Democracy, the United Kingdom and the United States Announce Winners of Challenge to Drive Innovation in Privacy-Enhancing Technologies ; At Summit for Democracy, the United Kingdom and the United States Announce Winners of Challenge to Drive Innovation in Privacy-Enhancing Technologies  > Notes to editors

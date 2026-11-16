@@ -1,0 +1,5 @@
+# Parts
+
+* [31 CFR Part 1022 - Rules for Money Services Businesses](overview.md) - Regulation rule by GovInfo (US GPO) (2025-07-01); US; legal requirement; status current.
+* [31 CFR Part 1022 - Rules for Money Services Businesses - part 1 of 2 (pp. 1-8)](text-001.md) - Verbatim extracted text, pp. 1-8: § 1021.640 [Reserved]; PART 1022—RULES FOR MONEY SERVICES BUSINESSES > Subpart E—Special Information Sharing Procedures To Deter Money Laundering and Terrorist Activity; PART 1022—RULES FOR MONEY SERVICES BUSINESSES > Subpart D—Records Required To Be Maintained By Money Services Businesses; and 5 more sections
+* [31 CFR Part 1022 - Rules for Money Services Businesses - part 2 of 2 (pp. 8-10)](text-002.md) - Verbatim extracted text, pp. 8-10: Subpart C—Reports Required To Be Made By Money Services Businesses > § 1022.380 Registration of money services businesses.; Subpart D—Records Required To Be Maintained By Money Services Businesses > § 1022.400 General.; Subpart D—Records Required To Be Maintained By Money Services Businesses > § 1022.410 Additional records to be made and retained by dealers in foreign exchange.; and 3 more sections

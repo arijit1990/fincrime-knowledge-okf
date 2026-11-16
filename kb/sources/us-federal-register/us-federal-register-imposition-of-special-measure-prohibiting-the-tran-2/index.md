@@ -1,0 +1,7 @@
+# Parts
+
+* [Imposition of Special Measure Prohibiting the Transmittal of Funds Involving Bitzlato](overview.md) - Regulation rule by Federal Register (2023-01-23); US; legal requirement; status current.
+* [Imposition of Special Measure Prohibiting the Transmittal of Funds Involving Bitzlato - part 1 of 4 (pp. 1-3)](text-001.md) - Verbatim extracted text, pp. 1-3: Statement of Policy; Statement of Policy > C. Salvatore D’Alessio, Jr.,; Imposition of Special Measure Prohibiting the Transmittal of Funds Involving Bitzlato; and 3 more sections
+* [Imposition of Special Measure Prohibiting the Transmittal of Funds Involving Bitzlato - part 2 of 4 (pp. 3-6)](text-002.md) - Verbatim extracted text, pp. 3-6: 1. Background on Ransomware; 2. Bitzlato’s Ransomware Connections; a. Conti Ransomware Group; and 1 more sections
+* [Imposition of Special Measure Prohibiting the Transmittal of Funds Involving Bitzlato - part 3 of 4 (pp. 6-8)](text-003.md) - Verbatim extracted text, pp. 6-8: V. Considerations in Selecting the Special Measure Prohibiting Transmittals of Funds; VI. Consideration of Alternative Special Measures; VII. Consideration for Imposing the Special Measure Prohibiting Certain Transmittals of Funds by Order; and 5 more sections
+* [Imposition of Special Measure Prohibiting the Transmittal of Funds Involving Bitzlato - part 4 of 4 (p. 8)](text-004.md) - Verbatim extracted text, p. 8: _G. Validity of Order_; Safety Zone; Charleston Harbor, Charleston, SC

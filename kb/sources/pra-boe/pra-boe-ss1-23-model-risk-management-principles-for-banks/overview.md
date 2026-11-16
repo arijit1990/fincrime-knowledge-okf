@@ -1,0 +1,90 @@
+---
+type: Source Document
+title: SS1/23 – Model risk management principles for banks
+description: Supervisory statement by Prudential Regulation Authority / Bank of England (2026-10-01); UK; supervisory expectation; status current.
+resource: https://www.bankofengland.co.uk/prudential-regulation/publication/2023/may/model-risk-management-principles-for-banks-ss
+tags:
+- data_governance
+- explainability
+- model_governance
+- model_monitoring
+- model_validation
+- supervisory_expectation
+- supervisory_statement
+- uk
+status: draft
+source_id: pra-boe-ss1-23-model-risk-management-principles-for-banks
+issuer: pra_boe
+issuer_name: Prudential Regulation Authority / Bank of England
+jurisdictions:
+- UK
+tier: 1
+instrument_type: supervisory_statement
+normative_force: supervisory_expectation
+publication_date: '2026-10-01'
+legal_status: current
+tier_label: law / regulator
+domains:
+- model_governance
+- model_validation
+- model_monitoring
+- explainability
+- data_governance
+effective_date: unknown
+last_updated_date: unknown
+superseded_by: null
+content_mode: digest
+licence: BoE terms
+licence_basis: Reproduction not permitted for commercial/internal use (BoE terms)
+parts_total: 3
+pages: pp. 1-31
+extracted_tokens: 11372
+text_quality_warnings: []
+source_selection: human_verified
+generated:
+  by: process:fincrime-kb-build
+  at: '2026-11-16T16:23:02Z'
+sources:
+- id: original
+  resource: https://www.bankofengland.co.uk/prudential-regulation/publication/2023/may/model-risk-management-principles-for-banks-ss
+  title: SS1/23 – Model risk management principles for banks
+  author: org:pra_boe
+  last_modified: '2026-10-01T00:00:00Z'
+download_url: https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2026/liaf0126app5.pdf
+digest_points: 0
+digest_pending_parts: 3
+---
+
+# SS1/23 – Model risk management principles for banks
+
+| Field | Value |
+|---|---|
+| Issuer | [Prudential Regulation Authority / Bank of England](../../../issuers/pra-boe.md) (tier 1: law / regulator) |
+| Jurisdiction(s) | [UK](../../../jurisdictions/uk.md) |
+| Instrument type | supervisory statement |
+| Normative force | **supervisory expectation**: Supervisory statements, letters, findings, enforcement outcomes |
+| Published | 2026-10-01 |
+| Effective | unknown |
+| Last updated | unknown |
+| Legal/document status | **current** |
+| Original | <https://www.bankofengland.co.uk/prudential-regulation/publication/2023/may/model-risk-management-principles-for-banks-ss> |
+| Content in this bundle | verified digest (licence does not permit reproduction), 3 part(s), pp. 1-31 |
+| Licence | BoE terms (Reproduction not permitted for commercial/internal use (BoE terms)) |
+| Topics | [model governance](../../../topics/model-governance.md), [model validation](../../../topics/model-validation.md), [model monitoring](../../../topics/model-monitoring.md), [explainability](../../../topics/explainability.md), [data governance](../../../topics/data-governance.md) |
+
+> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+
+## Curator note
+
+> Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
+
+UK's core MRM standard (identification/tiering, governance, development, independent validation, mitigants) with explicit AI/ML expectations; page shows a current version dated 23 April 2026 (original 2023 PDF: .../supervisory-statement/2023/ss123.pdf).
+
+## Contents
+
+| Part | Pages | Sections |
+|---|---|---|
+
+## How to cite
+
+Prudential Regulation Authority / Bank of England, "SS1/23 – Model risk management principles for banks" (2026-10-01). https://www.bankofengland.co.uk/prudential-regulation/publication/2023/may/model-risk-management-principles-for-banks-ss Digest points carry the page in brackets; verify exact wording against the original before quoting.

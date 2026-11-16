@@ -1,0 +1,4 @@
+# Parts
+
+* [FinCEN Alert on Fraud Schemes Involving Deepfake Media Targeting Financial Institutions](overview.md) - Advisory alert by FinCEN (2024-11-13); US; regulatory expectation; status current.
+* [FinCEN Alert on Fraud Schemes Involving Deepfake Media Targeting Financial Institutions - part 1 of 1 (pp. 1-6)](text-001.md) - Verbatim extracted text, pp. 1-6: FinCEN Alert on Fraud Schemes Involving Deepfake Media Targeting Financial Institutions > Suspicious Activity Report (SAR) Filing Request:; FinCEN Alert on Fraud Schemes Involving Deepfake Media Targeting Financial Institutions > Recent Developments in Publicly Available GenAI Tools; FinCEN Alert on Fraud Schemes Involving Deepfake Media Targeting Financial Institutions > Creation and Use of Deepfake Fraudulent Identities; and 3 more sections

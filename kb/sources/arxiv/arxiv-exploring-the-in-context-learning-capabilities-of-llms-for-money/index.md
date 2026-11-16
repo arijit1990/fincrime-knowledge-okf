@@ -1,0 +1,4 @@
+# Parts
+
+* [Exploring the In-Context Learning Capabilities of LLMs for Money Laundering Detection in Financial Graphs](overview.md) - Preprint by arXiv (2025-07-20); GLOBAL_ACADEMIC; academic finding; status unknown.
+* [Exploring the In-Context Learning Capabilities of LLMs for Money Laundering Detection in Financial Graphs - part 1 of 1 (pp. 1-4)](text-001.md) - Verbatim extracted text, pp. 1-4: Exploring the In-Context Learning Capabilities of LLMs for Money Laundering Detection in Financial Graphs; Exploring the In-Context Learning Capabilities of LLMs for Money Laundering Detection in Financial Graphs > I. INTRODUCTION; Exploring the In-Context Learning Capabilities of LLMs for Money Laundering Detection in Financial Graphs > _A. Financial Graph Representation and Subgraph Extraction_; and 9 more sections

@@ -1,0 +1,8 @@
+# Parts
+
+* [FCA fines Nationwide £44m for failings in financial crime controls](overview.md) - Enforcement notice by Financial Conduct Authority (2025-12-11); UK; supervisory expectation; status current.
+* [FCA fines Nationwide £44m for failings in financial crime controls - part 1 of 5 (pp. 1-11)](text-001.md) - Verbatim extracted text, pp. 1-11: FINAL NOTICE; FINAL NOTICE > Deficiencies in Nationwide’s AML monitoring systems and controls; FINAL NOTICE > Nationwide Building Society; and 2 more sections
+* [FCA fines Nationwide £44m for failings in financial crime controls - part 2 of 5 (pp. 11-20)](text-002.md) - Verbatim extracted text, pp. 11-20: FINAL NOTICE > MLRO report; FINAL NOTICE > Refreshing CDD and conducting customer risk assessments; FINAL NOTICE > Periodic and event-driven reviews; and 2 more sections
+* [FCA fines Nationwide £44m for failings in financial crime controls - part 3 of 5 (pp. 20-29)](text-003.md) - Verbatim extracted text, pp. 20-29: FINAL NOTICE > (v) Lack of additional monitoring where personal customer accounts used for business activity
+* [FCA fines Nationwide £44m for failings in financial crime controls - part 4 of 5 (pp. 29-40)](text-004.md) - Verbatim extracted text, pp. 29-40: FINAL NOTICE > (v) Lack of additional monitoring where personal customer accounts used for business activity; FINAL NOTICE > 6. SANCTION; FINAL NOTICE > Step 1: disgorgement; and 8 more sections
+* [FCA fines Nationwide £44m for failings in financial crime controls - part 5 of 5 (pp. 40-42)](text-005.md) - Verbatim extracted text, pp. 40-42: FINAL NOTICE > _Part I -_ _Chapter 4 –_ _Risk-based Approach_; FINAL NOTICE > _Part I -_ _Chapter 5 -_ _Customer Due Diligence_; FINAL NOTICE > _Enhanced Due Diligence_; and 1 more sections

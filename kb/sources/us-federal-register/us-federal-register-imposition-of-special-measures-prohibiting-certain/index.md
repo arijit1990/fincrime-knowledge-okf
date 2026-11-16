@@ -1,0 +1,4 @@
+# Parts
+
+* [Imposition of Special Measures Prohibiting Certain Transmittals of Funds Involving CIBanco S.A., Institución de Banca Multiple, Intercam Banco S.A., Institución de Banca Multiple, and Vector Casa de Bolsa, S.A. de C.V.; Extension of Effective Date](overview.md) - Regulation rule by Federal Register (2025-08-22); US; legal requirement; status current.
+* [Imposition of Special Measures Prohibiting Certain Transmittals of Funds Involving CIBanco S.A., Institución de Banca Multiple, Intercam Banco S.A., Institución de Banca Multiple, and Vector Casa de Bolsa, S.A. de C.V.; Extension of Effective Date - part 1 of 1 (p. 1)](text-001.md) - Verbatim extracted text, p. 1: TABLE 1 TO § 4909.1; TABLE 1 TO § 4909.1 > 31 CFR Part 1010; TABLE 1 TO § 4909.1 > I. Summary of Order; and 2 more sections

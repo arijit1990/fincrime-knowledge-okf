@@ -1,0 +1,8 @@
+# Parts
+
+* [2026 National Proliferation Financing Risk Assessment](overview.md) - Risk assessment by US Department of the Treasury (2026-03); US; empirical observation; status current.
+* [2026 National Proliferation Financing Risk Assessment - part 1 of 5 (pp. 1-9)](text-001.md) - Verbatim extracted text, pp. 1-9: 2026 National Proliferation Financing Risk Assessment > CONTENTS; 2026 National Proliferation Financing Risk Assessment > EXECUTIVE SUMMARY; 2026 National Proliferation Financing Risk Assessment > INTRODUCTION; and 1 more sections
+* [2026 National Proliferation Financing Risk Assessment - part 2 of 5 (pp. 9-15)](text-002.md) - Verbatim extracted text, pp. 9-15: 2026 National Proliferation Financing Risk Assessment > CURRENT SITUATION AND THREATS
+* [2026 National Proliferation Financing Risk Assessment - part 3 of 5 (pp. 15-22)](text-003.md) - Verbatim extracted text, pp. 15-22: 2026 National Proliferation Financing Risk Assessment > CURRENT SITUATION AND THREATS
+* [2026 National Proliferation Financing Risk Assessment - part 4 of 5 (pp. 22-28)](text-004.md) - Verbatim extracted text, pp. 22-28: 2026 National Proliferation Financing Risk Assessment > CURRENT SITUATION AND THREATS
+* [2026 National Proliferation Financing Risk Assessment - part 5 of 5 (pp. 28-36)](text-005.md) - Verbatim extracted text, pp. 28-36: 2026 National Proliferation Financing Risk Assessment > CURRENT SITUATION AND THREATS; 2026 National Proliferation Financing Risk Assessment > METHODOLOGY AND TERMINOLOGY; 2026 National Proliferation Financing Risk Assessment > INTERAGENCY PARTICIPANTS; and 1 more sections

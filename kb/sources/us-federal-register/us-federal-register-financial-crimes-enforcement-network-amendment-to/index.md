@@ -1,0 +1,7 @@
+# Parts
+
+* [Financial Crimes Enforcement Network; Amendment to the Bank Secrecy Act Regulations-Reports of Foreign Financial Accounts](overview.md) - Consultation by Federal Register (2016-03-10); US; hypothesis; status consultation.
+* [Financial Crimes Enforcement Network; Amendment to the Bank Secrecy Act Regulations-Reports of Foreign Financial Accounts - part 1 of 4 (pp. 1-4)](text-001.md) - Verbatim extracted text, pp. 1-4: Leslie Kux,; 24 CFR Part 960 [Docket No. FR–5904–N–02]; Financial Crimes Enforcement Network; Amendment to the Bank Secrecy Act Regulations—Reports of Foreign Financial Accounts; and 1 more sections
+* [Financial Crimes Enforcement Network; Amendment to the Bank Secrecy Act Regulations-Reports of Foreign Financial Accounts - part 2 of 4 (pp. 4-7)](text-002.md) - Verbatim extracted text, pp. 4-7: II. Background; III. Section-by-Section Analysis; _A. Signature Authority Exemption Provision_
+* [Financial Crimes Enforcement Network; Amendment to the Bank Secrecy Act Regulations-Reports of Foreign Financial Accounts - part 3 of 4 (pp. 7-9)](text-003.md) - Verbatim extracted text, pp. 7-9: _C. Other Proposed Revisions_; _D. Revisions to FinCEN Form 114_; IV. Questions for Public Comment; and 4 more sections
+* [Financial Crimes Enforcement Network; Amendment to the Bank Secrecy Act Regulations-Reports of Foreign Financial Accounts - part 4 of 4 (pp. 9-10)](text-004.md) - Verbatim extracted text, pp. 9-10: _Questions for Comment_; Statement; List of Subjects in 31 CFR Part 1010; and 6 more sections

@@ -1,0 +1,8 @@
+# Parts
+
+* [Paxful, Inc. and Paxful USA, Inc. - Consent Order Imposing Civil Money Penalty (Number 2025-02)](overview.md) - Enforcement notice by FinCEN (2025-12-09); US; supervisory expectation; status current.
+* [Paxful, Inc. and Paxful USA, Inc. - Consent Order Imposing Civil Money Penalty (Number 2025-02) - part 1 of 5 (pp. 1-8)](text-001.md) - Verbatim extracted text, pp. 1-8: UNITED STATES OF AMERICA FINANCIAL CRIMES ENFORCEMENT NETWORK DEPARTMENT OF THE TREASURY; I. JURISDICTION; II. STATEMENT OF FACTS; and 5 more sections
+* [Paxful, Inc. and Paxful USA, Inc. - Consent Order Imposing Civil Money Penalty (Number 2025-02) - part 2 of 5 (pp. 8-15)](text-002.md) - Verbatim extracted text, pp. 8-15: ii. Post-February 2019; 2. Paxful Failed to Identify and Mitigate Risks Posed by Customers Conducting Unregistered MSB Activity in its P2P Product; 3. Paxful Failed to Identify and Address Geographic Spoofing; and 6 more sections
+* [Paxful, Inc. and Paxful USA, Inc. - Consent Order Imposing Civil Money Penalty (Number 2025-02) - part 3 of 5 (pp. 15-23)](text-003.md) - Verbatim extracted text, pp. 15-23: 1. Ransomware Attack Proceeds; 2. Child Exploitation Marketplaces; 3. Darknet and other Illicit Markets; and 6 more sections
+* [Paxful, Inc. and Paxful USA, Inc. - Consent Order Imposing Civil Money Penalty (Number 2025-02) - part 4 of 5 (pp. 23-31)](text-004.md) - Verbatim extracted text, pp. 23-31: V. CIVIL PENALTY; B. Civil Penalty Determination; VI. CONSENT AND ADMISSIONS; and 7 more sections
+* [Paxful, Inc. and Paxful USA, Inc. - Consent Order Imposing Civil Money Penalty (Number 2025-02) - part 5 of 5 (pp. 31-32)](text-005.md) - Verbatim extracted text, pp. 31-32: XVII. NOTIFICATION; XIX. EFFECTIVE DATE AND CALCULATION OF TIME

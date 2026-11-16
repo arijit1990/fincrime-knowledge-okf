@@ -1,0 +1,5 @@
+# Parts
+
+* [31 CFR Part 1024 - Rules for Mutual Funds](overview.md) - Regulation rule by GovInfo (US GPO) (2025-07-01); US; legal requirement; status current.
+* [31 CFR Part 1024 - Rules for Mutual Funds - part 1 of 2 (pp. 1-5)](text-001.md) - Verbatim extracted text, pp. 1-5: Subpart F—Special Standards of Diligence; Prohibitions; and Special Measures for Brokers or Dealers in Securities; Subpart F—Special Standards of Diligence; Prohibitions; and Special Measures for Brokers or Dealers in Securities > § 1023.640 [Reserved]; PART 1024—RULES FOR MUTUAL FUNDS > Subpart D—Records Required To Be Maintained By Mutual Funds; and 4 more sections
+* [31 CFR Part 1024 - Rules for Mutual Funds - part 2 of 2 (pp. 5-9)](text-002.md) - Verbatim extracted text, pp. 5-9: Subpart C—Reports Required To Be Made By Mutual Funds; Subpart C—Reports Required To Be Made By Mutual Funds > § 1024.313 Aggregation.; Subpart C—Reports Required To Be Made By Mutual Funds > § 1024.320 Reports by mutual funds of suspicious transactions.; and 6 more sections

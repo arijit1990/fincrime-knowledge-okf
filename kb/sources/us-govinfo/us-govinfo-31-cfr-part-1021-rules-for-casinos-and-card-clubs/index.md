@@ -1,0 +1,5 @@
+# Parts
+
+* [31 CFR Part 1021 - Rules for Casinos and Card Clubs](overview.md) - Regulation rule by GovInfo (US GPO) (2025-07-01); US; legal requirement; status current.
+* [31 CFR Part 1021 - Rules for Casinos and Card Clubs - part 1 of 2 (pp. 1-6)](text-001.md) - Verbatim extracted text, pp. 1-6: § 1020.640 [Reserved]; PART 1021—RULES FOR CASINOS AND CARD CLUBS > Subpart F—Special Standards of Diligence; Prohibitions, and Special Measures for Casinos and Card Clubs; PART 1021—RULES FOR CASINOS AND CARD CLUBS > Subpart B—Programs; and 9 more sections
+* [31 CFR Part 1021 - Rules for Casinos and Card Clubs - part 2 of 2 (pp. 6-9)](text-002.md) - Verbatim extracted text, pp. 6-9: Subpart D—Records Required To Be Maintained By Casinos and Card Clubs; Subpart D—Records Required To Be Maintained By Casinos and Card Clubs > § 1021.410 Additional records to be made and retained by casinos.; Subpart D—Records Required To Be Maintained By Casinos and Card Clubs > Financial Crimes Enforc. Network, Treas.; and 5 more sections

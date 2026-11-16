@@ -1,0 +1,6 @@
+# Parts
+
+* [Imposition of Special Measure Prohibiting Certain Transmittals of Funds Involving Vector Casa de Bolsa, S.A. de C.V.](overview.md) - Regulation rule by Federal Register (2025-06-30); US; legal requirement; status current.
+* [Imposition of Special Measure Prohibiting Certain Transmittals of Funds Involving Vector Casa de Bolsa, S.A. de C.V. - part 1 of 3 (pp. 1-4)](text-001.md) - Verbatim extracted text, pp. 1-4: DEPARTMENT OF THE TREASURY; Imposition of Special Measure Prohibiting Certain Transmittals of Funds Involving Vector Casa de Bolsa, S.A. de C.V.; I. Summary of Order; and 2 more sections
+* [Imposition of Special Measure Prohibiting Certain Transmittals of Funds Involving Vector Casa de Bolsa, S.A. de C.V. - part 2 of 3 (pp. 4-6)](text-002.md) - Verbatim extracted text, pp. 4-6: _B. Illicit Opioid Trafficking_; IV. Imposition of a Special Measure Prohibiting Certain Transmittals of Funds Involving Vector
+* [Imposition of Special Measure Prohibiting Certain Transmittals of Funds Involving Vector Casa de Bolsa, S.A. de C.V. - part 3 of 3 (pp. 6-7)](text-003.md) - Verbatim extracted text, pp. 6-7: 1. Vector; 3. Transmittals of Funds; 4. Meaning of Other Terms; and 4 more sections

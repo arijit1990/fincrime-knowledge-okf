@@ -1,0 +1,7 @@
+# Parts
+
+* [The changing DNA of serious and organised crime - EU Serious and Organised Crime Threat Assessment 2025 (EU-SOCTA)](overview.md) - Risk assessment by Europol (2025); EU; empirical observation; status current.
+* [The changing DNA of serious and organised crime - EU Serious and Organised Crime Threat Assessment 2025 (EU-SOCTA) - part 1 of 4 (pp. 2-10)](text-001.md) - Verbatim extracted text, pp. 2-10: EUROPEAN UNION SERIOUS AND ORGANISED CRIME THREAT ASSESSMENT 2025; PDF/X | ISBN 978-92-95236-99-8 | DOI: 10.2813/5473714 | QL-01-25-005-EN-C; EU-SOCTA 2025; and 6 more sections
+* [The changing DNA of serious and organised crime - EU Serious and Organised Crime Threat Assessment 2025 (EU-SOCTA) - part 2 of 4 (pp. 11-18)](text-002.md) - Verbatim extracted text, pp. 11-18: EU-SOCTA 2025 10; EU-SOCTA 2025 12; 14 EU-SOCTA 2025; and 1 more sections
+* [The changing DNA of serious and organised crime - EU Serious and Organised Crime Threat Assessment 2025 (EU-SOCTA) - part 3 of 4 (pp. 19-28)](text-003.md) - Verbatim extracted text, pp. 19-28: 18 EU-SOCTA 2025; 20 EU-SOCTA 2025 AA; 22 EU-SOCTA 2025; and 2 more sections
+* [The changing DNA of serious and organised crime - EU Serious and Organised Crime Threat Assessment 2025 (EU-SOCTA) - part 4 of 4 (pp. 29-37)](text-004.md) - Verbatim extracted text, pp. 29-37: 28 EU-SOCTA 2025; EU-SOCTA 2025 30; 32 EU-SOCTA 2025; and 1 more sections

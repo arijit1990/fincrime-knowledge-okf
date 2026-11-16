@@ -1,0 +1,7 @@
+# Parts
+
+* [FCA fines Deutsche Bank £163 million for serious anti-money laundering controls failings](overview.md) - Enforcement notice by Financial Conduct Authority (2017-01-30); UK; supervisory expectation; status current.
+* [FCA fines Deutsche Bank £163 million for serious anti-money laundering controls failings - part 1 of 4 (pp. 1-14)](text-001.md) - Verbatim extracted text, pp. 1-14: FINAL NOTICE; FINAL NOTICE > 1. ACTION; FINAL NOTICE > 2. SUMMARY OF REASONS; and 9 more sections
+* [FCA fines Deutsche Bank £163 million for serious anti-money laundering controls failings - part 2 of 4 (pp. 14-26)](text-002.md) - Verbatim extracted text, pp. 14-26: FINAL NOTICE > _Internal trading reports_; FINAL NOTICE > COMMENCEMENT OF INTERNAL INVESTIGATION; FINAL NOTICE > One-sided trades; and 9 more sections
+* [FCA fines Deutsche Bank £163 million for serious anti-money laundering controls failings - part 3 of 4 (pp. 26-39)](text-003.md) - Verbatim extracted text, pp. 26-39: FINAL NOTICE > Step 2: the seriousness of the breach; FINAL NOTICE > Step 3: mitigating and aggravating factors; FINAL NOTICE > Step 4: adjustment for deterrence; and 19 more sections
+* [FCA fines Deutsche Bank £163 million for serious anti-money laundering controls failings - part 4 of 4 (pp. 39-44)](text-004.md) - Verbatim extracted text, pp. 39-44: FINAL NOTICE > Meaning of beneficial owner; FINAL NOTICE > Application of customer due diligence measures; FINAL NOTICE > Ongoing monitoring; and 2 more sections

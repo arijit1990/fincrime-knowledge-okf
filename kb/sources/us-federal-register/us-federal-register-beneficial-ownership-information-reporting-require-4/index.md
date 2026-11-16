@@ -1,0 +1,22 @@
+# Parts
+
+* [Beneficial Ownership Information Reporting Requirements](overview.md) - Consultation by Federal Register (2021-12-08); US; hypothesis; status consultation.
+* [Beneficial Ownership Information Reporting Requirements - part 1 of 19 (pp. 1-4)](text-001.md) - Verbatim extracted text, pp. 1-4: Beneficial Ownership Information Reporting Requirements; I. Executive Summary; II. Scope of the NPRM; and 1 more sections
+* [Beneficial Ownership Information Reporting Requirements - part 2 of 19 (pp. 4-7)](text-002.md) - Verbatim extracted text, pp. 4-7: III. Background
+* [Beneficial Ownership Information Reporting Requirements - part 3 of 19 (pp. 7-9)](text-003.md) - Verbatim extracted text, pp. 7-9: III. Background
+* [Beneficial Ownership Information Reporting Requirements - part 4 of 19 (pp. 9-13)](text-004.md) - Verbatim extracted text, pp. 9-13: _B. The CTA_; _C. The Advance Notice of Proposed Rulemaking_; _D. Outreach_; and 3 more sections
+* [Beneficial Ownership Information Reporting Requirements - part 5 of 19 (pp. 13-17)](text-005.md) - Verbatim extracted text, pp. 13-17: i. Information To Be Reported on Beneficial Owners and Company Applicants; iv. FinCEN Identifier; Other Matters; _B. Beneficial Owners_; and 1 more sections
+* [Beneficial Ownership Information Reporting Requirements - part 6 of 19 (pp. 17-19)](text-006.md) - Verbatim extracted text, pp. 17-19: i. Substantial Control; b. Nominees; c. Employees; and 4 more sections
+* [Beneficial Ownership Information Reporting Requirements - part 7 of 19 (pp. 19-23)](text-007.md) - Verbatim extracted text, pp. 19-23: i. Domestic Reporting Company; ii. Foreign Reporting Company; iii. Exemptions
+* [Beneficial Ownership Information Reporting Requirements - part 8 of 19 (pp. 23-25)](text-008.md) - Verbatim extracted text, pp. 23-25: iii. Exemptions
+* [Beneficial Ownership Information Reporting Requirements - part 9 of 19 (pp. 25-27)](text-009.md) - Verbatim extracted text, pp. 25-27: _G. Definitions_; _H. Effective Date_; V. Request for Comment; and 4 more sections
+* [Beneficial Ownership Information Reporting Requirements - part 10 of 19 (pp. 27-31)](text-010.md) - Verbatim extracted text, pp. 27-31: _Company Applicant_; _Reporting Company_; _Other Definitions_; and 5 more sections
+* [Beneficial Ownership Information Reporting Requirements - part 11 of 19 (pp. 31-34)](text-011.md) - Verbatim extracted text, pp. 31-34: iii. Alternatives; _B. Regulatory Flexibility Act_; ii. Small Entities Affected by the Proposed Rule
+* [Beneficial Ownership Information Reporting Requirements - part 12 of 19 (pp. 34-36)](text-012.md) - Verbatim extracted text, pp. 34-36: iv. Duplicative, Overlapping, or Conflicting Federal Rules; _C. Unfunded Mandates Reform Act_
+* [Beneficial Ownership Information Reporting Requirements - part 13 of 19 (pp. 36-38)](text-013.md) - Verbatim extracted text, pp. 36-38: _D. Paperwork Reduction Act_; i. Filing BOI Reports
+* [Beneficial Ownership Information Reporting Requirements - part 14 of 19 (pp. 38-42)](text-014.md) - Verbatim extracted text, pp. 38-42: TABLE 1—DOMESTIC ENTITIES PER CAPITA ANALYSIS
+* [Beneficial Ownership Information Reporting Requirements - part 15 of 19 (pp. 42-44)](text-015.md) - Verbatim extracted text, pp. 42-44: TABLE 2—EXEMPTION ESTIMATES TO BE SUBTRACTED; TABLE 3—ESTIMATED DISTRIBUTION OF BENEFICIAL OWNERS PER REPORT
+* [Beneficial Ownership Information Reporting Requirements - part 16 of 19 (pp. 44-47)](text-016.md) - Verbatim extracted text, pp. 44-47: TABLE 4—ESTIMATED NUMBER OF BENEFICIAL OWNERSHIP UPDATED REPORTS IN YEAR 1, MONTH 2
+* [Beneficial Ownership Information Reporting Requirements - part 17 of 19 (pp. 47-49)](text-017.md) - Verbatim extracted text, pp. 47-49: TABLE 6—TOTAL BURDEN AND COST; TABLE 8—COST COMPARISON OF ALTERNATIVES; TABLE 9—COST COMPARISON FOR BURDEN CHANGES
+* [Beneficial Ownership Information Reporting Requirements - part 18 of 19 (pp. 49-53)](text-018.md) - Verbatim extracted text, pp. 49-53: TABLE 10—COST COMPARISON OF INCREASED BENEFITS FACTOR; TABLE 10—COST COMPARISON OF INCREASED BENEFITS FACTOR > List of Subjects in 31 CFR Part 1010; TABLE 10—COST COMPARISON OF INCREASED BENEFITS FACTOR > PART 1010—GENERAL PROVISIONS
+* [Beneficial Ownership Information Reporting Requirements - part 19 of 19 (pp. 53-55)](text-019.md) - Verbatim extracted text, pp. 53-55: TABLE 10—COST COMPARISON OF INCREASED BENEFITS FACTOR > PART 1010—GENERAL PROVISIONS

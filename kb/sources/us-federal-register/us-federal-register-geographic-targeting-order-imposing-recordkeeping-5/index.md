@@ -1,0 +1,5 @@
+# Parts
+
+* [Geographic Targeting Order Imposing Recordkeeping and Reporting Requirements on Certain Money Services Businesses Along the Southwest Border](overview.md) - Regulation rule by Federal Register (2025-09-10); US; legal requirement; status current.
+* [Geographic Targeting Order Imposing Recordkeeping and Reporting Requirements on Certain Money Services Businesses Along the Southwest Border - part 1 of 2 (pp. 1-3)](text-001.md) - Verbatim extracted text, pp. 1-3: Publication of Venezuela Sanctions Regulations Web General License 5S; OFFICE OF FOREIGN ASSETS CONTROL; GENERAL LICENSE NO. 5S; and 9 more sections
+* [Geographic Targeting Order Imposing Recordkeeping and Reporting Requirements on Certain Money Services Businesses Along the Southwest Border - part 2 of 2 (p. 3)](text-002.md) - Verbatim extracted text, p. 3: _J. Paperwork Reduction Act_; Publication of Iranian Transactions and Sanctions Regulations Web General License; Imposing Sanctions With Respect to Additional Sectors of Iran GENERAL LICENSE Q; and 1 more sections
