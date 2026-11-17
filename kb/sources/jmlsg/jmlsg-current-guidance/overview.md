@@ -43,7 +43,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T12:21:45Z'
+  at: '2026-11-17T17:21:51Z'
 sources:
 - id: original
   resource: https://www.jmlsg.org.uk/guidance/current-guidance/
@@ -51,8 +51,8 @@ sources:
   author: org:jmlsg
   last_modified: '2026-09-03T00:00:00Z'
 download_url: https://www.jmlsg.org.uk/wp-content/uploads/2025/09/JMLSG-Guidance-Part-I_June-2023-updated-Aug-2025.pdf
-digest_points: 3
-digest_pending_parts: 23
+digest_points: 620
+digest_pending_parts: 13
 ---
 
 # Current Guidance
@@ -72,7 +72,7 @@ digest_pending_parts: 23
 | Licence | JMLSG terms (Reproduction not permitted for commercial/internal use (JMLSG terms)) |
 | Topics | [regulation](../../../topics/regulation.md), [risk based approach](../../../topics/risk-based-approach.md), [customer risk](../../../topics/customer-risk.md), [risk assessment](../../../topics/risk-assessment.md), [beneficial ownership](../../../topics/beneficial-ownership.md) |
 
-> **Digest in progress:** 23 of 24 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 13 of 24 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -84,6 +84,16 @@ HMT-approved industry guidance on MLR compliance; Part I (June 2023, updated Aug
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-11 | Chapter 1 Senior management responsibility; Chapter 4 Risk-based approach; Chapter 5 Customer due diligence; Chapter 6 Suspicious activities, reporting and data protection; and 2 more sections |
+| [digest part 2](digest-002.md) | pp. 12-20 | SENIOR MANAGEMENT RESPONSIBILITY AND GOVERNANCE; SYSC 3.1.1 R, 6.1.1 R 6.3.1 R |
+| [digest part 3](digest-003.md) | pp. 20-28 | SUP 16.23.4 R SUP 16.23.2 R; INTERNAL CONTROLS |
+| [digest part 4](digest-004.md) | pp. 28-36 | SYSC 6.3.7 G SYSC 6.3.8 R SYSC 6.3.9 R; SYSC 3.1, 3.2.4 G; SYSC 8.1, 13.9; NOMINATED OFFICER/MONEY LAUNDERING REPORTING OFFICER (MLRO); and 1 more sections |
+| [digest part 5](digest-005.md) | pp. 36-47 | SYSC 6.3.3 R SYSC 6.3.9(1) R SYSC 6.3.10 G; RISK-BASED APPROACH |
+| [digest part 6](digest-006.md) | pp. 47-55 | RISK-BASED APPROACH |
+| [digest part 7](digest-007.md) | pp. 55-61 | IN DIFFERENT JURISDICTIONS; FATF; FCA |
+| [digest part 14](digest-014.md) | pp. 115-125 | 5.3.138B |
+| [digest part 15](digest-015.md) | pp. 125-134 | 5.3.138B |
+| [digest part 16](digest-016.md) | pp. 134-144 | 5.5.12A |
 | [digest part 24](digest-024.md) | pp. 215-216 | 53 PRIN 2.1.1 R |
 
 ## How to cite

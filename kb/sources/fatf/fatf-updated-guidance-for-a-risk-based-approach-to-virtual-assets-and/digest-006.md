@@ -41,7 +41,7 @@ digest_points: 75
 
 # Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers (digest)
 
-[source overview](overview.md) | [next part](digest-007.md)
+[previous part](digest-005.md) | [source overview](overview.md) | [next part](digest-007.md)
 
 > **Digest, not the original wording.** The licence of this source does not permit reproducing its text, so this part (pp. 39-47) is a paraphrased digest of every material point. Each point was machine-checked: its anchor phrase occurs verbatim in the original, and an independent reviewing agent confirmed the point is supported by the text. Labels: normative strength / kind. Quote the original, not this digest, when exact wording matters (see `resource`). Normative force of this document: **international standard**.
 
@@ -233,6 +233,6 @@ digest_points: 75
 
 ---
 
-[source overview](overview.md) | [next part](digest-007.md)
+[previous part](digest-005.md) | [source overview](overview.md) | [next part](digest-007.md)
 
 [^original]: Financial Action Task Force, "Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers" (2021-10). https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-rba-virtual-assets-2021.html

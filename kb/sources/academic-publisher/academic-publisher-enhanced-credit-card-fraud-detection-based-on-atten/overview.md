@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T12:21:45Z'
+  at: '2026-11-17T17:21:51Z'
 sources:
 - id: original
   resource: https://link.springer.com/article/10.1186/s40537-021-00541-8

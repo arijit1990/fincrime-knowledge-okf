@@ -24,10 +24,10 @@ parts_total: 5
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T12:21:45Z'
+  at: '2026-11-17T17:21:51Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-17T12:21:45Z'
+  at: '2026-11-17T17:21:51Z'
 sources:
 - id: original
   resource: https://home.treasury.gov/system/files/246/2026-NTFRA.pdf

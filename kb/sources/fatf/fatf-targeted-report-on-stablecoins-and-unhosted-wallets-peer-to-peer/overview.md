@@ -10,7 +10,7 @@ tags:
 - other
 - typologies
 - virtual_assets
-status: draft
+status: stable
 source_id: fatf-targeted-report-on-stablecoins-and-unhosted-wallets-peer-to-peer
 issuer: fatf
 issuer_name: Financial Action Task Force
@@ -39,14 +39,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T12:21:45Z'
+  at: '2026-11-17T17:21:51Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Virtualassets/targeted-report-stablecoins-unhosted-wallets.html
   title: Targeted Report on Stablecoins and Unhosted Wallets - Peer-to-Peer Transactions
   author: org:fatf
-digest_points: 160
-digest_pending_parts: 1
+digest_points: 237
 ---
 
 # Targeted Report on Stablecoins and Unhosted Wallets - Peer-to-Peer Transactions
@@ -66,8 +65,6 @@ digest_pending_parts: 1
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [virtual assets](../../../topics/virtual-assets.md), [typologies](../../../topics/typologies.md), [emerging threats](../../../topics/emerging-threats.md) |
 
-> **Digest in progress:** 1 of 4 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -80,6 +77,7 @@ Manually downloaded official source (site blocks automated access)
 |---|---|---|
 | [digest part 1](digest-001.md) | pp. 1-14 | Targeted Report on Stablecoins and Unhosted Wallets _Peer-to-Peer Transactions_; Targeted Report on Stablecoins and Unhosted Wallets _Peer-to-Peer Transactions_ > Table of Contents; Targeted Report on Stablecoins and Unhosted Wallets _Peer-to-Peer Transactions_ > Abbreviations and Acronyms; Targeted Report on Stablecoins and Unhosted Wallets _Peer-to-Peer Transactions_ > Executive Summary; and 2 more sections |
 | [digest part 2](digest-002.md) | pp. 14-25 | Targeted Report on Stablecoins and Unhosted Wallets _Peer-to-Peer Transactions_ > Part One: Analysis on Current situation, Threats and Vulnerabilities |
+| [digest part 3](digest-003.md) | pp. 25-37 | Targeted Report on Stablecoins and Unhosted Wallets _Peer-to-Peer Transactions_ > Part One: Analysis on Current situation, Threats and Vulnerabilities |
 | [digest part 4](digest-004.md) | pp. 37-42 | Targeted Report on Stablecoins and Unhosted Wallets _Peer-to-Peer Transactions_ > Part One: Analysis on Current situation, Threats and Vulnerabilities |
 
 ## How to cite
