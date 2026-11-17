@@ -43,7 +43,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T07:21:49Z'
+  at: '2026-11-17T12:21:45Z'
 sources:
 - id: original
   resource: https://www.jmlsg.org.uk/guidance/current-guidance/
@@ -51,8 +51,8 @@ sources:
   author: org:jmlsg
   last_modified: '2026-09-03T00:00:00Z'
 download_url: https://www.jmlsg.org.uk/wp-content/uploads/2025/09/JMLSG-Guidance-Part-I_June-2023-updated-Aug-2025.pdf
-digest_points: 0
-digest_pending_parts: 24
+digest_points: 3
+digest_pending_parts: 23
 ---
 
 # Current Guidance
@@ -72,7 +72,7 @@ digest_pending_parts: 24
 | Licence | JMLSG terms (Reproduction not permitted for commercial/internal use (JMLSG terms)) |
 | Topics | [regulation](../../../topics/regulation.md), [risk based approach](../../../topics/risk-based-approach.md), [customer risk](../../../topics/customer-risk.md), [risk assessment](../../../topics/risk-assessment.md), [beneficial ownership](../../../topics/beneficial-ownership.md) |
 
-> **Digest in progress:** 24 of 24 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 23 of 24 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -84,6 +84,7 @@ HMT-approved industry guidance on MLR compliance; Part I (June 2023, updated Aug
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 24](digest-024.md) | pp. 215-216 | 53 PRIN 2.1.1 R |
 
 ## How to cite
 

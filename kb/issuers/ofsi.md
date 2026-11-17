@@ -8,7 +8,7 @@ issuer_id: ofsi
 tier: 1
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T07:21:49Z'
+  at: '2026-11-17T12:21:45Z'
 ---
 
 # Office of Financial Sanctions Implementation

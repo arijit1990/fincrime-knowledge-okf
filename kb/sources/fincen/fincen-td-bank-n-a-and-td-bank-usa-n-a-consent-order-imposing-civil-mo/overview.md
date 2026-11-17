@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T07:21:49Z'
+  at: '2026-11-17T12:21:45Z'
 sources:
 - id: original
   resource: https://www.fincen.gov/system/files/enforcement_action/2024-10-10/FinCEN-TD-Bank-Consent-Order-508FINAL.pdf

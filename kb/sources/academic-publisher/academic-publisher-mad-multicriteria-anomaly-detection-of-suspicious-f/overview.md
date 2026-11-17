@@ -41,7 +41,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T07:21:49Z'
+  at: '2026-11-17T12:21:45Z'
 sources:
 - id: original
   resource: https://dl.acm.org/doi/10.1145/3711896.3737244

@@ -6,7 +6,7 @@ tags:
 - taxonomy
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T07:21:49Z'
+  at: '2026-11-17T12:21:45Z'
 ---
 
 # Normative force

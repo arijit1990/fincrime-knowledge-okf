@@ -40,7 +40,7 @@ digest_points: 131
 
 # Money Laundering National Risk Assessment Guidance (digest)
 
-[previous part](digest-003.md) | [source overview](overview.md)
+[previous part](digest-003.md) | [source overview](overview.md) | [next part](digest-005.md)
 
 > **Digest, not the original wording.** The licence of this source does not permit reproducing its text, so this part (pp. 34-45) is a paraphrased digest of every material point. Each point was machine-checked: its anchor phrase occurs verbatim in the original, and an independent reviewing agent confirmed the point is supported by the text. Labels: normative strength / kind. Quote the original, not this digest, when exact wording matters (see `resource`). Normative force of this document: **international standard**.
 
@@ -386,6 +386,6 @@ digest_points: 131
 
 ---
 
-[previous part](digest-003.md) | [source overview](overview.md)
+[previous part](digest-003.md) | [source overview](overview.md) | [next part](digest-005.md)
 
 [^original]: Financial Action Task Force, "Money Laundering National Risk Assessment Guidance" (2025-08). https://www.fatf-gafi.org/en/publications/Methodsandtrends/Money-Laundering-National-Risk-Assessment-Guidance.html

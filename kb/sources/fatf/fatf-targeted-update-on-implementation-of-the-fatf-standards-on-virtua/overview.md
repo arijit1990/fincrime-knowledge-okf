@@ -9,7 +9,7 @@ tags:
 - intl
 - other
 - virtual_assets
-status: draft
+status: stable
 source_id: fatf-targeted-update-on-implementation-of-the-fatf-standards-on-virtua
 issuer: fatf
 issuer_name: Financial Action Task Force
@@ -37,14 +37,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T07:21:49Z'
+  at: '2026-11-17T12:21:45Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Fatfrecommendations/targeted-update-virtual-assets-vasps-2024.html
   title: Targeted Update on Implementation of the FATF Standards on Virtual Assets and Virtual Asset Service Providers
   author: org:fatf
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 165
 ---
 
 # Targeted Update on Implementation of the FATF Standards on Virtual Assets and Virtual Asset Service Providers
@@ -64,8 +63,6 @@ digest_pending_parts: 3
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [virtual assets](../../../topics/virtual-assets.md), [emerging threats](../../../topics/emerging-threats.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -76,6 +73,9 @@ Manually downloaded official source (site blocks automated access)
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-13 | TARGETED UPDATE ON IMPLEMENTATION OF THE FATF STANDARDS ON VIRTUAL ASSETS AND VIRTUAL ASSET SERVICE PROVIDERS; TARGETED UPDATE ON IMPLEMENTATION OF THE FATF STANDARDS ON VIRTUAL ASSETS AND VIRTUAL ASSET SERVICE PROVIDERS > Table of Contents; TARGETED UPDATE ON IMPLEMENTATION OF THE FATF STANDARDS ON VIRTUAL ASSETS AND VIRTUAL ASSET SERVICE PROVIDERS > Executive summary; TARGETED UPDATE ON IMPLEMENTATION OF THE FATF STANDARDS ON VIRTUAL ASSETS AND VIRTUAL ASSET SERVICE PROVIDERS > Key Findings; and 2 more sections |
+| [digest part 2](digest-002.md) | pp. 13-25 | TARGETED UPDATE ON IMPLEMENTATION OF THE FATF STANDARDS ON VIRTUAL ASSETS AND VIRTUAL ASSET SERVICE PROVIDERS > Introduction |
+| [digest part 3](digest-003.md) | pp. 25-36 | TARGETED UPDATE ON IMPLEMENTATION OF THE FATF STANDARDS ON VIRTUAL ASSETS AND VIRTUAL ASSET SERVICE PROVIDERS > Introduction |
 
 ## How to cite
 

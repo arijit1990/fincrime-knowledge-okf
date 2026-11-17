@@ -24,10 +24,10 @@ parts_total: 1
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T07:21:49Z'
+  at: '2026-11-17T12:21:45Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-17T07:21:49Z'
+  at: '2026-11-17T12:21:45Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2026/03/10/2026-04641/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-money

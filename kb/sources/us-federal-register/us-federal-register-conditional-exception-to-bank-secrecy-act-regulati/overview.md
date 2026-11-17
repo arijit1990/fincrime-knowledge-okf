@@ -35,7 +35,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T07:21:49Z'
+  at: '2026-11-17T12:21:45Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2016/10/19/2016-25249/conditional-exception-to-bank-secrecy-act-regulations-relating-to-the-burma-section-311-final-rule

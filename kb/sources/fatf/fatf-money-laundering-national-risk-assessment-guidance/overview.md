@@ -8,7 +8,7 @@ tags:
 - intl
 - risk_assessment
 - risk_based_approach
-status: draft
+status: stable
 source_id: fatf-money-laundering-national-risk-assessment-guidance
 issuer: fatf
 issuer_name: Financial Action Task Force
@@ -36,14 +36,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T07:21:49Z'
+  at: '2026-11-17T12:21:45Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Methodsandtrends/Money-Laundering-National-Risk-Assessment-Guidance.html
   title: Money Laundering National Risk Assessment Guidance
   author: org:fatf
-digest_points: 368
-digest_pending_parts: 3
+digest_points: 564
 ---
 
 # Money Laundering National Risk Assessment Guidance
@@ -63,8 +62,6 @@ digest_pending_parts: 3
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [risk assessment](../../../topics/risk-assessment.md), [risk based approach](../../../topics/risk-based-approach.md) |
 
-> **Digest in progress:** 3 of 7 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -79,6 +76,9 @@ Manually downloaded official source (site blocks automated access)
 | [digest part 2](digest-002.md) | pp. 15-24 | Money Laundering National Risk Assessment Guidance > Table of Contents |
 | [digest part 3](digest-003.md) | pp. 24-34 | Money Laundering National Risk Assessment Guidance > Table of Contents |
 | [digest part 4](digest-004.md) | pp. 34-45 | Money Laundering National Risk Assessment Guidance > Table of Contents |
+| [digest part 5](digest-005.md) | pp. 45-57 | Money Laundering National Risk Assessment Guidance > Table of Contents |
+| [digest part 6](digest-006.md) | pp. 57-67 | Money Laundering National Risk Assessment Guidance > Table of Contents |
+| [digest part 7](digest-007.md) | pp. 67-75 | Money Laundering National Risk Assessment Guidance > Table of Contents |
 
 ## How to cite
 

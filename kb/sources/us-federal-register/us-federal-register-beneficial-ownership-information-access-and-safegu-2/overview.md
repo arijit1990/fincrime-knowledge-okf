@@ -35,7 +35,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T07:21:49Z'
+  at: '2026-11-17T12:21:45Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2022/12/16/2022-27031/beneficial-ownership-information-access-and-safeguards-and-use-of-fincen-identifiers-for-entities

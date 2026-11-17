@@ -9,7 +9,7 @@ tags:
 - intl
 - risk_assessment
 - terrorist_financing
-status: draft
+status: stable
 source_id: fatf-terrorist-financing-risk-assessment-guidance
 issuer: fatf
 issuer_name: Financial Action Task Force
@@ -37,14 +37,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T07:21:49Z'
+  at: '2026-11-17T12:21:45Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Methodsandtrends/Terrorist-financing-risk-assessment-guidance.html
   title: Terrorist Financing Risk Assessment Guidance
   author: org:fatf
-digest_points: 0
-digest_pending_parts: 6
+digest_points: 297
 ---
 
 # Terrorist Financing Risk Assessment Guidance
@@ -64,8 +63,6 @@ digest_pending_parts: 6
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [terrorist financing](../../../topics/terrorist-financing.md), [risk assessment](../../../topics/risk-assessment.md) |
 
-> **Digest in progress:** 6 of 6 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -76,6 +73,12 @@ Manually downloaded official source (site blocks automated access)
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-12 | Terrorist Financing Risk Assessment Guidance; Terrorist Financing Risk Assessment Guidance > _Table of contents_ |
+| [digest part 2](digest-002.md) | pp. 12-25 | Terrorist Financing Risk Assessment Guidance > _Table of contents_ |
+| [digest part 3](digest-003.md) | pp. 25-36 | Terrorist Financing Risk Assessment Guidance > _Table of contents_ |
+| [digest part 4](digest-004.md) | pp. 36-48 | Terrorist Financing Risk Assessment Guidance > _Table of contents_ |
+| [digest part 5](digest-005.md) | pp. 48-59 | Terrorist Financing Risk Assessment Guidance > _Table of contents_ |
+| [digest part 6](digest-006.md) | pp. 59-66 | Terrorist Financing Risk Assessment Guidance > _Table of contents_ |
 
 ## How to cite
 

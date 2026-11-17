@@ -37,14 +37,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T07:21:49Z'
+  at: '2026-11-17T12:21:45Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-rba-virtual-assets-2021.html
   title: Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers
   author: org:fatf
-digest_points: 6
-digest_pending_parts: 14
+digest_points: 627
+digest_pending_parts: 4
 ---
 
 # Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers
@@ -64,7 +64,7 @@ digest_pending_parts: 14
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [virtual assets](../../../topics/virtual-assets.md), [risk based approach](../../../topics/risk-based-approach.md) |
 
-> **Digest in progress:** 14 of 15 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 4 of 15 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -76,6 +76,16 @@ Manually downloaded official source (site blocks automated access)
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-9 | _Table of contents_; Acknowledgements; Acronyms; Executive Summary |
+| [digest part 2](digest-002.md) | pp. 9-17 | PART ONE: INTRODUCTION > Background; PART ONE: INTRODUCTION > Purpose of the Guidance; PART ONE: INTRODUCTION > Scope of the Guidance; PART ONE: INTRODUCTION > Structure |
+| [digest part 3](digest-003.md) | pp. 17-26 | PART TWO: SCOPE OF FATF STANDARDS; PART TWO: SCOPE OF FATF STANDARDS > Initial Risk Assessment; PART TWO: SCOPE OF FATF STANDARDS > Box 1. Stablecoins and ML/TF risks; PART TWO: SCOPE OF FATF STANDARDS > _Peer-to-peer transactions_; and 7 more sections |
+| [digest part 4](digest-004.md) | pp. 26-33 | PART TWO: SCOPE OF FATF STANDARDS > _What is a virtual asset?_; PART TWO: SCOPE OF FATF STANDARDS > _What is a VASP?_; PART TWO: SCOPE OF FATF STANDARDS > _Exchange and transfer_; PART TWO: SCOPE OF FATF STANDARDS > _Safekeeping and/or administration_24; and 1 more sections |
+| [digest part 6](digest-006.md) | pp. 39-47 | PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES; PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES > _Risk-Based Approach and National Co-ordination_; PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES > _P2P transactions_; PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES > _Prohibition or limitation of VAs/VASPs_; and 4 more sections |
+| [digest part 7](digest-007.md) | pp. 47-55 | PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES > _Considerations for licensing or registering VASPs_; PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES > _Co-operation with domestic and international partners_; PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES > _Supervision or Monitoring_; PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES > _Preventive Measures_; and 6 more sections |
+| [digest part 8](digest-008.md) | pp. 55-64 | PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES > _Correspondent banking and other similar relationships_; PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES > _MVTS_; PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES > Overview of R.16 and its application to VAs and VASPs; PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES > Sanctions screening for VA transfers |
+| [digest part 9](digest-009.md) | pp. 64-72 | PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES > Sanctions screening for VA transfers; PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES > Figure 1. Overview of generalised counterparty VASP due diligence process; PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES > VA transfers to/from ‘intermediary VASPs’; PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES > VA transfers to/from unhosted wallets; and 8 more sections |
+| [digest part 10](digest-010.md) | pp. 72-80 | PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES > _Understanding the ML/TF Risks_; PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES > _Mitigating the ML/TF Risks_; PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES > _General Approach_; PART THREE: APPLICATION OF FATF STANDARDS TO COUNTRIES AND COMPETENT AUTHORITIES > _Guidance_; and 2 more sections |
+| [digest part 11](digest-011.md) | pp. 80-89 | PART FOUR:; PART FOUR: > Customer due diligence; PART FOUR: > _When to conduct CDD_; PART FOUR: > _How to conduct CDD_; and 6 more sections |
 | [digest part 15](digest-015.md) | p. 111 | Glossary |
 
 ## How to cite

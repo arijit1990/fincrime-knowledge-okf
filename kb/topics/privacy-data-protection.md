@@ -8,7 +8,7 @@ domain_id: privacy_data_protection
 domain_scope: adjacent
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T07:21:49Z'
+  at: '2026-11-17T12:21:45Z'
 ---
 
 # Privacy, data protection & privacy-enhancing tech
