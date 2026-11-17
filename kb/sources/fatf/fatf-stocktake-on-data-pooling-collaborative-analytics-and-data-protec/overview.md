@@ -11,7 +11,7 @@ tags:
 - other
 - privacy_data_protection
 - public_private_partnership
-status: draft
+status: stable
 source_id: fatf-stocktake-on-data-pooling-collaborative-analytics-and-data-protec
 issuer: fatf
 issuer_name: Financial Action Task Force
@@ -41,14 +41,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T02:21:50Z'
+  at: '2026-11-17T07:21:49Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Digitaltransformation/Data-pooling-collaborative-analytics-data-protection.html
   title: Stocktake on Data Pooling, Collaborative Analytics and Data Protection
   author: org:fatf
-digest_points: 0
-digest_pending_parts: 8
+digest_points: 264
 ---
 
 # Stocktake on Data Pooling, Collaborative Analytics and Data Protection
@@ -68,8 +67,6 @@ digest_pending_parts: 8
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [public private partnership](../../../topics/public-private-partnership.md), [privacy data protection](../../../topics/privacy-data-protection.md), [network graph](../../../topics/network-graph.md), [data features](../../../topics/data-features.md) |
 
-> **Digest in progress:** 8 of 8 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -80,6 +77,14 @@ FATF (July 2021) stocktake of data pooling, collaborative analytics and PETs for
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 2-9 | JULY 2021 JULY 2021; 2  STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION; STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION  3; 4  STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION; and 3 more sections |
+| [digest part 2](digest-002.md) | pp. 9-15 | RESPONDENTS BY SECTOR; 8  STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION; STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION  9; 10  STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION; and 3 more sections |
+| [digest part 3](digest-003.md) | pp. 16-23 | 14  STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION; STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION  15; 16  STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION; STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION  17; and 4 more sections |
+| [digest part 4](digest-004.md) | pp. 24-32 | 22  STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION; STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION  23; 24  STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION; STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION  25; and 4 more sections |
+| [digest part 5](digest-005.md) | pp. 32-36 | 30  STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION; STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION  31; 32  STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION; STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION  33; and 1 more sections |
+| [digest part 6](digest-006.md) | pp. 37-42 | STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION  35; 36  STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION; STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION  37; 38  STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION; and 1 more sections |
+| [digest part 7](digest-007.md) | pp. 43-49 | STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION  41; 42  STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION; STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION  43; 44  STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION; and 3 more sections |
+| [digest part 8](digest-008.md) | pp. 50-56 | 48  STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION; STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION  49; 50  STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION; STOCKTAKE ON DATA POOLING, COLLABORATIVE ANALYTICS AND DATA PROTECTION  51; and 2 more sections |
 
 ## How to cite
 

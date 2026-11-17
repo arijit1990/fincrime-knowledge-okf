@@ -1,3 +1,5 @@
 # Parts
 
 * [Targeted Report on Stablecoins and Unhosted Wallets - Peer-to-Peer Transactions](overview.md) - Other by Financial Action Task Force (2026-03); INTL; international standard; status current.
+* [Targeted Report on Stablecoins and Unhosted Wallets - Peer-to-Peer Transactions - part 1 of 4 (pp. 1-14)](digest-001.md) - Verified paraphrased digest, pp. 1-14: Targeted Report on Stablecoins and Unhosted Wallets _Peer-to-Peer Transactions_; Targeted Report on Stablecoins and Unhosted Wallets _Peer-to-Peer Transactions_ > Table of Contents; Targeted Report on Stablecoins and Unhosted Wallets _Peer-to-Peer Transactions_ > Abbreviations and Acronyms; and 3 more sections
+* [Targeted Report on Stablecoins and Unhosted Wallets - Peer-to-Peer Transactions - part 2 of 4 (pp. 14-25)](digest-002.md) - Verified paraphrased digest, pp. 14-25: Targeted Report on Stablecoins and Unhosted Wallets _Peer-to-Peer Transactions_ > Part One: Analysis on Current situation, Threats and Vulnerabilities

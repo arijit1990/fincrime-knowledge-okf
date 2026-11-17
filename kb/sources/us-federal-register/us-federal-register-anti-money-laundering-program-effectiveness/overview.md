@@ -35,7 +35,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T02:21:50Z'
+  at: '2026-11-17T07:21:49Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2020/09/17/2020-20527/anti-money-laundering-program-effectiveness

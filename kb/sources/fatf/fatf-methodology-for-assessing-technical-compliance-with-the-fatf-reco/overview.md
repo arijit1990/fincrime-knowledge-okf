@@ -10,7 +10,7 @@ tags:
 - regulation
 - risk_assessment
 - standard
-status: draft
+status: stable
 source_id: fatf-methodology-for-assessing-technical-compliance-with-the-fatf-reco
 issuer: fatf
 issuer_name: Financial Action Task Force
@@ -39,14 +39,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T02:21:50Z'
+  at: '2026-11-17T07:21:49Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Mutualevaluations/Fatf-methodology.html
   title: Methodology for Assessing Technical Compliance with the FATF Recommendations and the Effectiveness of AML/CFT/CPF Systems
   author: org:fatf
-digest_points: 1260
-digest_pending_parts: 1
+digest_points: 1319
 ---
 
 # Methodology for Assessing Technical Compliance with the FATF Recommendations and the Effectiveness of AML/CFT/CPF Systems
@@ -65,8 +64,6 @@ digest_pending_parts: 1
 | Content in this bundle | verified digest (licence does not permit reproduction), 33 part(s), pp. 1-277 |
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [regulation](../../../topics/regulation.md), [effectiveness](../../../topics/effectiveness.md), [risk assessment](../../../topics/risk-assessment.md) |
-
-> **Digest in progress:** 1 of 33 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -103,6 +100,7 @@ Manually downloaded official source (site blocks automated access)
 | [digest part 23](digest-023.md) | pp. 170-179 | EFFECTIVENESS ASSESSMENT 167; GENERAL GLOSSARY; GENERAL GLOSSARY 169; 170 GENERAL GLOSSARY; and 6 more sections |
 | [digest part 24](digest-024.md) | pp. 180-188 | GENERAL GLOSSARY 177; 178 GENERAL GLOSSARY; GENERAL GLOSSARY 179; 180 GENERAL GLOSSARY; and 5 more sections |
 | [digest part 25](digest-025.md) | pp. 189-197 | 186 GENERAL GLOSSARY; GENERAL GLOSSARY 187; DNFBPS AND VASPS; LEGAL BASIS OF REQUIREMENTS ON FINANCIAL INSTITUTIONS AND DNFBPS 189; and 7 more sections |
+| [digest part 26](digest-026.md) | pp. 198-206 | ANNEX I: MUTUAL EVALUATION REPORT TEMPLATE 195; 196 ANNEX I: MUTUAL EVALUATION REPORT TEMPLATE; SYSTEMS; ANNEX I: MUTUAL EVALUATION REPORT TEMPLATE 197; and 5 more sections |
 | [digest part 27](digest-027.md) | pp. 207-214 | 204 ANNEX I: MUTUAL EVALUATION REPORT TEMPLATE; SYSTEMS; ANNEX I: MUTUAL EVALUATION REPORT TEMPLATE 205; 206 ANNEX I: MUTUAL EVALUATION REPORT TEMPLATE; and 5 more sections |
 | [digest part 28](digest-028.md) | pp. 215-227 | 212 ANNEX I: MUTUAL EVALUATION REPORT TEMPLATE; Chapter 2. International Co-operation; 214 ANNEX I: MUTUAL EVALUATION REPORT TEMPLATE; SYSTEMS; and 8 more sections |
 | [digest part 29](digest-029.md) | pp. 227-240 | SYSTEMS; ANNEX I: MUTUAL EVALUATION REPORT TEMPLATE 225; 226 ANNEX I: MUTUAL EVALUATION REPORT TEMPLATE; Chapter 6. Financial Intelligence; and 11 more sections |

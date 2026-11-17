@@ -38,14 +38,14 @@ text_quality_warnings:
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T02:21:50Z'
+  at: '2026-11-17T07:21:49Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Fatfrecommendations/targeted-updated-virtualassets-vasps-2026.html
   title: Seventh Targeted Update on Implementation of the FATF Standards on Virtual Assets/VASPs
   author: org:fatf
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 38
+digest_pending_parts: 2
 ---
 
 # Seventh Targeted Update on Implementation of the FATF Standards on Virtual Assets/VASPs
@@ -69,7 +69,7 @@ digest_pending_parts: 3
 
 - 1 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 2 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -81,6 +81,7 @@ Manually downloaded official source (site blocks automated access)
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-13 | _Table of Contents_; _Table of Contents_ > Executive Summary; _Table of Contents_ > Key Findings; _Table of Contents_ > Recommendations for the public and private sectors; and 5 more sections |
 
 ## How to cite
 

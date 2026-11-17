@@ -43,7 +43,7 @@ digest_points: 2
 
 # Opportunities and Challenges of New Technologies for AML/CFT (digest)
 
-[source overview](overview.md)
+[previous part](digest-007.md) | [source overview](overview.md)
 
 > **Digest, not the original wording.** The licence of this source does not permit reproducing its text, so this part (pp. 72-76) is a paraphrased digest of every material point. Each point was machine-checked: its anchor phrase occurs verbatim in the original, and an independent reviewing agent confirmed the point is supported by the text. Labels: normative strength / kind. Quote the original, not this digest, when exact wording matters (see `resource`). Normative force of this document: **international standard**.
 
@@ -56,6 +56,6 @@ digest_points: 2
 
 ---
 
-[source overview](overview.md)
+[previous part](digest-007.md) | [source overview](overview.md)
 
 [^original]: Financial Action Task Force, "Opportunities and Challenges of New Technologies for AML/CFT" (2021-07). https://www.fatf-gafi.org/en/publications/Digitaltransformation/Opportunities-challenges-new-technologies-for-aml-cft.html

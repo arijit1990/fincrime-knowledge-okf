@@ -26,10 +26,10 @@ parts_total: 2
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T02:21:50Z'
+  at: '2026-11-17T07:21:49Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-17T02:21:50Z'
+  at: '2026-11-17T07:21:49Z'
 sources:
 - id: original
   resource: https://www.fincen.gov/system/files/2025-08/FinCEN-Notice-CVCKIOSK.pdf

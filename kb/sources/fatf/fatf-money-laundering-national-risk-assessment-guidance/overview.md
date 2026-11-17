@@ -36,14 +36,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T02:21:50Z'
+  at: '2026-11-17T07:21:49Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Methodsandtrends/Money-Laundering-National-Risk-Assessment-Guidance.html
   title: Money Laundering National Risk Assessment Guidance
   author: org:fatf
-digest_points: 123
-digest_pending_parts: 5
+digest_points: 368
+digest_pending_parts: 3
 ---
 
 # Money Laundering National Risk Assessment Guidance
@@ -63,7 +63,7 @@ digest_pending_parts: 5
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [risk assessment](../../../topics/risk-assessment.md), [risk based approach](../../../topics/risk-based-approach.md) |
 
-> **Digest in progress:** 5 of 7 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 3 of 7 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -77,6 +77,8 @@ Manually downloaded official source (site blocks automated access)
 |---|---|---|
 | [digest part 1](digest-001.md) | pp. 1-15 | Money Laundering National Risk Assessment Guidance; Money Laundering National Risk Assessment Guidance > Table of Contents |
 | [digest part 2](digest-002.md) | pp. 15-24 | Money Laundering National Risk Assessment Guidance > Table of Contents |
+| [digest part 3](digest-003.md) | pp. 24-34 | Money Laundering National Risk Assessment Guidance > Table of Contents |
+| [digest part 4](digest-004.md) | pp. 34-45 | Money Laundering National Risk Assessment Guidance > Table of Contents |
 
 ## How to cite
 

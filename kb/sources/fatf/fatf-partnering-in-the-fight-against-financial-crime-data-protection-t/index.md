@@ -1,3 +1,10 @@
 # Parts
 
 * [Partnering in the Fight Against Financial Crime: Data Protection, Technology and Private Sector Information Sharing](overview.md) - Other by Financial Action Task Force (2022-07); INTL; international standard; status current.
+* [Partnering in the Fight Against Financial Crime: Data Protection, Technology and Private Sector Information Sharing - part 1 of 7 (pp. 2-14)](digest-001.md) - Verified paraphrased digest, pp. 2-14: JULY 2022 JULY 2022; SECTION ONE: Introduction
+* [Partnering in the Fight Against Financial Crime: Data Protection, Technology and Private Sector Information Sharing - part 2 of 7 (pp. 14-21)](digest-002.md) - Verified paraphrased digest, pp. 14-21: SECTION ONE: Introduction; SECTION THREE: What are data protection and privacy requirements and objectives?
+* [Partnering in the Fight Against Financial Crime: Data Protection, Technology and Private Sector Information Sharing - part 3 of 7 (pp. 21-30)](digest-003.md) - Verified paraphrased digest, pp. 21-30: SECTION FOUR: Presentation of information sharing case studies
+* [Partnering in the Fight Against Financial Crime: Data Protection, Technology and Private Sector Information Sharing - part 4 of 7 (pp. 30-40)](digest-004.md) - Verified paraphrased digest, pp. 30-40: SECTION FOUR: Presentation of information sharing case studies
+* [Partnering in the Fight Against Financial Crime: Data Protection, Technology and Private Sector Information Sharing - part 5 of 7 (pp. 40-50)](digest-005.md) - Verified paraphrased digest, pp. 40-50: SECTION FOUR: Presentation of information sharing case studies
+* [Partnering in the Fight Against Financial Crime: Data Protection, Technology and Private Sector Information Sharing - part 6 of 7 (pp. 50-59)](digest-006.md) - Verified paraphrased digest, pp. 50-59: SECTION FOUR: Presentation of information sharing case studies
+* [Partnering in the Fight Against Financial Crime: Data Protection, Technology and Private Sector Information Sharing - part 7 of 7 (pp. 59-68)](digest-007.md) - Verified paraphrased digest, pp. 59-68: SECTION FOUR: Presentation of information sharing case studies; AML/CFT/CPF

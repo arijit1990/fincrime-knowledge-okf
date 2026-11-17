@@ -24,10 +24,10 @@ parts_total: 4
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T02:21:50Z'
+  at: '2026-11-17T07:21:49Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-17T02:21:50Z'
+  at: '2026-11-17T07:21:49Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2016/03/10/2016-04880/financial-crimes-enforcement-network-amendment-to-the-bank-secrecy-act-regulations-reports-of

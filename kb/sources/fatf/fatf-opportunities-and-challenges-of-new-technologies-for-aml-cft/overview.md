@@ -41,14 +41,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T02:21:50Z'
+  at: '2026-11-17T07:21:49Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Digitaltransformation/Opportunities-challenges-new-technologies-for-aml-cft.html
   title: Opportunities and Challenges of New Technologies for AML/CFT
   author: org:fatf
-digest_points: 2
-digest_pending_parts: 7
+digest_points: 242
+digest_pending_parts: 2
 ---
 
 # Opportunities and Challenges of New Technologies for AML/CFT
@@ -68,7 +68,7 @@ digest_pending_parts: 7
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [genai](../../../topics/genai.md), [ml statistics](../../../topics/ml-statistics.md), [technology architecture](../../../topics/technology-architecture.md), [responsible ai](../../../topics/responsible-ai.md) |
 
-> **Digest in progress:** 7 of 8 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 2 of 8 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -80,6 +80,11 @@ Manually downloaded official source (site blocks automated access)
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 3](digest-003.md) | pp. 21-34 | 3. The Opportunities of New Technologies for AML/CFT; 3. The Opportunities of New Technologies for AML/CFT > 3.1. Artificial Intelligence (AI); 3. The Opportunities of New Technologies for AML/CFT > Box 5. Supervisory uses of machine learning; 3. The Opportunities of New Technologies for AML/CFT > 3.2. Natural Language Processing and soft computing techniques; and 9 more sections |
+| [digest part 4](digest-004.md) | pp. 34-47 | 3. The Opportunities of New Technologies for AML/CFT > Box 13. API in practice; 3. The Opportunities of New Technologies for AML/CFT > Box 14. Mexico; 3. The Opportunities of New Technologies for AML/CFT > 4.1. Regulatory challenges; 3. The Opportunities of New Technologies for AML/CFT > Box 15. Levering public infrastructure to facilitate digital CDDprocedures; and 5 more sections |
+| [digest part 5](digest-005.md) | pp. 48-55 | 5. Creating an enabling environment for the use of new technologies in AML/CFT; 5. Creating an enabling environment for the use of new technologies in AML/CFT > 5.1. Technologically-Active Supervisors27; 5. Creating an enabling environment for the use of new technologies in AML/CFT > Box 19. Innovation hubs, Tech-sprint and Sandbox examples; 5. Creating an enabling environment for the use of new technologies in AML/CFT > Box 20. Monetary Authority of Singapore; and 2 more sections |
+| [digest part 6](digest-006.md) | pp. 56-63 | Annexes; Annex A: Glossary; Annex B: Suggested Actions to Support the Use of Technology in AML/CFT |
+| [digest part 7](digest-007.md) | pp. 64-71 | Annex C: Case Studies > Brazil; Annex C: Case Studies > Malaysia; Annex D: Additional RegTech case studies for the uses of new technologies for AML/CFT; Annex D: Additional RegTech case studies for the uses of new technologies for AML/CFT > Case Study: Risk Management Solution; and 3 more sections |
 | [digest part 8](digest-008.md) | pp. 72-76 | References |
 
 ## How to cite

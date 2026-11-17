@@ -37,14 +37,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T02:21:50Z'
+  at: '2026-11-17T07:21:49Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-rba-virtual-assets-2021.html
   title: Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers
   author: org:fatf
-digest_points: 0
-digest_pending_parts: 15
+digest_points: 6
+digest_pending_parts: 14
 ---
 
 # Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers
@@ -64,7 +64,7 @@ digest_pending_parts: 15
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [virtual assets](../../../topics/virtual-assets.md), [risk based approach](../../../topics/risk-based-approach.md) |
 
-> **Digest in progress:** 15 of 15 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 14 of 15 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -76,6 +76,7 @@ Manually downloaded official source (site blocks automated access)
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 15](digest-015.md) | p. 111 | Glossary |
 
 ## How to cite
 

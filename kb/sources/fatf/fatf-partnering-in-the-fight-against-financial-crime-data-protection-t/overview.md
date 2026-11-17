@@ -11,7 +11,7 @@ tags:
 - privacy_data_protection
 - public_private_partnership
 - technology_architecture
-status: draft
+status: stable
 source_id: fatf-partnering-in-the-fight-against-financial-crime-data-protection-t
 issuer: fatf
 issuer_name: Financial Action Task Force
@@ -41,15 +41,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T02:21:50Z'
+  at: '2026-11-17T07:21:49Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Digitaltransformation/Partnering-in-the-fight-against-financial-crime.html
   title: 'Partnering in the Fight Against Financial Crime: Data Protection, Technology and Private Sector Information Sharing'
   author: org:fatf
 download_url: https://www.fatf-gafi.org/content/dam/fatf/documents/Partnering-int-the-fight-against-financial-crime.pdf
-digest_points: 0
-digest_pending_parts: 7
+digest_points: 352
 ---
 
 # Partnering in the Fight Against Financial Crime: Data Protection, Technology and Private Sector Information Sharing
@@ -69,8 +68,6 @@ digest_pending_parts: 7
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [public private partnership](../../../topics/public-private-partnership.md), [privacy data protection](../../../topics/privacy-data-protection.md), [data features](../../../topics/data-features.md), [technology architecture](../../../topics/technology-architecture.md) |
 
-> **Digest in progress:** 7 of 7 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -81,6 +78,13 @@ FATF (July 2022) report on private-sector information sharing, data protection a
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 2-14 | JULY 2022 JULY 2022; SECTION ONE: Introduction |
+| [digest part 2](digest-002.md) | pp. 14-21 | SECTION ONE: Introduction; SECTION THREE: What are data protection and privacy requirements and objectives? |
+| [digest part 3](digest-003.md) | pp. 21-30 | SECTION FOUR: Presentation of information sharing case studies |
+| [digest part 4](digest-004.md) | pp. 30-40 | SECTION FOUR: Presentation of information sharing case studies |
+| [digest part 5](digest-005.md) | pp. 40-50 | SECTION FOUR: Presentation of information sharing case studies |
+| [digest part 6](digest-006.md) | pp. 50-59 | SECTION FOUR: Presentation of information sharing case studies |
+| [digest part 7](digest-007.md) | pp. 59-68 | SECTION FOUR: Presentation of information sharing case studies; AML/CFT/CPF |
 
 ## How to cite
 

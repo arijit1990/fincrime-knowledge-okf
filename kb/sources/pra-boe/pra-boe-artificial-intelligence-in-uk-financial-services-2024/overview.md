@@ -41,7 +41,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T02:21:50Z'
+  at: '2026-11-17T07:21:49Z'
 sources:
 - id: original
   resource: https://www.bankofengland.co.uk/report/2024/artificial-intelligence-in-uk-financial-services-2024

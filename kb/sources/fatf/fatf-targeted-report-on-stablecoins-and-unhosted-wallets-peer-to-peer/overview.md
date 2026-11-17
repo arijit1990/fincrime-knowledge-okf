@@ -39,14 +39,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T02:21:50Z'
+  at: '2026-11-17T07:21:49Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Virtualassets/targeted-report-stablecoins-unhosted-wallets.html
   title: Targeted Report on Stablecoins and Unhosted Wallets - Peer-to-Peer Transactions
   author: org:fatf
-digest_points: 0
-digest_pending_parts: 4
+digest_points: 100
+digest_pending_parts: 2
 ---
 
 # Targeted Report on Stablecoins and Unhosted Wallets - Peer-to-Peer Transactions
@@ -66,7 +66,7 @@ digest_pending_parts: 4
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [virtual assets](../../../topics/virtual-assets.md), [typologies](../../../topics/typologies.md), [emerging threats](../../../topics/emerging-threats.md) |
 
-> **Digest in progress:** 4 of 4 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 2 of 4 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -78,6 +78,8 @@ Manually downloaded official source (site blocks automated access)
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-14 | Targeted Report on Stablecoins and Unhosted Wallets _Peer-to-Peer Transactions_; Targeted Report on Stablecoins and Unhosted Wallets _Peer-to-Peer Transactions_ > Table of Contents; Targeted Report on Stablecoins and Unhosted Wallets _Peer-to-Peer Transactions_ > Abbreviations and Acronyms; Targeted Report on Stablecoins and Unhosted Wallets _Peer-to-Peer Transactions_ > Executive Summary; and 2 more sections |
+| [digest part 2](digest-002.md) | pp. 14-25 | Targeted Report on Stablecoins and Unhosted Wallets _Peer-to-Peer Transactions_ > Part One: Analysis on Current situation, Threats and Vulnerabilities |
 
 ## How to cite
 
