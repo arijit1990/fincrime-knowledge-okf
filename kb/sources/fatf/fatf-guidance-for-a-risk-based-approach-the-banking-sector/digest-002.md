@@ -43,7 +43,7 @@ digest_points: 66
 
 # Guidance for a Risk-Based Approach: The Banking Sector (digest)
 
-[previous part](digest-001.md) | [source overview](overview.md)
+[previous part](digest-001.md) | [source overview](overview.md) | [next part](digest-003.md)
 
 > **Digest, not the original wording.** The licence of this source does not permit reproducing its text, so this part (pp. 14-24) is a paraphrased digest of every material point. Each point was machine-checked: its anchor phrase occurs verbatim in the original, and an independent reviewing agent confirmed the point is supported by the text. Labels: normative strength / kind. Quote the original, not this digest, when exact wording matters (see `resource`). Normative force of this document: **international standard**.
 
@@ -235,6 +235,6 @@ digest_points: 66
 
 ---
 
-[previous part](digest-001.md) | [source overview](overview.md)
+[previous part](digest-001.md) | [source overview](overview.md) | [next part](digest-003.md)
 
 [^original]: Financial Action Task Force, "Guidance for a Risk-Based Approach: The Banking Sector" (2014-10). https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-rba-banking-sector.html

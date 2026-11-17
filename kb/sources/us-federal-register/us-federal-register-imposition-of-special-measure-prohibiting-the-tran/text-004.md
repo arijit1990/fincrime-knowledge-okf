@@ -24,10 +24,10 @@ parts_total: 4
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:31:16Z'
+  at: '2026-11-17T02:21:50Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-16T16:31:16Z'
+  at: '2026-11-17T02:21:50Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2024/10/11/2024-23430/imposition-of-special-measure-prohibiting-the-transmittal-of-funds-involving-pm2btc

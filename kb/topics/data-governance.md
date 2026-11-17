@@ -8,7 +8,7 @@ domain_id: data_governance
 domain_scope: core
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:31:16Z'
+  at: '2026-11-17T02:21:50Z'
 ---
 
 # Data governance & lineage

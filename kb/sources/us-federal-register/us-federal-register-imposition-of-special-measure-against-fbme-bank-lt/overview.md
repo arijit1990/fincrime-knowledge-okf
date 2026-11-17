@@ -35,7 +35,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:31:16Z'
+  at: '2026-11-17T02:21:50Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2016/03/31/2016-07210/imposition-of-special-measure-against-fbme-bank-ltd-formerly-known-as-the-federal-bank-of-the-middle

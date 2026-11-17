@@ -35,7 +35,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:31:16Z'
+  at: '2026-11-17T02:21:50Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2026/03/02/2026-04033/proposal-of-special-measure-regarding-mbaer-merchant-bank-ag-as-a-financial-institution-operating

@@ -37,7 +37,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:31:16Z'
+  at: '2026-11-17T02:21:50Z'
 sources:
 - id: original
   resource: https://www.fincen.gov/system/files/enforcement_action/2023-04-05/USAA_Consent_Order_Final_508_2.pdf

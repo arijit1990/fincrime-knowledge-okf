@@ -11,7 +11,7 @@ tags:
 - regulation
 - risk_based_approach
 - transaction_behaviour
-status: draft
+status: stable
 source_id: fatf-guidance-for-a-risk-based-approach-the-banking-sector
 issuer: fatf
 issuer_name: Financial Action Task Force
@@ -41,14 +41,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:31:16Z'
+  at: '2026-11-17T02:21:50Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-rba-banking-sector.html
   title: 'Guidance for a Risk-Based Approach: The Banking Sector'
   author: org:fatf
-digest_points: 167
-digest_pending_parts: 1
+digest_points: 224
 ---
 
 # Guidance for a Risk-Based Approach: The Banking Sector
@@ -68,8 +67,6 @@ digest_pending_parts: 1
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [risk based approach](../../../topics/risk-based-approach.md), [customer risk](../../../topics/customer-risk.md), [transaction behaviour](../../../topics/transaction-behaviour.md), [regulation](../../../topics/regulation.md) |
 
-> **Digest in progress:** 1 of 5 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -82,6 +79,7 @@ Manually downloaded official source (site blocks automated access)
 |---|---|---|
 | [digest part 1](digest-001.md) | pp. 1-13 | TABLE OF CONTENTS; TABLE OF ACRONYMS; INTRODUCTION > A. BACKGROUND AND CONTEXT; INTRODUCTION > C. TARGET AUDIENCE, STATUS AND CONTENT OF THE GUIDANCE; and 4 more sections |
 | [digest part 2](digest-002.md) | pp. 14-24 | SECTION II – GUIDANCE FOR SUPERVISORS; SECTION II – GUIDANCE FOR SUPERVISORS > A. THE RISK-BASED APPROACH TO SUPERVISION; SECTION II – GUIDANCE FOR SUPERVISORS > B. SUPERVISION OF THE RISK-BASED APPROACH; SECTION III – GUIDANCE FOR BANKS; and 3 more sections |
+| [digest part 3](digest-003.md) | pp. 25-37 | SECTION III – GUIDANCE FOR BANKS > C. INTERNAL CONTROLS, GOVERNANCE AND MONITORING; EXAMPLES OF COUNTRIES’ SUPERVISORY PRACTICES FOR THE IMPLEMENTATION OF THE RISK-BASED APPROACH TO THE BANKING SECTOR; EXAMPLES OF COUNTRIES’ SUPERVISORY PRACTICES FOR THE IMPLEMENTATION OF THE RISK-BASED APPROACH TO THE BANKING SECTOR > _AUSTRALIA_; EXAMPLES OF COUNTRIES’ SUPERVISORY PRACTICES FOR THE IMPLEMENTATION OF THE RISK-BASED APPROACH TO THE BANKING SECTOR > _GERMANY_; and 6 more sections |
 | [digest part 4](digest-004.md) | pp. 37-46 | EXAMPLES OF COUNTRIES’ SUPERVISORY PRACTICES FOR THE IMPLEMENTATION OF THE RISK-BASED APPROACH TO THE BANKING SECTOR > _ITALY_; EXAMPLES OF COUNTRIES’ SUPERVISORY PRACTICES FOR THE IMPLEMENTATION OF THE RISK-BASED APPROACH TO THE BANKING SECTOR > _FRANCE_; EXAMPLES OF COUNTRIES’ SUPERVISORY PRACTICES FOR THE IMPLEMENTATION OF THE RISK-BASED APPROACH TO THE BANKING SECTOR > _THE NETHERLANDS_; EXAMPLES OF COUNTRIES’ SUPERVISORY PRACTICES FOR THE IMPLEMENTATION OF THE RISK-BASED APPROACH TO THE BANKING SECTOR > _UNITED KINGDOM_; and 8 more sections |
 | [digest part 5](digest-005.md) | pp. 47-50 | ANNEX 2; BIBLIOGRAPHY |
 

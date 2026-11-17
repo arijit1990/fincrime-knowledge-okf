@@ -41,14 +41,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:31:16Z'
+  at: '2026-11-17T02:21:50Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Digitaltransformation/Opportunities-challenges-new-technologies-for-aml-cft.html
   title: Opportunities and Challenges of New Technologies for AML/CFT
   author: org:fatf
-digest_points: 0
-digest_pending_parts: 8
+digest_points: 2
+digest_pending_parts: 7
 ---
 
 # Opportunities and Challenges of New Technologies for AML/CFT
@@ -68,7 +68,7 @@ digest_pending_parts: 8
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [genai](../../../topics/genai.md), [ml statistics](../../../topics/ml-statistics.md), [technology architecture](../../../topics/technology-architecture.md), [responsible ai](../../../topics/responsible-ai.md) |
 
-> **Digest in progress:** 8 of 8 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 7 of 8 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -80,6 +80,7 @@ Manually downloaded official source (site blocks automated access)
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 8](digest-008.md) | pp. 72-76 | References |
 
 ## How to cite
 

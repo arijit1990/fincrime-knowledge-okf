@@ -15,7 +15,7 @@ tags:
 - standard
 - terrorist_financing
 - virtual_assets
-status: draft
+status: stable
 source_id: fatf-international-standards-on-combating-money-laundering-and-the-fin
 issuer: fatf
 issuer_name: Financial Action Task Force
@@ -49,14 +49,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-16T16:31:16Z'
+  at: '2026-11-17T02:21:50Z'
 sources:
 - id: original
   resource: https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html
   title: 'International Standards on Combating Money Laundering and the Financing of Terrorism & Proliferation: The FATF Recommendations'
   author: org:fatf
-digest_points: 717
-digest_pending_parts: 4
+digest_points: 976
 ---
 
 # International Standards on Combating Money Laundering and the Financing of Terrorism & Proliferation: The FATF Recommendations
@@ -76,8 +75,6 @@ digest_pending_parts: 4
 | Licence | FATF copyright; non-commercial reproduction with attribution (Reproduction not permitted for commercial/internal use (FATF copyright; non-commercial reproduction with attribution)) |
 | Topics | [regulation](../../../topics/regulation.md), [risk based approach](../../../topics/risk-based-approach.md), [customer risk](../../../topics/customer-risk.md), [beneficial ownership](../../../topics/beneficial-ownership.md), [terrorist financing](../../../topics/terrorist-financing.md), [proliferation financing](../../../topics/proliferation-financing.md), [virtual assets](../../../topics/virtual-assets.md), [correspondent banking](../../../topics/correspondent-banking.md) |
 
-> **Digest in progress:** 4 of 17 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -95,11 +92,15 @@ Manually downloaded official source (site blocks automated access)
 | [digest part 5](digest-005.md) | pp. 38-50 | INTERPRETIVE NOTE TO RECOMMENDATION 2 (NATIONAL COOPERATION AND COORDINATION); INTERPRETIVE NOTE TO RECOMMENDATION 3 (MONEY LAUNDERING OFFENCE); INTERPRETIVE NOTE TO RECOMMENDATION 4 (CONFISCATION AND PROVISIONAL MEASURES); INTERPRETIVE NOTE TO RECOMMENDATION 5 (TERRORIST FINANCING OFFENCE); and 1 more sections |
 | [digest part 6](digest-006.md) | pp. 50-57 | A. OBJECTIVE; D. DE-LISTING, UNFREEZING AND PROVIDING ACCESS TO FROZEN FUNDS OR OTHER ASSETS; E. UNITED NATIONS DESIGNATION CRITERIA; B. DESIGNATIONS |
 | [digest part 7](digest-007.md) | pp. 57-63 | D. DE-LISTING, UNFREEZING AND PROVIDING ACCESS TO FROZEN FUNDS OR OTHER ASSETS; E. UNITED NATIONS DESIGNATION CRITERIA; A. INTRODUCTION; B. OBJECTIVES AND GENERAL PRINCIPLES |
+| [digest part 8](digest-008.md) | pp. 63-70 | C. RISK ASSESSMENT AND MITIGATING MEASURES; D. EFFECTIVE APPROACH IN IDENTIFYING, PREVENTING AND COMBATING TF ABUSE OF NPOS; E. RESOURCES FOR OVERSIGHT, MONITORING, AND INVESTIGATION; A. CUSTOMER DUE DILIGENCE AND TIPPING-OFF; and 3 more sections |
+| [digest part 9](digest-009.md) | pp. 70-80 | E. RELIANCE ON IDENTIFICATION AND VERIFICATION ALREADY PERFORMED; F. TIMING OF VERIFICATION; G. EXISTING CUSTOMERS; H. RISK BASED APPROACH43; and 2 more sections |
 | [digest part 10](digest-010.md) | pp. 81-90 | A. OBJECTIVE; B. SCOPE; C. INFORMATION REQUIREMENTS |
 | [digest part 11](digest-011.md) | pp. 90-99 | INTERPRETIVE NOTE TO RECOMMENDATION 17 (RELIANCE ON THIRD PARTIES); INTERPRETIVE NOTE TO RECOMMENDATION 19 (HIGHER-RISK COUNTRIES); INTERPRETIVE NOTE TO RECOMMENDATION 20 (REPORTING OF SUSPICIOUS TRANSACTIONS); INTERPRETIVE NOTE TO RECOMMENDATIONS 22 AND 23 (DNFBPS); and 4 more sections |
 | [digest part 12](digest-012.md) | pp. 99-108 | C. TIMELY ACCESS TO ADEQUATE, ACCURATE AND UP-TO-DATE INFORMATION; D. OBSTACLES TO TRANSPARENCY; E. OTHER LEGAL PERSONS; F. LIABILITY AND SANCTIONS; and 1 more sections |
 | [digest part 13](digest-013.md) | pp. 109-117 | INTERPRETIVE NOTE TO RECOMMENDATION 28 (REGULATION AND SUPERVISION OF DNFBPS); A. GENERAL; B. FUNCTIONS; C. ACCESS TO INFORMATION; and 7 more sections |
 | [digest part 14](digest-014.md) | pp. 117-123 | D. SANCTIONS; E. GOLD, PRECIOUS METALS AND PRECIOUS STONES; A. PRINCIPLES APPLICABLE TO ALL FORMS OF INTERNATIONAL COOPERATION; B. PRINCIPLES APPLICABLE TO SPECIFIC FORMS OF INTERNATIONAL COOPERATION |
+| [digest part 15](digest-015.md) | pp. 124-137 | LEGAL BASIS OF REQUIREMENTS ON FINANCIAL INSTITUTIONS AND DNFBPS AND VASPS; GENERAL GLOSSARY |
+| [digest part 16](digest-016.md) | pp. 137-146 | GENERAL GLOSSARY; TABLE OF ACRONYMS; ANNEX I: FATF GUIDANCE DOCUMENTS;  INR.5 (B.3) |
 | [digest part 17](digest-017.md) | pp. 146-151 |  INR.18;  INR. 15;  INR.16 |
 
 ## How to cite
