@@ -25,10 +25,10 @@ parts_total: 7
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T17:21:51Z'
+  at: '2026-11-21T03:48:52Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-17T17:21:51Z'
+  at: '2026-11-21T03:48:52Z'
 sources:
 - id: original
   resource: https://www.fincen.gov/system/files/2026-07/UBS-Consent-Order.pdf

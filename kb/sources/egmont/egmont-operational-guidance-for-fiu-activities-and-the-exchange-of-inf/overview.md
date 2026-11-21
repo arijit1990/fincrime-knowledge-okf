@@ -35,7 +35,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T17:21:51Z'
+  at: '2026-11-21T03:48:52Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2013/07/EGMONT-Group-Operational-Guidance-for-FIU-Activities-and-the-Exchange-of-Information-%E2%80%93-Revised-May-2024.pdf

@@ -9,7 +9,7 @@ tags:
 - intl
 - regulation
 - standard
-status: draft
+status: stable
 source_id: wolfsberg-the-wolfsberg-group-principles-for-using-artificial-intellig
 issuer: wolfsberg
 issuer_name: Wolfsberg Group
@@ -37,14 +37,13 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T17:21:51Z'
+  at: '2026-11-21T03:48:52Z'
 sources:
 - id: original
   resource: https://wolfsberg-group.org/resources/innovation/93
   title: The Wolfsberg Group - Principles for Using Artificial Intelligence and Machine Learning in Financial Crime Compliance 2022
   author: org:wolfsberg
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 34
 ---
 
 # The Wolfsberg Group - Principles for Using Artificial Intelligence and Machine Learning in Financial Crime Compliance 2022
@@ -64,8 +63,6 @@ digest_pending_parts: 1
 | Licence | Wolfsberg terms (Reproduction not permitted for commercial/internal use (Wolfsberg terms)) |
 | Topics | [effectiveness](../../../topics/effectiveness.md), [regulation](../../../topics/regulation.md) |
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -76,6 +73,7 @@ Five industry principles for responsible AI/ML use in financial crime compliance
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | Introduction; Footnotes |
 
 ## How to cite
 

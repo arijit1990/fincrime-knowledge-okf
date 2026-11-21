@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T17:21:51Z'
+  at: '2026-11-21T03:48:52Z'
 sources:
 - id: original
   resource: https://www.bis.org/publications/fsi-paper-24-managing-explanations-how-regulators-can-address-ai-explainability
@@ -48,7 +48,7 @@ sources:
   last_modified: '2025-09-08T00:00:00Z'
 download_url: https://www.bis.org/publications/fsi-paper-24-managing-explanations-how-regulators-can-address-ai-explainability.pdf
 digest_points: 0
-digest_pending_parts: 3
+digest_pending_parts: 2
 ---
 
 # Managing explanations: how regulators can address AI explainability
@@ -68,7 +68,7 @@ digest_pending_parts: 3
 | Licence | BIS terms (Reproduction not permitted for commercial/internal use (BIS terms)) |
 | Topics | [explainability](../../../topics/explainability.md), [model governance](../../../topics/model-governance.md), [model validation](../../../topics/model-validation.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 2 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -80,6 +80,7 @@ FSI Occasional Paper 24 on adapting MRM guidelines to limited-explainability AI,
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 3](digest-003.md) | pp. 20-23 | Managing explanations: how regulators can address AI explainability issues > References |
 
 ## How to cite
 

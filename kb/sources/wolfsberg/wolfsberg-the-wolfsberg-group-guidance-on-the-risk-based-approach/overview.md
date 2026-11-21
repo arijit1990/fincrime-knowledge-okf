@@ -9,7 +9,7 @@ tags:
 - industry_practice
 - intl
 - risk_based_approach
-status: draft
+status: stable
 source_id: wolfsberg-the-wolfsberg-group-guidance-on-the-risk-based-approach
 issuer: wolfsberg
 issuer_name: Wolfsberg Group
@@ -37,14 +37,13 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T17:21:51Z'
+  at: '2026-11-21T03:48:52Z'
 sources:
 - id: original
   resource: https://wolfsberg-group.org/resources/rba/205
   title: The Wolfsberg Group - Guidance on the Risk-Based Approach
   author: org:wolfsberg
-digest_points: 0
-digest_pending_parts: 2
+digest_points: 63
 ---
 
 # The Wolfsberg Group - Guidance on the Risk-Based Approach
@@ -64,8 +63,6 @@ digest_pending_parts: 2
 | Licence | Wolfsberg terms (Reproduction not permitted for commercial/internal use (Wolfsberg terms)) |
 | Topics | [risk based approach](../../../topics/risk-based-approach.md), [effectiveness](../../../topics/effectiveness.md) |
 
-> **Digest in progress:** 2 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -76,6 +73,8 @@ Latest Wolfsberg RBA guidance (proportionality, prioritisation, effectiveness), 
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | The Wolfsberg Group - Guidance on the Risk-Based Approach |
+| [digest part 2](digest-002.md) | p. 1 | Footnotes |
 
 ## How to cite
 

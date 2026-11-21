@@ -8,7 +8,7 @@ domain_id: sanctions_adjacent
 domain_scope: adjacent
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T17:21:51Z'
+  at: '2026-11-21T03:48:52Z'
 ---
 
 # Sanctions (adjacent to screening)

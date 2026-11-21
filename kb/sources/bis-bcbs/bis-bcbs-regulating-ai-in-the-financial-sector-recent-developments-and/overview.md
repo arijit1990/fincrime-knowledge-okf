@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T17:21:51Z'
+  at: '2026-11-21T03:48:52Z'
 sources:
 - id: original
   resource: https://www.bis.org/publications/fsi-insight-63-regulating-ai-financial-sector-recent-developments-and-main-challenges
@@ -47,8 +47,8 @@ sources:
   author: org:bis_bcbs
   last_modified: '2024-12-12T00:00:00Z'
 download_url: https://www.bis.org/publications/fsi-insight-63-regulating-ai-financial-sector-recent-developments-and-main-challenges.pdf
-digest_points: 0
-digest_pending_parts: 5
+digest_points: 5
+digest_pending_parts: 4
 ---
 
 # Regulating AI in the financial sector: recent developments and main challenges
@@ -68,7 +68,7 @@ digest_pending_parts: 5
 | Licence | BIS terms (Reproduction not permitted for commercial/internal use (BIS terms)) |
 | Topics | [responsible ai](../../../topics/responsible-ai.md), [model governance](../../../topics/model-governance.md), [data governance](../../../topics/data-governance.md) |
 
-> **Digest in progress:** 5 of 5 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 4 of 5 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -80,6 +80,7 @@ FSI Insights 63 cross-jurisdiction review: AI amplifies model and data risk; gap
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 5](digest-005.md) | pp. 34-38 | Regulating AI in the financial sector: recent developments and main challenges1 > Section 5 – Conclusion; Regulating AI in the financial sector: recent developments and main challenges1 > References |
 
 ## How to cite
 

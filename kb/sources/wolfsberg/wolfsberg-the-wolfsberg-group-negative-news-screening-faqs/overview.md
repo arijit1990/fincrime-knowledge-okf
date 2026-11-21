@@ -10,7 +10,7 @@ tags:
 - industry_practice
 - intl
 - investigations
-status: draft
+status: stable
 source_id: wolfsberg-the-wolfsberg-group-negative-news-screening-faqs
 issuer: wolfsberg
 issuer_name: Wolfsberg Group
@@ -39,14 +39,13 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T17:21:51Z'
+  at: '2026-11-21T03:48:52Z'
 sources:
 - id: original
   resource: https://wolfsberg-group.org/resources/168/118
   title: The Wolfsberg Group - Negative News Screening FAQs
   author: org:wolfsberg
-digest_points: 0
-digest_pending_parts: 2
+digest_points: 166
 ---
 
 # The Wolfsberg Group - Negative News Screening FAQs
@@ -66,8 +65,6 @@ digest_pending_parts: 2
 | Licence | Wolfsberg terms (Reproduction not permitted for commercial/internal use (Wolfsberg terms)) |
 | Topics | [customer risk](../../../topics/customer-risk.md), [data features](../../../topics/data-features.md), [investigations](../../../topics/investigations.md) |
 
-> **Digest in progress:** 2 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -78,6 +75,8 @@ Primary industry standard on adverse media / negative news screening: definition
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | The Wolfsberg Group - Negative News Screening FAQs |
+| [digest part 2](digest-002.md) | p. 1 | The Wolfsberg Group - Negative News Screening FAQs; Glossary; Glossary > Footnotes |
 
 ## How to cite
 

@@ -35,7 +35,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T17:21:51Z'
+  at: '2026-11-21T03:48:52Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2017/09/28/2017-20777/customer-due-diligence-requirements-for-financial-institutions-correction

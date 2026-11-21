@@ -9,7 +9,7 @@ tags:
 - international_standard
 - intl
 - standard
-status: draft
+status: stable
 source_id: bis-bcbs-harmonised-iso-20022-data-requirements-for-enhancing-cross-bo
 issuer: bis_bcbs
 issuer_name: Bank for International Settlements / Basel Committee
@@ -37,7 +37,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T17:21:51Z'
+  at: '2026-11-21T03:48:52Z'
 sources:
 - id: original
   resource: https://www.bis.org/publications/harmonised-iso-20022-data-requirements-enhancing-cross-border-payments-updated-report
@@ -45,8 +45,7 @@ sources:
   author: org:bis_bcbs
   last_modified: '2026-02-26T00:00:00Z'
 download_url: https://www.bis.org/publications/harmonised-iso-20022-data-requirements-enhancing-cross-border-payments-updated-report.pdf
-digest_points: 0
-digest_pending_parts: 4
+digest_points: 141
 ---
 
 # Harmonised ISO 20022 data requirements for enhancing cross-border payments - updated report
@@ -66,8 +65,6 @@ digest_pending_parts: 4
 | Licence | BIS terms (Reproduction not permitted for commercial/internal use (BIS terms)) |
 | Topics | [correspondent banking](../../../topics/correspondent-banking.md), [data features](../../../topics/data-features.md) |
 
-> **Digest in progress:** 4 of 4 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -78,6 +75,10 @@ Current CPMI harmonised ISO 20022 data requirements (structured party/address da
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-7 | Table of contents; Executive summary; 1. Introduction > 1.1 Purpose of the report; 1. Introduction > 1.2 Frictions from fragmented messaging standards; and 5 more sections |
+| [digest part 2](digest-002.md) | pp. 8-18 | 2. Harmonised ISO 20022 data requirements for enhanced crossborder payments > 2.1 Objective; 2. Harmonised ISO 20022 data requirements for enhanced crossborder payments > 2.2 Guiding principles; 2. Harmonised ISO 20022 data requirements for enhanced crossborder payments > 2.3 Main components of the harmonisation requirements |
+| [digest part 3](digest-003.md) | pp. 18-23 | 2. Harmonised ISO 20022 data requirements for enhanced crossborder payments > 2.3 Main components of the harmonisation requirements; 3. Implementation and maintenance; 4. Conclusion |
+| [digest part 4](digest-004.md) | pp. 24-30 | References; Annex 1: Harmonisation requirements core ISO 20022 message > Credit transfers (pacs.008, pacs.009, pacs.002); Annex 1: Harmonisation requirements core ISO 20022 message > Payment returns (camt.056, camt.029, pacs.004); Annex 1: Harmonisation requirements core ISO 20022 message > Other referenced messages |
 
 ## How to cite
 

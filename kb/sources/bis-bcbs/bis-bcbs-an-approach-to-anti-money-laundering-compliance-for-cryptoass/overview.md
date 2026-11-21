@@ -10,7 +10,7 @@ tags:
 - other
 - transaction_behaviour
 - virtual_assets
-status: draft
+status: stable
 source_id: bis-bcbs-an-approach-to-anti-money-laundering-compliance-for-cryptoass
 issuer: bis_bcbs
 issuer_name: Bank for International Settlements / Basel Committee
@@ -39,15 +39,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T17:21:51Z'
+  at: '2026-11-21T03:48:52Z'
 sources:
 - id: original
   resource: https://www.bis.org/publications/bulletin-111-approach-anti-money-laundering-compliance-cryptoassets.pdf
   title: An approach to anti-money laundering compliance for cryptoassets
   author: org:bis_bcbs
   last_modified: '2025-08-13T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 45
 ---
 
 # An approach to anti-money laundering compliance for cryptoassets
@@ -67,8 +66,6 @@ digest_pending_parts: 1
 | Licence | BIS terms (Reproduction not permitted for commercial/internal use (BIS terms)) |
 | Topics | [network graph](../../../topics/network-graph.md), [virtual assets](../../../topics/virtual-assets.md), [transaction behaviour](../../../topics/transaction-behaviour.md) |
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -79,6 +76,7 @@ BIS Bulletin 111 proposing on-chain transaction-history analytics (AML complianc
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-8 | BIS Bulletin; BIS Bulletin > _Key takeaways_; BIS Bulletin > AML compliance scores for cryptoassets; BIS Bulletin > Broader policy considerations; and 1 more sections |
 
 ## How to cite
 

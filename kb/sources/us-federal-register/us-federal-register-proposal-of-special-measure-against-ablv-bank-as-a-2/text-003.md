@@ -24,10 +24,10 @@ parts_total: 4
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T17:21:51Z'
+  at: '2026-11-21T03:48:52Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-17T17:21:51Z'
+  at: '2026-11-21T03:48:52Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2018/02/16/2018-03214/proposal-of-special-measure-against-ablv-bank-as-as-a-financial-institution-of-primary-money

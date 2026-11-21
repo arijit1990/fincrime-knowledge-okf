@@ -10,7 +10,7 @@ tags:
 - intl
 - ml_statistics
 - transaction_behaviour
-status: draft
+status: stable
 source_id: bis-bcbs-finding-a-needle-in-a-haystack-a-machine-learning-framework-f
 issuer: bis_bcbs
 issuer_name: Bank for International Settlements / Basel Committee
@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T17:21:51Z'
+  at: '2026-11-21T03:48:52Z'
 sources:
 - id: original
   resource: https://www.bis.org/publications/working-paper-1188-finding-needle-haystack-machine-learning-framework-anomaly-detection-payment-systems
@@ -47,8 +47,7 @@ sources:
   author: org:bis_bcbs
   last_modified: '2024-05-15T00:00:00Z'
 download_url: https://www.bis.org/publications/working-paper-1188-finding-needle-haystack-machine-learning-framework-anomaly-detection-payment-systems
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 13
 ---
 
 # Finding a needle in a haystack: a machine learning framework for anomaly detection in payment systems
@@ -68,8 +67,6 @@ digest_pending_parts: 1
 | Licence | BIS terms (Reproduction not permitted for commercial/internal use (BIS terms)) |
 | Topics | [transaction behaviour](../../../topics/transaction-behaviour.md), [ml statistics](../../../topics/ml-statistics.md), [alerts triage](../../../topics/alerts-triage.md) |
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -80,6 +77,7 @@ BIS working paper on a two-layer supervised-then-unsupervised framework for real
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | Finding a needle in a haystack: a machine learning framework for anomaly detection in payment systems > Focus; Finding a needle in a haystack: a machine learning framework for anomaly detection in payment systems > Contribution; Finding a needle in a haystack: a machine learning framework for anomaly detection in payment systems > Abstract |
 
 ## How to cite
 

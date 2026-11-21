@@ -35,7 +35,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T17:21:51Z'
+  at: '2026-11-21T03:48:52Z'
 sources:
 - id: original
   resource: https://www.bis.org/publications/correspondent-banking-final-report
@@ -43,8 +43,8 @@ sources:
   author: org:bis_bcbs
   last_modified: '2016-07-13T00:00:00Z'
 download_url: https://www.bis.org/publications/correspondent-banking-final-report.pdf
-digest_points: 0
-digest_pending_parts: 7
+digest_points: 285
+digest_pending_parts: 2
 ---
 
 # Correspondent banking - final report
@@ -64,7 +64,7 @@ digest_pending_parts: 7
 | Licence | BIS terms (Reproduction not permitted for commercial/internal use (BIS terms)) |
 | Topics | [correspondent banking](../../../topics/correspondent-banking.md) |
 
-> **Digest in progress:** 7 of 7 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 2 of 7 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -76,6 +76,11 @@ CPMI recommendations on KYC utilities, LEI, information sharing and payment mess
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-9 | Abbreviations; Executive summary; Executive summary > (i) Recommendation on the use of “know your customer” (KYC) utilities; Executive summary > (ii) Recommendation on the use of the Legal Entity Identifier (LEI) in correspondent banking; and 4 more sections |
+| [digest part 2](digest-002.md) | pp. 10-18 | 1. Introduction; 1. Introduction > Initiatives on correspondent banking; 2. Developments in correspondent banking > 2.1 Concept of correspondent banking; 2. Developments in correspondent banking > 2.2 Recent developments in correspondent banking – qualitative analysis; and 1 more sections |
+| [digest part 3](digest-003.md) | pp. 19-28 | 2. Developments in correspondent banking > 2.3 SWIFT data analysis10 – quantitative analysis; 3. Potential measures to facilitate correspondent banking services > 3.1 General considerations; 3. Potential measures to facilitate correspondent banking services > 3.2 KYC utilities; 3. Potential measures to facilitate correspondent banking services > A brief description of some KYC utilities; and 2 more sections |
+| [digest part 4](digest-004.md) | pp. 28-36 | 3. Potential measures to facilitate correspondent banking services > Basic background information on the LEI and current issuance status; 3. Potential measures to facilitate correspondent banking services > 3.4 Information-sharing; 3. Potential measures to facilitate correspondent banking services > Mexican initiative on information-sharing |
+| [digest part 5](digest-005.md) | pp. 36-45 | 3. Potential measures to facilitate correspondent banking services > 3.5 Payment messages; 3. Potential measures to facilitate correspondent banking services > A correspondent transaction using the serial method; 3. Potential measures to facilitate correspondent banking services > 4. Conclusions |
 
 ## How to cite
 

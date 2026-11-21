@@ -9,7 +9,7 @@ tags:
 - intl
 - risk_based_approach
 - standard
-status: draft
+status: stable
 source_id: wolfsberg-the-wolfsberg-group-financial-crime-principles-for-correspon
 issuer: wolfsberg
 issuer_name: Wolfsberg Group
@@ -37,14 +37,13 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T17:21:51Z'
+  at: '2026-11-21T03:48:52Z'
 sources:
 - id: original
   resource: https://wolfsberg-group.org/resources/correspondent-banking/91
   title: The Wolfsberg Group - Financial Crime Principles for Correspondent Banking 2022
   author: org:wolfsberg
-digest_points: 0
-digest_pending_parts: 2
+digest_points: 123
 ---
 
 # The Wolfsberg Group - Financial Crime Principles for Correspondent Banking 2022
@@ -64,8 +63,6 @@ digest_pending_parts: 2
 | Licence | Wolfsberg terms (Reproduction not permitted for commercial/internal use (Wolfsberg terms)) |
 | Topics | [correspondent banking](../../../topics/correspondent-banking.md), [risk based approach](../../../topics/risk-based-approach.md) |
 
-> **Digest in progress:** 2 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -76,6 +73,8 @@ Industry principles for risk-based due diligence, EDD and monitoring of correspo
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | 1. Preamble; 2. Correspondent Banking; 3. Responsibility and Oversight; 4. Risk Based Due Diligence Guidelines / Considerations; and 1 more sections |
+| [digest part 2](digest-002.md) | p. 1 | 6. Monitoring and Reporting of Suspicious Activities; 7. Ongoing Review of Correspondent Banking Relationships; 8. Integration with Financial Crime Compliance Programme; Wolfsberg Frequently Asked Questions (FAQs) on Correspondent Banking; and 1 more sections |
 
 ## How to cite
 

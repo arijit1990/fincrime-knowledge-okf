@@ -8,7 +8,7 @@ tags:
 - industry_practice
 - intl
 - standard
-status: draft
+status: stable
 source_id: wolfsberg-the-wolfsberg-group-principles-for-auditing-for-effectivenes
 issuer: wolfsberg
 issuer_name: Wolfsberg Group
@@ -35,14 +35,13 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-17T17:21:51Z'
+  at: '2026-11-21T03:48:52Z'
 sources:
 - id: original
   resource: https://wolfsberg-group.org/resources/effectiveness/157
   title: The Wolfsberg Group - Principles for Auditing for Effectiveness
   author: org:wolfsberg
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 60
 ---
 
 # The Wolfsberg Group - Principles for Auditing for Effectiveness
@@ -62,8 +61,6 @@ digest_pending_parts: 1
 | Licence | Wolfsberg terms (Reproduction not permitted for commercial/internal use (Wolfsberg terms)) |
 | Topics | [effectiveness](../../../topics/effectiveness.md) |
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -74,6 +71,7 @@ How internal audit can assess financial crime risk management outcomes rather th
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | The Wolfsberg Group - Principles for Auditing for Effectiveness; The Wolfsberg Group - Principles for Auditing for Effectiveness > Factor 1: Complying with Financial Crime Laws and Regulations; The Wolfsberg Group - Principles for Auditing for Effectiveness > Factor 2: Establishing a Reasonable and Risk-Based Set of Controls; The Wolfsberg Group - Principles for Auditing for Effectiveness > Factor 3: Providing Highly Useful Information; and 2 more sections |
 
 ## How to cite
 
