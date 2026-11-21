@@ -10,7 +10,7 @@ tags:
 - responsible_ai
 - statistical_report
 - uk
-status: draft
+status: stable
 source_id: pra-boe-machine-learning-in-uk-financial-services
 issuer: pra_boe
 issuer_name: Prudential Regulation Authority / Bank of England
@@ -39,15 +39,14 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T13:42:33Z'
+  at: '2026-11-21T18:42:19Z'
 sources:
 - id: original
   resource: https://www.bankofengland.co.uk/report/2022/machine-learning-in-uk-financial-services
   title: Machine learning in UK financial services
   author: org:pra_boe
   last_modified: '2026-08-28T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 2
+digest_points: 110
 ---
 
 # Machine learning in UK financial services
@@ -67,8 +66,6 @@ digest_pending_parts: 2
 | Licence | BoE terms (Reproduction not permitted for commercial/internal use (BoE terms)) |
 | Topics | [responsible ai](../../../topics/responsible-ai.md), [model governance](../../../topics/model-governance.md), [explainability](../../../topics/explainability.md) |
 
-> **Digest in progress:** 2 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -79,6 +76,8 @@ Second joint BoE/FCA ML survey (72% using/developing ML) covering governance, va
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | Machine learning in UK financial services > Executive summary; Machine learning in UK financial services > 1: Introduction; Machine learning in UK financial services > Box A: Definitions of ML, application, algorithm and model; Machine learning in UK financial services > 2: Machine learning adoption and use; and 3 more sections |
+| [digest part 2](digest-002.md) | p. 1 | Machine learning in UK financial services > 5: Case studies; Machine learning in UK financial services > Box B: ML methods; Machine learning in UK financial services > 6: Conclusion based on survey findings; Machine learning in UK financial services > 7: Acknowledgements |
 
 ## How to cite
 

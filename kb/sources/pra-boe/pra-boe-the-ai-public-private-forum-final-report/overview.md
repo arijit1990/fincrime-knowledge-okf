@@ -41,7 +41,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T13:42:33Z'
+  at: '2026-11-21T18:42:19Z'
 sources:
 - id: original
   resource: https://www.bankofengland.co.uk/research/fintech/ai-public-private-forum
@@ -49,8 +49,8 @@ sources:
   author: org:pra_boe
   last_modified: '2026-08-28T00:00:00Z'
 download_url: https://www.bankofengland.co.uk/-/media/boe/files/fintech/ai-public-private-forum-final-report.pdf
-digest_points: 0
-digest_pending_parts: 5
+digest_points: 46
+digest_pending_parts: 4
 ---
 
 # The AI Public-Private Forum: Final report
@@ -70,7 +70,7 @@ digest_pending_parts: 5
 | Licence | BoE terms (Reproduction not permitted for commercial/internal use (BoE terms)) |
 | Topics | [model governance](../../../topics/model-governance.md), [data governance](../../../topics/data-governance.md), [responsible ai](../../../topics/responsible-ai.md), [explainability](../../../topics/explainability.md) |
 
-> **Digest in progress:** 5 of 5 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 4 of 5 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -82,6 +82,7 @@ BoE/FCA AIPPF final report structured around data, model risk and governance - p
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-12 | - |
 
 ## How to cite
 

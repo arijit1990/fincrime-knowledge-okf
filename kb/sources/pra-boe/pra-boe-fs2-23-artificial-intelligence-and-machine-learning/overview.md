@@ -11,7 +11,7 @@ tags:
 - regulatory_expectation
 - responsible_ai
 - uk
-status: draft
+status: stable
 source_id: pra-boe-fs2-23-artificial-intelligence-and-machine-learning
 issuer: pra_boe
 issuer_name: Prudential Regulation Authority / Bank of England
@@ -41,15 +41,14 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T13:42:33Z'
+  at: '2026-11-21T18:42:19Z'
 sources:
 - id: original
   resource: https://www.bankofengland.co.uk/prudential-regulation/publication/2023/october/artificial-intelligence-and-machine-learning
   title: FS2/23 – Artificial Intelligence and Machine Learning
   author: org:pra_boe
   last_modified: '2026-10-01T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 2
+digest_points: 91
 ---
 
 # FS2/23 – Artificial Intelligence and Machine Learning
@@ -69,8 +68,6 @@ digest_pending_parts: 2
 | Licence | BoE terms (Reproduction not permitted for commercial/internal use (BoE terms)) |
 | Topics | [responsible ai](../../../topics/responsible-ai.md), [model governance](../../../topics/model-governance.md), [explainability](../../../topics/explainability.md), [data governance](../../../topics/data-governance.md) |
 
-> **Digest in progress:** 2 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -81,6 +78,8 @@ Feedback statement to DP5/22 summarising 54 responses: support for a technology-
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | FS2/23 – Artificial Intelligence and Machine Learning; FS2/23 – Artificial Intelligence and Machine Learning > Executive summary; FS2/23 – Artificial Intelligence and Machine Learning > 1: Introduction; FS2/23 – Artificial Intelligence and Machine Learning > 2: Supervisory authorities’ objectives and remits; and 2 more sections |
+| [digest part 2](digest-002.md) | p. 1 | FS2/23 – Artificial Intelligence and Machine Learning > 4: Regulation; FS2/23 – Artificial Intelligence and Machine Learning > 5: Questions |
 
 ## How to cite
 

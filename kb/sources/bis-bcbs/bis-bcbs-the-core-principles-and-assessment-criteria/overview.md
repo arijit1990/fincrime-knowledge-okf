@@ -9,7 +9,7 @@ tags:
 - regulation
 - risk_based_approach
 - standard
-status: draft
+status: stable
 source_id: bis-bcbs-the-core-principles-and-assessment-criteria
 issuer: bis_bcbs
 issuer_name: Bank for International Settlements / Basel Committee
@@ -37,15 +37,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T13:42:33Z'
+  at: '2026-11-21T18:42:19Z'
 sources:
 - id: original
   resource: https://www.bis.org/committees/bcbs/basel-framework/standard/bcp/40/inforce/2024-04-25/published/2024-04-25
   title: The Core Principles and assessment criteria
   author: org:bis_bcbs
   last_modified: '2024-04-25T00:00:00Z'
-digest_points: 71
-digest_pending_parts: 4
+digest_points: 305
 ---
 
 # The Core Principles and assessment criteria
@@ -65,8 +64,6 @@ digest_pending_parts: 4
 | Licence | BIS terms (Reproduction not permitted for commercial/internal use (BIS terms)) |
 | Topics | [regulation](../../../topics/regulation.md), [risk based approach](../../../topics/risk-based-approach.md) |
 
-> **Digest in progress:** 4 of 6 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -77,6 +74,10 @@ Revised Basel Core Principles; Principle 29 (Abuse of financial services) sets t
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | Basel Committee on Banking Supervision > Basel Framework |
+| [digest part 2](digest-002.md) | p. 1 | Basel Committee on Banking Supervision > Basel Framework |
+| [digest part 3](digest-003.md) | p. 1 | Basel Committee on Banking Supervision > Basel Framework |
+| [digest part 4](digest-004.md) | p. 1 | Basel Committee on Banking Supervision > Basel Framework |
 | [digest part 5](digest-005.md) | p. 1 | Basel Committee on Banking Supervision > Basel Framework |
 | [digest part 6](digest-006.md) | p. 1 | Basel Committee on Banking Supervision > Basel Framework |
 

@@ -1,3 +1,6 @@
 # Parts
 
 * [SS1/23 – Model risk management principles for banks](overview.md) - Supervisory statement by Prudential Regulation Authority / Bank of England (2026-10-01); UK; supervisory expectation; status current.
+* [SS1/23 – Model risk management principles for banks - part 1 of 3 (pp. 1-10)](digest-001.md) - Verified paraphrased digest, pp. 1-10: 1. Introduction; 1. Introduction > Implementation and self-assessments; 2. Background > The use of models; and 10 more sections
+* [SS1/23 – Model risk management principles for banks - part 2 of 3 (pp. 11-25)](digest-002.md) - Verified paraphrased digest, pp. 11-25: 4. Model risk management principles for banks > Principle 1.1 Model definition; 4. Model risk management principles for banks > Principle 1.2 Model inventory; 4. Model risk management principles for banks > Principle 1.3 Model tiering; and 12 more sections
+* [SS1/23 – Model risk management principles for banks - part 3 of 3 (pp. 25-31)](digest-003.md) - Verified paraphrased digest, pp. 25-31: 4. Model risk management principles for banks > Principle 4.1 The independent validation function; 4. Model risk management principles for banks > Principle 4.3 Process verification; 4. Model risk management principles for banks > Principle 4.4 Model performance monitoring; and 4 more sections

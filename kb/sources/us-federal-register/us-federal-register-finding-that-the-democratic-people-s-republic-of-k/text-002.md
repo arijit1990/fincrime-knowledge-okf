@@ -24,10 +24,10 @@ parts_total: 3
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T13:42:33Z'
+  at: '2026-11-21T18:42:19Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-21T13:42:33Z'
+  at: '2026-11-21T18:42:19Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2016/06/02/2016-13038/finding-that-the-democratic-peoples-republic-of-korea-is-a-jurisdiction-of-primary-money-laundering
