@@ -1,3 +1,7 @@
 # Parts
 
 * [DP5/22 - Artificial Intelligence and Machine Learning](overview.md) - Consultation by Prudential Regulation Authority / Bank of England (2026-10-01); UK; hypothesis; status consultation.
+* [DP5/22 - Artificial Intelligence and Machine Learning - part 1 of 4 (p. 1)](digest-001.md) - Verified paraphrased digest, p. 1: DP5/22 - Artificial Intelligence and Machine Learning; DP5/22 - Artificial Intelligence and Machine Learning > Privacy Statement; DP5/22 - Artificial Intelligence and Machine Learning > Foreword; and 4 more sections
+* [DP5/22 - Artificial Intelligence and Machine Learning - part 2 of 4 (p. 1)](digest-002.md) - Verified paraphrased digest, p. 1: DP5/22 - Artificial Intelligence and Machine Learning > 2. Supervisory authorities’ objectives and remits; DP5/22 - Artificial Intelligence and Machine Learning > 3. Potential benefits and risks; DP5/22 - Artificial Intelligence and Machine Learning > 4. Regulation
+* [DP5/22 - Artificial Intelligence and Machine Learning - part 3 of 4 (p. 1)](digest-003.md) - Verified paraphrased digest, p. 1: DP5/22 - Artificial Intelligence and Machine Learning > 4. Regulation
+* [DP5/22 - Artificial Intelligence and Machine Learning - part 4 of 4 (p. 1)](digest-004.md) - Verified paraphrased digest, p. 1: DP5/22 - Artificial Intelligence and Machine Learning > 4. Regulation; DP5/22 - Artificial Intelligence and Machine Learning > 5. Questions

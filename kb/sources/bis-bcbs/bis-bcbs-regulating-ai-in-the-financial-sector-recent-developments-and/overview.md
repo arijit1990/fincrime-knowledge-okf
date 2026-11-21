@@ -10,7 +10,7 @@ tags:
 - intl
 - model_governance
 - responsible_ai
-status: draft
+status: stable
 source_id: bis-bcbs-regulating-ai-in-the-financial-sector-recent-developments-and
 issuer: bis_bcbs
 issuer_name: Bank for International Settlements / Basel Committee
@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 sources:
 - id: original
   resource: https://www.bis.org/publications/fsi-insight-63-regulating-ai-financial-sector-recent-developments-and-main-challenges
@@ -47,8 +47,7 @@ sources:
   author: org:bis_bcbs
   last_modified: '2024-12-12T00:00:00Z'
 download_url: https://www.bis.org/publications/fsi-insight-63-regulating-ai-financial-sector-recent-developments-and-main-challenges.pdf
-digest_points: 5
-digest_pending_parts: 4
+digest_points: 224
 ---
 
 # Regulating AI in the financial sector: recent developments and main challenges
@@ -68,8 +67,6 @@ digest_pending_parts: 4
 | Licence | BIS terms (Reproduction not permitted for commercial/internal use (BIS terms)) |
 | Topics | [responsible ai](../../../topics/responsible-ai.md), [model governance](../../../topics/model-governance.md), [data governance](../../../topics/data-governance.md) |
 
-> **Digest in progress:** 4 of 5 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -80,6 +77,10 @@ FSI Insights 63 cross-jurisdiction review: AI amplifies model and data risk; gap
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-10 | Contents; Regulating AI in the financial sector: recent developments and main challenges1 > Executive summary; Regulating AI in the financial sector: recent developments and main challenges1 > Section 1 – Introduction; Regulating AI in the financial sector: recent developments and main challenges1 > Section 2 – Overview of AI use cases in the financial sector |
+| [digest part 2](digest-002.md) | pp. 11-18 | Regulating AI in the financial sector: recent developments and main challenges1 > Section 2 – Overview of AI use cases in the financial sector; Regulating AI in the financial sector: recent developments and main challenges1 > Section 3 – Overview of cross-sectoral AI-specific guidance |
+| [digest part 3](digest-003.md) | pp. 19-26 | Regulating AI in the financial sector: recent developments and main challenges1 > Section 3 – Overview of cross-sectoral AI-specific guidance |
+| [digest part 4](digest-004.md) | pp. 26-33 | Regulating AI in the financial sector: recent developments and main challenges1 > Section 3 – Overview of cross-sectoral AI-specific guidance; Regulating AI in the financial sector: recent developments and main challenges1 > Section 5 – Conclusion |
 | [digest part 5](digest-005.md) | pp. 34-38 | Regulating AI in the financial sector: recent developments and main challenges1 > Section 5 – Conclusion; Regulating AI in the financial sector: recent developments and main challenges1 > References |
 
 ## How to cite

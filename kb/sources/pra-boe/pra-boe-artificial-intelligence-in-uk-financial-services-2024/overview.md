@@ -11,7 +11,7 @@ tags:
 - responsible_ai
 - statistical_report
 - uk
-status: draft
+status: stable
 source_id: pra-boe-artificial-intelligence-in-uk-financial-services-2024
 issuer: pra_boe
 issuer_name: Prudential Regulation Authority / Bank of England
@@ -41,15 +41,14 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 sources:
 - id: original
   resource: https://www.bankofengland.co.uk/report/2024/artificial-intelligence-in-uk-financial-services-2024
   title: Artificial intelligence in UK financial services - 2024
   author: org:pra_boe
   last_modified: '2026-08-28T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 58
 ---
 
 # Artificial intelligence in UK financial services - 2024
@@ -69,8 +68,6 @@ digest_pending_parts: 1
 | Licence | BoE terms (Reproduction not permitted for commercial/internal use (BoE terms)) |
 | Topics | [responsible ai](../../../topics/responsible-ai.md), [model governance](../../../topics/model-governance.md), [explainability](../../../topics/explainability.md), [data governance](../../../topics/data-governance.md) |
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -81,6 +78,7 @@ Joint BoE/FCA AI survey: 75% of firms use AI, foundation models 17% of use cases
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | Artificial intelligence in UK financial services - 2024 > Executive summary; Artificial intelligence in UK financial services - 2024 > 1: Introduction; Artificial intelligence in UK financial services - 2024 > 2: AI adoption and use; Artificial intelligence in UK financial services - 2024 > 3: Strategies and governance; and 2 more sections |
 
 ## How to cite
 

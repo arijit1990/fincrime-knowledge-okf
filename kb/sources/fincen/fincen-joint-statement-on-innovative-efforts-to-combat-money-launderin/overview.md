@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 sources:
 - id: original
   resource: https://www.fincen.gov/system/files/2018-12/Joint%20Statement%20on%20Innovation%20Statement%20(Final%2011-30-18)_508.pdf

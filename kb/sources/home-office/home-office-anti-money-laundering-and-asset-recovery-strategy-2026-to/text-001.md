@@ -26,10 +26,10 @@ parts_total: 7
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 sources:
 - id: original
   resource: https://www.gov.uk/government/publications/anti-money-laundering-and-asset-recovery-strategy-2026-to-2029

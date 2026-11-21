@@ -9,7 +9,7 @@ tags:
 - intl
 - other
 - regulation
-status: draft
+status: stable
 source_id: bis-bcbs-suptech-applications-for-anti-money-laundering
 issuer: bis_bcbs
 issuer_name: Bank for International Settlements / Basel Committee
@@ -37,7 +37,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 sources:
 - id: original
   resource: https://www.bis.org/publications/fsi-insight-18-suptech-applications-anti-money-laundering
@@ -45,8 +45,7 @@ sources:
   author: org:bis_bcbs
   last_modified: '2019-08-29T00:00:00Z'
 download_url: https://www.bis.org/publications/fsi-insight-18-suptech-applications-anti-money-laundering.pdf
-digest_points: 0
-digest_pending_parts: 2
+digest_points: 109
 ---
 
 # Suptech applications for anti-money laundering
@@ -66,8 +65,6 @@ digest_pending_parts: 2
 | Licence | BIS terms (Reproduction not permitted for commercial/internal use (BIS terms)) |
 | Topics | [regulation](../../../topics/regulation.md), [effectiveness](../../../topics/effectiveness.md) |
 
-> **Digest in progress:** 2 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -78,6 +75,8 @@ FSI survey of how AML/CFT supervisors use network analysis, NLP and ML; supervis
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-13 | Financial Stability Institute; Financial Stability Institute > Contents; Financial Stability Institute > Suptech applications for anti-money laundering1 |
+| [digest part 2](digest-002.md) | pp. 13-22 | Financial Stability Institute > Suptech applications for anti-money laundering1 |
 
 ## How to cite
 

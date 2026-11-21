@@ -10,7 +10,7 @@ tags:
 - regulation
 - risk_based_approach
 - standard
-status: draft
+status: stable
 source_id: bis-bcbs-sound-management-of-risks-related-to-money-laundering-and-fin
 issuer: bis_bcbs
 issuer_name: Bank for International Settlements / Basel Committee
@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 sources:
 - id: original
   resource: https://www.bis.org/publications/202007-guidelines-sound-management-risks-related-money-laundering-and-financing-terrorism-revisions-supervisory-cooperation
@@ -47,8 +47,7 @@ sources:
   author: org:bis_bcbs
   last_modified: '2020-07-02T00:00:00Z'
 download_url: https://www.bis.org/publications/202007-guidelines-sound-management-risks-related-money-laundering-and-financing-terrorism-revisions-supervisory.pdf
-digest_points: 0
-digest_pending_parts: 7
+digest_points: 372
 ---
 
 # Sound management of risks related to money laundering and financing of terrorism: revisions to supervisory cooperation
@@ -68,8 +67,6 @@ digest_pending_parts: 7
 | Licence | BIS terms (Reproduction not permitted for commercial/internal use (BIS terms)) |
 | Topics | [regulation](../../../topics/regulation.md), [risk based approach](../../../topics/risk-based-approach.md), [correspondent banking](../../../topics/correspondent-banking.md) |
 
-> **Digest in progress:** 7 of 7 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -80,6 +77,13 @@ Current consolidated Basel Committee guidelines on banks' ML/TF risk management,
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-12 | - |
+| [digest part 2](digest-002.md) | pp. 12-20 | - |
+| [digest part 3](digest-003.md) | pp. 20-30 | - |
+| [digest part 4](digest-004.md) | pp. 30-41 | - |
+| [digest part 5](digest-005.md) | pp. 41-52 | - |
+| [digest part 6](digest-006.md) | pp. 52-61 | - |
+| [digest part 7](digest-007.md) | pp. 61-62 | - |
 
 ## How to cite
 

@@ -24,10 +24,10 @@ parts_total: 2
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2016/12/01/2016-28752/supplemental-information-regarding-the-final-rule-imposing-the-fifth-special-measure-against-fbme

@@ -40,7 +40,7 @@ text_quality_warnings:
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 sources:
 - id: original
   resource: https://brdr.hkma.gov.hk/eng/doc-ldg/docId/20241122-3-EN

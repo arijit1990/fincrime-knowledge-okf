@@ -43,7 +43,7 @@ digest_points: 5
 
 # Regulating AI in the financial sector: recent developments and main challenges (digest)
 
-[source overview](overview.md)
+[previous part](digest-004.md) | [source overview](overview.md)
 
 > **Digest, not the original wording.** The licence of this source does not permit reproducing its text, so this part (pp. 34-38) is a paraphrased digest of every material point. Each point was machine-checked: its anchor phrase occurs verbatim in the original, and an independent reviewing agent confirmed the point is supported by the text. Labels: normative strength / kind. Quote the original, not this digest, when exact wording matters (see `resource`). Normative force of this document: **international standard**.
 
@@ -62,6 +62,6 @@ digest_points: 5
 
 ---
 
-[source overview](overview.md)
+[previous part](digest-004.md) | [source overview](overview.md)
 
 [^original]: Bank for International Settlements / Basel Committee, "Regulating AI in the financial sector: recent developments and main challenges" (2024-12-12). https://www.bis.org/publications/fsi-insight-63-regulating-ai-financial-sector-recent-developments-and-main-challenges

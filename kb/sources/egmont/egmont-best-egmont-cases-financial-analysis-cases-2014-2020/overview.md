@@ -43,7 +43,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/news/best-egmont-case-award-book-publication/
@@ -51,8 +51,8 @@ sources:
   author: org:egmont
   last_modified: '2022-02-10T00:00:00Z'
 download_url: https://egmontgroup.org/wp-content/uploads/2021/10/Financial-Analysis-Cases-2014-2020.pdf
-digest_points: 0
-digest_pending_parts: 15
+digest_points: 126
+digest_pending_parts: 12
 ---
 
 # BEST EGMONT CASES – Financial Analysis Cases 2014–2020
@@ -72,7 +72,7 @@ digest_pending_parts: 15
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [typologies](../../../topics/typologies.md), [trade based ml](../../../topics/trade-based-ml.md), [bribery corruption tax](../../../topics/bribery-corruption-tax.md), [terrorist financing](../../../topics/terrorist-financing.md), [virtual assets](../../../topics/virtual-assets.md) |
 
-> **Digest in progress:** 15 of 15 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 12 of 15 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -84,6 +84,9 @@ digest_pending_parts: 15
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-11 | TABLE OF CONTENTS; YEAR # CASES/# FIUS THE TWO FINALISTS WINNER; ACKNOWLEDGEMENTS |
+| [digest part 3](digest-003.md) | pp. 18-28 | BEX 5; BEX 3; CHART 2: COMPLEMENTARY MONEY FLOW OF FUNDS WITH AN UNKNOWN ORIGIN; USD 3,980,000; and 1 more sections |
+| [digest part 10](digest-010.md) | pp. 82-91 | CASE; ANALYSIS OF ML SCHEME; TRADE-BASED MONEY LAUNDERING AND THIRD-PARTY MONEY LAUNDERING |
 
 ## How to cite
 

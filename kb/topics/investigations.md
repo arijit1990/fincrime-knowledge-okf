@@ -8,7 +8,7 @@ domain_id: investigations
 domain_scope: core
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 ---
 
 # Investigations & investigator methodology

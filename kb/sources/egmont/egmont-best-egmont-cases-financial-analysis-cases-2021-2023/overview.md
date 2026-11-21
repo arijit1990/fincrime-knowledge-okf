@@ -43,14 +43,14 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2024/09/EGMONT_2021-2023-BECA-III_FINAL.pdf
   title: BEST EGMONT CASES – Financial Analysis Cases 2021–2023
   author: org:egmont
-digest_points: 0
-digest_pending_parts: 14
+digest_points: 36
+digest_pending_parts: 13
 ---
 
 # BEST EGMONT CASES – Financial Analysis Cases 2021–2023
@@ -70,7 +70,7 @@ digest_pending_parts: 14
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [typologies](../../../topics/typologies.md), [bribery corruption tax](../../../topics/bribery-corruption-tax.md), [virtual assets](../../../topics/virtual-assets.md), [emerging threats](../../../topics/emerging-threats.md), [terrorist financing](../../../topics/terrorist-financing.md) |
 
-> **Digest in progress:** 14 of 14 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 13 of 14 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -82,6 +82,7 @@ Third Egmont case book (108 pp) of recent FIU financial-analysis cases illustrat
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 8](digest-008.md) | pp. 64-70 | CASE 15; CASE 16 |
 
 ## How to cite
 

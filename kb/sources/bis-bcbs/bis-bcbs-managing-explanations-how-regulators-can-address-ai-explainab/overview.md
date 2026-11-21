@@ -10,7 +10,7 @@ tags:
 - intl
 - model_governance
 - model_validation
-status: draft
+status: stable
 source_id: bis-bcbs-managing-explanations-how-regulators-can-address-ai-explainab
 issuer: bis_bcbs
 issuer_name: Bank for International Settlements / Basel Committee
@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 sources:
 - id: original
   resource: https://www.bis.org/publications/fsi-paper-24-managing-explanations-how-regulators-can-address-ai-explainability
@@ -47,8 +47,7 @@ sources:
   author: org:bis_bcbs
   last_modified: '2025-09-08T00:00:00Z'
 download_url: https://www.bis.org/publications/fsi-paper-24-managing-explanations-how-regulators-can-address-ai-explainability.pdf
-digest_points: 0
-digest_pending_parts: 2
+digest_points: 183
 ---
 
 # Managing explanations: how regulators can address AI explainability
@@ -68,8 +67,6 @@ digest_pending_parts: 2
 | Licence | BIS terms (Reproduction not permitted for commercial/internal use (BIS terms)) |
 | Topics | [explainability](../../../topics/explainability.md), [model governance](../../../topics/model-governance.md), [model validation](../../../topics/model-validation.md) |
 
-> **Digest in progress:** 2 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -80,6 +77,8 @@ FSI Occasional Paper 24 on adapting MRM guidelines to limited-explainability AI,
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-12 | Abstract; Contents; Managing explanations: how regulators can address AI explainability issues > Section 1 – Introduction; Managing explanations: how regulators can address AI explainability issues > Section 2 – MRM and explainability; and 1 more sections |
+| [digest part 2](digest-002.md) | pp. 12-20 | Managing explanations: how regulators can address AI explainability issues > Section 3 – Challenges in enforcing explainability requirements in the context of AI; Managing explanations: how regulators can address AI explainability issues > Section 4 – Potential adjustments to MRM guidelines; Managing explanations: how regulators can address AI explainability issues > Section 5 – Conclusion; Managing explanations: how regulators can address AI explainability issues > References |
 | [digest part 3](digest-003.md) | pp. 20-23 | Managing explanations: how regulators can address AI explainability issues > References |
 
 ## How to cite

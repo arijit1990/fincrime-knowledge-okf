@@ -35,14 +35,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2021/09/2018_Concealment_of_Beneficial_Ownership.pdf
   title: Concealment of Beneficial Ownership
   author: org:egmont
-digest_points: 0
-digest_pending_parts: 28
+digest_points: 144
+digest_pending_parts: 24
 ---
 
 # Concealment of Beneficial Ownership
@@ -62,7 +62,7 @@ digest_pending_parts: 28
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [beneficial ownership](../../../topics/beneficial-ownership.md) |
 
-> **Digest in progress:** 28 of 28 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 24 of 28 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -74,6 +74,10 @@ Joint FATF-Egmont analysis of 106 cases showing how legal persons, arrangements 
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 2](digest-002.md) | pp. 10-16 | 8 │ CONCEALMENT OF BENEFICIAL OWNERSHIP; CONCEALMENT OF BENEFICIAL OWNERSHIP │9; 10 │ CONCEALMENT OF BENEFICIAL OWNERSHIP; INTRODUCTION; and 3 more sections |
+| [digest part 3](digest-003.md) | pp. 17-24 | CONCEALMENT OF BENEFICIAL OWNERSHIP │15; DEFINITION OF BENEFICIAL OWNER; CONCEALMENT OF BENEFICIAL OWNERSHIP │17; STRUCTURE OF THE REPORT; and 4 more sections |
+| [digest part 6](digest-006.md) | pp. 38-43 | 36 │ CONCEALMENT OF BENEFICIAL OWNERSHIP; CONCEALMENT OF BENEFICIAL OWNERSHIP │37; 38 │ CONCEALMENT OF BENEFICIAL OWNERSHIP; CONCEALMENT OF BENEFICIAL OWNERSHIP │39; and 2 more sections |
+| [digest part 8](digest-008.md) | pp. 51-56 | CONCEALMENT OF BENEFICIAL OWNERSHIP │49; OVERVIEW OF COMMONLY EXPLOITED INTERMEDIARIES; CONCEALMENT OF BENEFICIAL OWNERSHIP │51; 52 │ CONCEALMENT OF BENEFICIAL OWNERSHIP; and 2 more sections |
 
 ## How to cite
 

@@ -9,7 +9,7 @@ tags:
 - intl
 - other
 - risk_assessment
-status: draft
+status: stable
 source_id: bis-bcbs-project-hertha-identifying-financial-crime-patterns-in-real-t
 issuer: bis_bcbs
 issuer_name: Bank for International Settlements / Basel Committee
@@ -38,7 +38,7 @@ text_quality_warnings:
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 sources:
 - id: original
   resource: https://www.bis.org/publications/project-hertha-identifying-financial-crime-patterns-real-time-retail-payment-systems
@@ -46,8 +46,7 @@ sources:
   author: org:bis_bcbs
   last_modified: '2025-06-05T00:00:00Z'
 download_url: https://www.bis.org/publications/project-hertha-identifying-financial-crime-patterns-real-time-retail-payment-systems
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 9
 ---
 
 # Project Hertha: Identifying financial crime patterns in real-time retail payment systems
@@ -71,8 +70,6 @@ digest_pending_parts: 1
 
 - only 499 tokens were extracted: the stored file is probably a landing/abstract page, not the full document
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -83,6 +80,7 @@ BIS/Bank of England study showing payment-system-level analytics can supplement 
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | Project Hertha: identifying financial crime patterns in real-time retail payment systems |
 
 ## How to cite
 

@@ -7,7 +7,7 @@ tags:
 - licence
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 ---
 
 # Licensing and content modes

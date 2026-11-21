@@ -1,4 +1,6 @@
 # Parts
 
 * [Managing explanations: how regulators can address AI explainability](overview.md) - Guidance by Bank for International Settlements / Basel Committee (2025-09-08); INTL; international standard; status current.
+* [Managing explanations: how regulators can address AI explainability - part 1 of 3 (pp. 1-12)](digest-001.md) - Verified paraphrased digest, pp. 1-12: Abstract; Contents; Managing explanations: how regulators can address AI explainability issues > Section 1 – Introduction; and 2 more sections
+* [Managing explanations: how regulators can address AI explainability - part 2 of 3 (pp. 12-20)](digest-002.md) - Verified paraphrased digest, pp. 12-20: Managing explanations: how regulators can address AI explainability issues > Section 3 – Challenges in enforcing explainability requirements in the context of AI; Managing explanations: how regulators can address AI explainability issues > Section 4 – Potential adjustments to MRM guidelines; Managing explanations: how regulators can address AI explainability issues > Section 5 – Conclusion; and 1 more sections
 * [Managing explanations: how regulators can address AI explainability - part 3 of 3 (pp. 20-23)](digest-003.md) - Verified paraphrased digest, pp. 20-23: Managing explanations: how regulators can address AI explainability issues > References

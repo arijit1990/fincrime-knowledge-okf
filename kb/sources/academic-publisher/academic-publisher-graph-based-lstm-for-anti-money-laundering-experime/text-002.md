@@ -26,10 +26,10 @@ parts_total: 2
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 sources:
 - id: original
   resource: https://link.springer.com/article/10.1007/s11063-022-10904-8

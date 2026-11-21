@@ -11,7 +11,7 @@ tags:
 - model_governance
 - responsible_ai
 - uk
-status: draft
+status: stable
 source_id: pra-boe-dp5-22-artificial-intelligence-and-machine-learning
 issuer: pra_boe
 issuer_name: Prudential Regulation Authority / Bank of England
@@ -41,15 +41,14 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 sources:
 - id: original
   resource: https://www.bankofengland.co.uk/prudential-regulation/publication/2022/october/artificial-intelligence
   title: DP5/22 - Artificial Intelligence and Machine Learning
   author: org:pra_boe
   last_modified: '2026-10-01T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 4
+digest_points: 229
 ---
 
 # DP5/22 - Artificial Intelligence and Machine Learning
@@ -69,8 +68,6 @@ digest_pending_parts: 4
 | Licence | BoE terms (Reproduction not permitted for commercial/internal use (BoE terms)) |
 | Topics | [responsible ai](../../../topics/responsible-ai.md), [model governance](../../../topics/model-governance.md), [explainability](../../../topics/explainability.md), [data governance](../../../topics/data-governance.md) |
 
-> **Digest in progress:** 4 of 4 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 > **Consultation / proposal.** Not final; do not present as a binding requirement.
 
 ## Curator note
@@ -83,6 +80,10 @@ Joint BoE/PRA/FCA discussion paper on how existing UK rules (SM&CR, MRM, data, c
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | DP5/22 - Artificial Intelligence and Machine Learning; DP5/22 - Artificial Intelligence and Machine Learning > Privacy Statement; DP5/22 - Artificial Intelligence and Machine Learning > Foreword; DP5/22 - Artificial Intelligence and Machine Learning > Executive summary; and 3 more sections |
+| [digest part 2](digest-002.md) | p. 1 | DP5/22 - Artificial Intelligence and Machine Learning > 2. Supervisory authorities’ objectives and remits; DP5/22 - Artificial Intelligence and Machine Learning > 3. Potential benefits and risks; DP5/22 - Artificial Intelligence and Machine Learning > 4. Regulation |
+| [digest part 3](digest-003.md) | p. 1 | DP5/22 - Artificial Intelligence and Machine Learning > 4. Regulation |
+| [digest part 4](digest-004.md) | p. 1 | DP5/22 - Artificial Intelligence and Machine Learning > 4. Regulation; DP5/22 - Artificial Intelligence and Machine Learning > 5. Questions |
 
 ## How to cite
 

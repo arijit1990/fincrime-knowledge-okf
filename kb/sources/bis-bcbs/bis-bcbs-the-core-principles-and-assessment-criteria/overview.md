@@ -37,15 +37,15 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 sources:
 - id: original
   resource: https://www.bis.org/committees/bcbs/basel-framework/standard/bcp/40/inforce/2024-04-25/published/2024-04-25
   title: The Core Principles and assessment criteria
   author: org:bis_bcbs
   last_modified: '2024-04-25T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 6
+digest_points: 71
+digest_pending_parts: 4
 ---
 
 # The Core Principles and assessment criteria
@@ -65,7 +65,7 @@ digest_pending_parts: 6
 | Licence | BIS terms (Reproduction not permitted for commercial/internal use (BIS terms)) |
 | Topics | [regulation](../../../topics/regulation.md), [risk based approach](../../../topics/risk-based-approach.md) |
 
-> **Digest in progress:** 6 of 6 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 4 of 6 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -77,6 +77,8 @@ Revised Basel Core Principles; Principle 29 (Abuse of financial services) sets t
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 5](digest-005.md) | p. 1 | Basel Committee on Banking Supervision > Basel Framework |
+| [digest part 6](digest-006.md) | p. 1 | Basel Committee on Banking Supervision > Basel Framework |
 
 ## How to cite
 

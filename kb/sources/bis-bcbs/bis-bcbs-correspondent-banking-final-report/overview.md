@@ -8,7 +8,7 @@ tags:
 - international_standard
 - intl
 - standard
-status: draft
+status: stable
 source_id: bis-bcbs-correspondent-banking-final-report
 issuer: bis_bcbs
 issuer_name: Bank for International Settlements / Basel Committee
@@ -35,7 +35,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T03:48:52Z'
+  at: '2026-11-21T13:42:33Z'
 sources:
 - id: original
   resource: https://www.bis.org/publications/correspondent-banking-final-report
@@ -43,8 +43,7 @@ sources:
   author: org:bis_bcbs
   last_modified: '2016-07-13T00:00:00Z'
 download_url: https://www.bis.org/publications/correspondent-banking-final-report.pdf
-digest_points: 285
-digest_pending_parts: 2
+digest_points: 385
 ---
 
 # Correspondent banking - final report
@@ -64,8 +63,6 @@ digest_pending_parts: 2
 | Licence | BIS terms (Reproduction not permitted for commercial/internal use (BIS terms)) |
 | Topics | [correspondent banking](../../../topics/correspondent-banking.md) |
 
-> **Digest in progress:** 2 of 7 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -81,6 +78,8 @@ CPMI recommendations on KYC utilities, LEI, information sharing and payment mess
 | [digest part 3](digest-003.md) | pp. 19-28 | 2. Developments in correspondent banking > 2.3 SWIFT data analysis10 – quantitative analysis; 3. Potential measures to facilitate correspondent banking services > 3.1 General considerations; 3. Potential measures to facilitate correspondent banking services > 3.2 KYC utilities; 3. Potential measures to facilitate correspondent banking services > A brief description of some KYC utilities; and 2 more sections |
 | [digest part 4](digest-004.md) | pp. 28-36 | 3. Potential measures to facilitate correspondent banking services > Basic background information on the LEI and current issuance status; 3. Potential measures to facilitate correspondent banking services > 3.4 Information-sharing; 3. Potential measures to facilitate correspondent banking services > Mexican initiative on information-sharing |
 | [digest part 5](digest-005.md) | pp. 36-45 | 3. Potential measures to facilitate correspondent banking services > 3.5 Payment messages; 3. Potential measures to facilitate correspondent banking services > A correspondent transaction using the serial method; 3. Potential measures to facilitate correspondent banking services > 4. Conclusions |
+| [digest part 6](digest-006.md) | pp. 45-56 | Annex 1 – References; Annex 2 – Glossary; Annex 2 – Glossary > Cover Payment; Annex 3 – SWIFT data analysis; and 4 more sections |
+| [digest part 7](digest-007.md) | pp. 57-62 | Annex 3 – SWIFT data analysis > Corridors by average number of active correspondents; Annex 4 – Members of the CPMI Working Group on Correspondent Banking |
 
 ## How to cite
 
