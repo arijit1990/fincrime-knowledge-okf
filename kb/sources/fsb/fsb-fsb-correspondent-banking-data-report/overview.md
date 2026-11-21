@@ -35,7 +35,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T18:42:19Z'
+  at: '2026-11-21T23:42:13Z'
 sources:
 - id: original
   resource: https://www.fsb.org/2017/07/fsb-correspondent-banking-data-report/
@@ -43,8 +43,8 @@ sources:
   author: org:fsb
   last_modified: '2017-07-04T00:00:00Z'
 download_url: https://www.fsb.org/uploads/P040717-4.pdf
-digest_points: 0
-digest_pending_parts: 11
+digest_points: 36
+digest_pending_parts: 10
 ---
 
 # FSB Correspondent Banking Data Report
@@ -64,7 +64,7 @@ digest_pending_parts: 11
 | Licence | FSB terms (Reproduction not permitted for commercial/internal use (FSB terms)) |
 | Topics | [correspondent banking](../../../topics/correspondent-banking.md) |
 
-> **Digest in progress:** 11 of 11 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 10 of 11 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -76,6 +76,7 @@ FSB data on the decline of correspondent banking relationships and AML/CFT-relat
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 4](digest-004.md) | pp. 30-43 | FSB Correspondent Banking Data Report > 2. Scale of the withdrawal from correspondent banking; FSB Correspondent Banking Data Report > 3. Effects of the withdrawal from correspondent banking |
 
 ## How to cite
 

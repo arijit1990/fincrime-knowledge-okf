@@ -34,7 +34,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T18:42:19Z'
+  at: '2026-11-21T23:42:13Z'
 sources:
 - id: original
   resource: https://documents1.worldbank.org/curated/en/099539106292288480/pdf/IDU02bfcabe00d2c50448808a240b5106c160f10.pdf

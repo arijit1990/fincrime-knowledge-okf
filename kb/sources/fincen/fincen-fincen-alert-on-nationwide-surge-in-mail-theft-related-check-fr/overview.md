@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T18:42:19Z'
+  at: '2026-11-21T23:42:13Z'
 sources:
 - id: original
   resource: https://www.fincen.gov/system/files/shared/FinCEN%20Alert%20Mail%20Theft-Related%20Check%20Fraud%20FINAL%20508.pdf

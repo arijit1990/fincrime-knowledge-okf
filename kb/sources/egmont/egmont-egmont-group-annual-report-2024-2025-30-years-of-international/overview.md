@@ -37,14 +37,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T18:42:19Z'
+  at: '2026-11-21T23:42:13Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2026/05/Egmont_Group_Annual_Report_2024-2025.pdf
   title: 'Egmont Group Annual Report 2024-2025: 30 Years of International Cooperation'
   author: org:egmont
-digest_points: 35
-digest_pending_parts: 8
+digest_points: 45
+digest_pending_parts: 7
 ---
 
 # Egmont Group Annual Report 2024-2025: 30 Years of International Cooperation
@@ -64,7 +64,7 @@ digest_pending_parts: 8
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [typologies](../../../topics/typologies.md), [public private partnership](../../../topics/public-private-partnership.md) |
 
-> **Digest in progress:** 8 of 9 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 7 of 9 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -77,6 +77,7 @@ Latest Egmont annual report summarising FIU projects, typology outputs and infor
 | Part | Pages | Sections |
 |---|---|---|
 | [digest part 1](digest-001.md) | pp. 1-11 | Celebrating 30 Years of Global Cooperation; 30 Years of Milestones and Global Engagement; 30 Years of Milestones and Global Engagement > Who We Are; Structure; and 5 more sections |
+| [digest part 9](digest-009.md) | pp. 78-80 | 2024 Best Egmont Case Award (BECA) Finalist FIU INDIA > Annex D: Observers and International Partners |
 
 ## How to cite
 

@@ -43,7 +43,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T18:42:19Z'
+  at: '2026-11-21T23:42:13Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/news/best-egmont-case-award-book-publication/
@@ -51,8 +51,8 @@ sources:
   author: org:egmont
   last_modified: '2022-02-10T00:00:00Z'
 download_url: https://egmontgroup.org/wp-content/uploads/2021/10/Financial-Analysis-Cases-2014-2020.pdf
-digest_points: 126
-digest_pending_parts: 12
+digest_points: 704
+digest_pending_parts: 1
 ---
 
 # BEST EGMONT CASES – Financial Analysis Cases 2014–2020
@@ -72,7 +72,7 @@ digest_pending_parts: 12
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [typologies](../../../topics/typologies.md), [trade based ml](../../../topics/trade-based-ml.md), [bribery corruption tax](../../../topics/bribery-corruption-tax.md), [terrorist financing](../../../topics/terrorist-financing.md), [virtual assets](../../../topics/virtual-assets.md) |
 
-> **Digest in progress:** 12 of 15 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 1 of 15 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -85,8 +85,19 @@ digest_pending_parts: 12
 | Part | Pages | Sections |
 |---|---|---|
 | [digest part 1](digest-001.md) | pp. 1-11 | TABLE OF CONTENTS; YEAR # CASES/# FIUS THE TWO FINALISTS WINNER; ACKNOWLEDGEMENTS |
+| [digest part 2](digest-002.md) | pp. 12-18 | BRIBERY AND CORRUPTION; CASE; CHART 1: MONEY FLOW THAT ALLEGEDLY CAME FROM THE PAYMENT OF BRIBES |
 | [digest part 3](digest-003.md) | pp. 18-28 | BEX 5; BEX 3; CHART 2: COMPLEMENTARY MONEY FLOW OF FUNDS WITH AN UNKNOWN ORIGIN; USD 3,980,000; and 1 more sections |
+| [digest part 4](digest-004.md) | pp. 29-35 | ANALYSIS OF ML NETWORK; EUR 190 M; EUR 35 M; CYBERCRIME AND CRYPTOCURRENCY; and 1 more sections |
+| [digest part 5](digest-005.md) | pp. 35-45 | ANALYSIS OF ML NETWORK; CASE |
+| [digest part 6](digest-006.md) | pp. 46-57 | E-08 SOUTH AFRICA; ZAR 40 035.67; ZAR 2,305.19; ZAR 2,305.19 ZAR 200,000.00 PROCEEDS SECURED; and 3 more sections |
+| [digest part 7](digest-007.md) | pp. 57-64 | CASE; FRAUD AND EMBEZZLEMENT |
+| [digest part 8](digest-008.md) | pp. 65-74 | CASE |
+| [digest part 9](digest-009.md) | pp. 75-82 | SMUGGLING AND GAMBLING; CASE; AUSTRAC’S ANALYSIS DIAGRAM |
 | [digest part 10](digest-010.md) | pp. 82-91 | CASE; ANALYSIS OF ML SCHEME; TRADE-BASED MONEY LAUNDERING AND THIRD-PARTY MONEY LAUNDERING |
+| [digest part 11](digest-011.md) | pp. 91-103 | ANALYSIS OF ML NETWORK; UK 9 17 43920.199; CASE |
+| [digest part 13](digest-013.md) | pp. 109-117 | XX-XXXX-XXXX; YYYY-YYYY; TERRORISM, ORGANIZED CRIME AND HUMAN TRAFFICKING; CASE |
+| [digest part 14](digest-014.md) | pp. 118-125 | J-24 CASE PROCESSING CIRCUIT ML/TF — CENTIF CI >; CASE; ANALYSIS OF ML NETWORK; “B N” (ISIL) |
+| [digest part 15](digest-015.md) | pp. 126-132 | J-26 HUMAN TRAFFICKING AND MONEY LAUNDERING SCHEME — SENEGAL |
 
 ## How to cite
 

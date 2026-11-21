@@ -8,7 +8,7 @@ domain_id: fraud_screening_synergies
 domain_scope: adjacent
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T18:42:19Z'
+  at: '2026-11-21T23:42:13Z'
 ---
 
 # Synergies with fraud & transaction screening

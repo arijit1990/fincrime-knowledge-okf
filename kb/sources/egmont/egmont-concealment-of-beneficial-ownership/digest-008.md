@@ -40,7 +40,7 @@ digest_points: 30
 
 # Concealment of Beneficial Ownership (digest)
 
-[source overview](overview.md)
+[previous part](digest-007.md) | [source overview](overview.md) | [next part](digest-009.md)
 
 > **Digest, not the original wording.** The licence of this source does not permit reproducing its text, so this part (pp. 51-56) is a paraphrased digest of every material point. Each point was machine-checked: its anchor phrase occurs verbatim in the original, and an independent reviewing agent confirmed the point is supported by the text. Labels: normative strength / kind. Quote the original, not this digest, when exact wording matters (see `resource`). Normative force of this document: **empirical observation**.
 
@@ -127,6 +127,6 @@ digest_points: 30
 
 ---
 
-[source overview](overview.md)
+[previous part](digest-007.md) | [source overview](overview.md) | [next part](digest-009.md)
 
 [^original]: Egmont Group of FIUs, "Concealment of Beneficial Ownership" (2018-07). https://egmontgroup.org/wp-content/uploads/2021/09/2018_Concealment_of_Beneficial_Ownership.pdf

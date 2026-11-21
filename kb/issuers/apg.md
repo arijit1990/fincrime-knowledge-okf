@@ -8,7 +8,7 @@ issuer_id: apg
 tier: 2
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T18:42:19Z'
+  at: '2026-11-21T23:42:13Z'
 ---
 
 # Asia/Pacific Group on Money Laundering

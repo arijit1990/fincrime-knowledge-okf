@@ -42,14 +42,14 @@ text_quality_warnings:
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T18:42:19Z'
+  at: '2026-11-21T23:42:13Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2023/11/Final_Illicit-financial-flows-from-cyber-enabled-fraud.pdf
   title: Illicit Financial Flows from Cyber-Enabled Fraud
   author: org:egmont
-digest_points: 0
-digest_pending_parts: 6
+digest_points: 41
+digest_pending_parts: 5
 ---
 
 # Illicit Financial Flows from Cyber-Enabled Fraud
@@ -73,7 +73,7 @@ digest_pending_parts: 6
 
 - 8 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 6 of 6 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 5 of 6 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -85,6 +85,7 @@ Joint FATF/Egmont/INTERPOL report on BEC, phishing, impersonation, investment an
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 2](digest-002.md) | pp. 15-28 | 2. Risk environment: Cyber-enabled Fraud |
 
 ## How to cite
 

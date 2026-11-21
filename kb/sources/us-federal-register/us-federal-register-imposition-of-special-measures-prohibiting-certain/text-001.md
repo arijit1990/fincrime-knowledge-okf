@@ -24,10 +24,10 @@ parts_total: 1
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T18:42:19Z'
+  at: '2026-11-21T23:42:13Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-21T18:42:19Z'
+  at: '2026-11-21T23:42:13Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2025/08/22/2025-16080/imposition-of-special-measures-prohibiting-certain-transmittals-of-funds-involving-cibanco-sa

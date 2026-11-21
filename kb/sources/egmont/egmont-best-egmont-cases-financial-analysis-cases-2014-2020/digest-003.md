@@ -45,7 +45,7 @@ digest_points: 51
 
 # BEST EGMONT CASES – Financial Analysis Cases 2014–2020 (digest)
 
-[source overview](overview.md)
+[previous part](digest-002.md) | [source overview](overview.md) | [next part](digest-004.md)
 
 > **Digest, not the original wording.** The licence of this source does not permit reproducing its text, so this part (pp. 18-28) is a paraphrased digest of every material point. Each point was machine-checked: its anchor phrase occurs verbatim in the original, and an independent reviewing agent confirmed the point is supported by the text. Labels: normative strength / kind. Quote the original, not this digest, when exact wording matters (see `resource`). Normative force of this document: **empirical observation**.
 
@@ -222,6 +222,6 @@ digest_points: 51
 
 ---
 
-[source overview](overview.md)
+[previous part](digest-002.md) | [source overview](overview.md) | [next part](digest-004.md)
 
 [^original]: Egmont Group of FIUs, "BEST EGMONT CASES – Financial Analysis Cases 2014–2020" (2021-03-23). https://egmontgroup.org/news/best-egmont-case-award-book-publication/

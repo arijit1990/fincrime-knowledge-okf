@@ -37,7 +37,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T18:42:19Z'
+  at: '2026-11-21T23:42:13Z'
 sources:
 - id: original
   resource: https://www.imf.org/en/publications/policy-papers/issues/2026/07/15/guidance-note-for-addressing-anti-money-laundering-combating-the-financing-of-terrorism-577758

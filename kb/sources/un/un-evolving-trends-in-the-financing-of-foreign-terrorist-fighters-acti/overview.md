@@ -35,7 +35,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T18:42:19Z'
+  at: '2026-11-21T23:42:13Z'
 sources:
 - id: original
   resource: https://www.un.org/securitycouncil/ctc/sites/www.un.org.securitycouncil.ctc/files/cted_trends_tracker_evolving_trends_in_the_financing_of_foreign_terrorist_fighters_activity_2014_-_2024.pdf

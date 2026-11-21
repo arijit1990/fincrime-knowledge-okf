@@ -35,7 +35,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T18:42:19Z'
+  at: '2026-11-21T23:42:13Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2017/11/08/2017-24238/imposition-of-special-measure-against-bank-of-dandong-as-a-financial-institution-of-primary-money

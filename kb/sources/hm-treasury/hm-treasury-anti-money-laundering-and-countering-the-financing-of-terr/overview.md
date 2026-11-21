@@ -37,7 +37,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T18:42:19Z'
+  at: '2026-11-21T23:42:13Z'
 sources:
 - id: original
   resource: https://www.gov.uk/government/publications/anti-money-laundering-and-countering-the-financing-of-terrorism-supervision-report-2024-25
