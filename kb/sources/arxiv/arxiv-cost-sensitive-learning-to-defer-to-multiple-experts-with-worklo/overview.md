@@ -9,7 +9,7 @@ tags:
 - global_academic
 - model_development
 - preprint
-status: draft
+status: stable
 source_id: arxiv-cost-sensitive-learning-to-defer-to-multiple-experts-with-worklo
 issuer: arxiv
 issuer_name: arXiv
@@ -38,7 +38,7 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2403.06906
@@ -46,8 +46,7 @@ sources:
   author: org:arxiv
   last_modified: '2024-11-03T00:00:00Z'
 download_url: https://arxiv.org/pdf/2403.06906
-digest_points: 0
-digest_pending_parts: 5
+digest_points: 186
 ---
 
 # Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints
@@ -71,8 +70,6 @@ digest_pending_parts: 5
 
 - 10 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 5 of 5 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -83,6 +80,11 @@ DeCCaF assigns alerts between model and analysts minimising cost under analyst c
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-7 | Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints; Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints > Marco O.P Sampaio; Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints > Abstract; Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints > 1 Introduction; and 2 more sections |
+| [digest part 2](digest-002.md) | pp. 7-14 | Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints > 3 Method; Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints > 4 Experiments; Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints > 5 Results |
+| [digest part 3](digest-003.md) | pp. 14-19 | Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints > 5 Results; Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints > 6 Conclusions and Future Work; Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints > References |
+| [digest part 4](digest-004.md) | pp. 19-27 | Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints > References; Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints > Notation; Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints > A Experimental Setting; Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints > B Classifier h; and 1 more sections |
+| [digest part 5](digest-005.md) | pp. 27-29 | Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints > C Synthetic Experts; Cost-Sensitive Learning to Defer to Multiple Experts with Workload Constraints > D OvA Classifiers and HEM |
 
 ## How to cite
 

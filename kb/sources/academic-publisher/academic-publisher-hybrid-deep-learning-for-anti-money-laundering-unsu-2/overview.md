@@ -12,7 +12,7 @@ tags:
 - ml_statistics
 - network_graph
 - transaction_behaviour
-status: draft
+status: stable
 source_id: academic-publisher-hybrid-deep-learning-for-anti-money-laundering-unsu-2
 issuer: academic_publisher
 issuer_name: Academic publisher / repository
@@ -43,15 +43,14 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://doi.org/10.1016/j.mlwa.2026.100856
   title: 'Hybrid deep learning for anti-money laundering: Unsupervised detection of emerging schemes via feature fusion and explainable artificial intelligence'
   author: org:academic_publisher
   last_modified: '2026-02-25T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 180
 ---
 
 # Hybrid deep learning for anti-money laundering: Unsupervised detection of emerging schemes via feature fusion and explainable artificial intelligence
@@ -71,8 +70,6 @@ digest_pending_parts: 3
 | Licence | Per-paper licence (Reproduction not permitted for commercial/internal use (Per-paper licence)) |
 | Topics | [ml statistics](../../../topics/ml-statistics.md), [transaction behaviour](../../../topics/transaction-behaviour.md), [network graph](../../../topics/network-graph.md), [explainability](../../../topics/explainability.md), [data features](../../../topics/data-features.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -83,6 +80,9 @@ Peer-reviewed open-access (Machine Learning with Applications, 2026) hybrid LSTM
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-5 | Machine Learning with Applications > Hybrid deep learning for anti-money laundering: Unsupervised detection of emerging schemes via feature fusion and explainable artificial intelligence |
+| [digest part 2](digest-002.md) | pp. 5-11 | Machine Learning with Applications > Hybrid deep learning for anti-money laundering: Unsupervised detection of emerging schemes via feature fusion and explainable artificial intelligence |
+| [digest part 3](digest-003.md) | pp. 11-12 | Machine Learning with Applications > Hybrid deep learning for anti-money laundering: Unsupervised detection of emerging schemes via feature fusion and explainable artificial intelligence |
 
 ## How to cite
 

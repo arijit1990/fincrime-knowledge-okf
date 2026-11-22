@@ -10,7 +10,7 @@ tags:
 - global_academic
 - ml_statistics
 - model_validation
-status: draft
+status: stable
 source_id: academic-publisher-conformalized-classifiers-with-reject-option
 issuer: academic_publisher
 issuer_name: Academic publisher / repository
@@ -39,15 +39,14 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://doi.org/10.1016/j.mlwa.2026.100838
   title: Conformalized classifiers with reject option
   author: org:academic_publisher
   last_modified: '2026-02-24T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 9
+digest_points: 286
 ---
 
 # Conformalized classifiers with reject option
@@ -67,8 +66,6 @@ digest_pending_parts: 9
 | Licence | Per-paper licence (Reproduction not permitted for commercial/internal use (Per-paper licence)) |
 | Topics | [ml statistics](../../../topics/ml-statistics.md), [alerts triage](../../../topics/alerts-triage.md), [model validation](../../../topics/model-validation.md) |
 
-> **Digest in progress:** 9 of 9 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -79,6 +76,15 @@ Peer-reviewed open-access method for classifiers that abstain under uncertainty 
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-4 | A B S T R A C T |
+| [digest part 2](digest-002.md) | pp. 4-6 | A B S T R A C T |
+| [digest part 3](digest-003.md) | pp. 6-7 | A B S T R A C T |
+| [digest part 4](digest-004.md) | pp. 7-9 | A B S T R A C T |
+| [digest part 5](digest-005.md) | pp. 9-10 | A B S T R A C T |
+| [digest part 6](digest-006.md) | pp. 10-11 | A B S T R A C T |
+| [digest part 7](digest-007.md) | pp. 11-12 | A B S T R A C T |
+| [digest part 8](digest-008.md) | pp. 12-15 | A B S T R A C T |
+| [digest part 9](digest-009.md) | p. 15 | A B S T R A C T |
 
 ## How to cite
 

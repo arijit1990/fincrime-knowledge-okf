@@ -10,7 +10,7 @@ tags:
 - ml_statistics
 - model_development
 - preprint
-status: draft
+status: stable
 source_id: arxiv-adaptive-fraud-detection-system-using-dynamic-risk-features
 issuer: arxiv
 issuer_name: arXiv
@@ -40,7 +40,7 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/1810.04654
@@ -48,8 +48,7 @@ sources:
   author: org:arxiv
   last_modified: '2018-10-10T00:00:00Z'
 download_url: https://arxiv.org/pdf/1810.04654
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 159
 ---
 
 # Adaptive Fraud Detection System Using Dynamic Risk Features
@@ -73,8 +72,6 @@ digest_pending_parts: 3
 
 - 3 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -85,6 +82,9 @@ Proposes dynamic risk features updated online to counter rapidly changing fraud 
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-7 | Abstract; 1. Introduction; 2. Concept Drift; _2.1. Definition of concept drift and two scenarios_; and 1 more sections |
+| [digest part 2](digest-002.md) | pp. 7-14 | 3. Survey of Adaptive Algorithms; 4. Model with dynamic risk features; _4.1. Measuring concept drift using entity profile with fraud feedback_; _4.2. Measuring concept drift using entity profile with fraud feedback_ |
+| [digest part 3](digest-003.md) | pp. 14-19 | 5. Model Validation Using Real Data; 6. Discussion; References |
 
 ## How to cite
 

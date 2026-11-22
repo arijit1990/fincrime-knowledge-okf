@@ -9,7 +9,7 @@ tags:
 - global_academic
 - ml_statistics
 - preprint
-status: draft
+status: stable
 source_id: arxiv-a-survey-of-predictive-modelling-under-imbalanced-distributions
 issuer: arxiv
 issuer_name: arXiv
@@ -38,7 +38,7 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/1505.01658
@@ -46,8 +46,7 @@ sources:
   author: org:arxiv
   last_modified: '2015-05-07T00:00:00Z'
 download_url: https://arxiv.org/pdf/1505.01658
-digest_points: 0
-digest_pending_parts: 5
+digest_points: 183
 ---
 
 # A Survey of Predictive Modelling under Imbalanced Distributions
@@ -71,8 +70,6 @@ digest_pending_parts: 5
 
 - 2 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 5 of 5 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Bibliographic details
 
 - Authors: Paula Branco, Luı́s Torgo, Rita P. Ribeiro
@@ -90,6 +87,11 @@ OpenAlex 'imbalanced classification fraud detection': 173 citations; arXiv (Corn
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-14 | A Survey of Predictive Modelling under Imbalanced Distributions; A Survey of Predictive Modelling under Imbalanced Distributions > 1 Introduction; A Survey of Predictive Modelling under Imbalanced Distributions > 2 Problem Definition; A Survey of Predictive Modelling under Imbalanced Distributions > 3 Performance Metrics for Imbalanced Domains; and 1 more sections |
+| [digest part 2](digest-002.md) | pp. 14-23 | A Survey of Predictive Modelling under Imbalanced Distributions > 4 Modelling Strategies for Handling Imbalanced Domains |
+| [digest part 3](digest-003.md) | pp. 23-33 | A Survey of Predictive Modelling under Imbalanced Distributions > 4 Modelling Strategies for Handling Imbalanced Domains; A Survey of Predictive Modelling under Imbalanced Distributions > 5 Related Problems; A Survey of Predictive Modelling under Imbalanced Distributions > 6 Conclusions; A Survey of Predictive Modelling under Imbalanced Distributions > References |
+| [digest part 4](digest-004.md) | pp. 33-42 | A Survey of Predictive Modelling under Imbalanced Distributions > References |
+| [digest part 5](digest-005.md) | pp. 42-48 | A Survey of Predictive Modelling under Imbalanced Distributions > References |
 
 ## How to cite
 

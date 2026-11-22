@@ -9,7 +9,7 @@ tags:
 - global_academic
 - network_graph
 - preprint
-status: draft
+status: stable
 source_id: arxiv-explainable-fraud-detection-with-gnnexplainer-and-shapley-values
 issuer: arxiv
 issuer_name: arXiv
@@ -37,7 +37,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2509.12262
@@ -45,8 +45,7 @@ sources:
   author: org:arxiv
   last_modified: '2025-12-09T00:00:00Z'
 download_url: https://arxiv.org/pdf/2509.12262
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 122
 ---
 
 # Explainable Fraud Detection with GNNExplainer and Shapley Values
@@ -66,8 +65,6 @@ digest_pending_parts: 3
 | Licence | Per-paper licence (Reproduction not permitted for commercial/internal use (http://arxiv.org/licenses/nonexclusive-distrib/1.0/)) |
 | Topics | [explainability](../../../topics/explainability.md), [network graph](../../../topics/network-graph.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -78,6 +75,9 @@ Combines GNNExplainer subgraph explanations with Shapley attributions for graph 
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-17 | Abstract; Acknowledgement; Table of Contents; 1. Introduction > 1.1. Motivation; and 7 more sections |
+| [digest part 2](digest-002.md) | pp. 17-26 | 4. Research Method > 4.1. Datasets; 4. Research Method > 4.2. Data Analysis and Feature Engineering; 4. Research Method > 4.3. Graph Construction; 4. Research Method > 4.4. Baseline Models; and 2 more sections |
+| [digest part 3](digest-003.md) | pp. 27-36 | 5. Experiments and Results > 5.1. Fraud Detection; 5. Experiments and Results > 5.2. Fraud Explanation; 6. Conclusion > 6.1. Discussion; 6. Conclusion > 6.2. Limitation; and 2 more sections |
 
 ## How to cite
 

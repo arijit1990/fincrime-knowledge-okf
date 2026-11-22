@@ -10,7 +10,7 @@ tags:
 - network_graph
 - preprint
 - virtual_assets
-status: draft
+status: stable
 source_id: arxiv-babd-a-bitcoin-address-behavior-dataset-for-pattern-analysis
 issuer: arxiv
 issuer_name: arXiv
@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2204.05746
@@ -47,8 +47,7 @@ sources:
   author: org:arxiv
   last_modified: '2023-12-28T00:00:00Z'
 download_url: https://arxiv.org/pdf/2204.05746
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 199
 ---
 
 # BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis
@@ -68,8 +67,6 @@ digest_pending_parts: 3
 | Licence | Per-paper licence (Reproduction not permitted for commercial/internal use (http://arxiv.org/licenses/nonexclusive-distrib/1.0/)) |
 | Topics | [virtual assets](../../../topics/virtual-assets.md), [network graph](../../../topics/network-graph.md), [datasets benchmarks](../../../topics/datasets-benchmarks.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Bibliographic details
 
 - Authors: Yuexin Xiang, Yuchen Lei, Bao Fu Ding, Tiantian Li, Qingqing Yang, Wenmao Liu, Wei Zhong Ren, Kim‐Kwang Raymond Choo
@@ -87,6 +84,9 @@ OpenAlex 'bitcoin illicit transactions graph': 32 citations; IEEE Transactions o
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-6 | BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis; BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis > I. INTRODUCTION; BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis > II. RELATED WORK; BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis > _A. Bitcoin Graph Structure_; and 5 more sections |
+| [digest part 2](digest-002.md) | pp. 6-11 | BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis > _C. Local Structural Indicator_; BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis > _B. Experiment Process_; BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis > _C. Result and Analysis_; BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis > _D. Feature Selection_; and 2 more sections |
+| [digest part 3](digest-003.md) | pp. 11-14 | BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis > _F. Feature Analysis_; BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis > _A. Preliminary Analysis_; BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis > _B. Dataset Improvement_; BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis > VII. CONCLUSION AND FUTURE WORK; and 2 more sections |
 
 ## How to cite
 

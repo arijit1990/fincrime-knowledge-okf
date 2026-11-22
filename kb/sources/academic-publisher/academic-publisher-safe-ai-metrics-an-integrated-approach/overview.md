@@ -11,7 +11,7 @@ tags:
 - model_governance
 - model_validation
 - responsible_ai
-status: draft
+status: stable
 source_id: academic-publisher-safe-ai-metrics-an-integrated-approach
 issuer: academic_publisher
 issuer_name: Academic publisher / repository
@@ -41,15 +41,14 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://doi.org/10.1016/j.mlwa.2025.100821
   title: 'SAFE AI metrics: An integrated approach'
   author: org:academic_publisher
   last_modified: '2026-02-25T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 135
 ---
 
 # SAFE AI metrics: An integrated approach
@@ -69,8 +68,6 @@ digest_pending_parts: 3
 | Licence | Per-paper licence (Reproduction not permitted for commercial/internal use (Per-paper licence)) |
 | Topics | [model validation](../../../topics/model-validation.md), [responsible ai](../../../topics/responsible-ai.md), [explainability](../../../topics/explainability.md), [model governance](../../../topics/model-governance.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -81,6 +78,9 @@ Peer-reviewed open-access unified metrics for AI accuracy, explainability, robus
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-4 | Machine Learning with Applications > SAFE AI metrics: An integrated approach |
+| [digest part 2](digest-002.md) | pp. 5-9 | Machine Learning with Applications > SAFE AI metrics: An integrated approach |
+| [digest part 3](digest-003.md) | pp. 9-13 | Machine Learning with Applications > SAFE AI metrics: An integrated approach |
 
 ## How to cite
 

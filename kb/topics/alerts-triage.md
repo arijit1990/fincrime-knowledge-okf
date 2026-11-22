@@ -8,7 +8,7 @@ domain_id: alerts_triage
 domain_scope: core
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 ---
 
 # Alert generation, prioritisation & triage

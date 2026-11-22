@@ -11,7 +11,7 @@ tags:
 - ml_statistics
 - model_development
 - transaction_behaviour
-status: draft
+status: stable
 source_id: academic-publisher-mad-multicriteria-anomaly-detection-of-suspicious-f
 issuer: academic_publisher
 issuer_name: Academic publisher / repository
@@ -41,15 +41,14 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://dl.acm.org/doi/10.1145/3711896.3737244
   title: 'MAD: Multicriteria Anomaly Detection of Suspicious Financial Accounts from Billions of Cash Transactions'
   author: org:academic_publisher
   last_modified: '2025-06-07T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 4
+digest_points: 131
 ---
 
 # MAD: Multicriteria Anomaly Detection of Suspicious Financial Accounts from Billions of Cash Transactions
@@ -69,8 +68,6 @@ digest_pending_parts: 4
 | Licence | Per-paper licence (Reproduction not permitted for commercial/internal use (Per-paper licence)) |
 | Topics | [ml statistics](../../../topics/ml-statistics.md), [transaction behaviour](../../../topics/transaction-behaviour.md), [alerts triage](../../../topics/alerts-triage.md), [model development](../../../topics/model-development.md) |
 
-> **Digest in progress:** 4 of 4 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -81,6 +78,10 @@ KDD 2025 real-world deployment case study (Politecnico di Torino with Intesa San
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-3 | Abstract > ACM Reference Format:; 1 Introduction; CCS Concepts; Keywords; and 3 more sections |
+| [digest part 2](digest-002.md) | pp. 3-6 | 4.1 Dataset; 4.2 Focusing on interesting cases; 5 Methodology; 5.1 Feature Engineering; and 1 more sections |
+| [digest part 3](digest-003.md) | pp. 6-9 | 6 Experimental results; 6.1 Experimental setup; 6.2 Results; 7 Deployment |
+| [digest part 4](digest-004.md) | pp. 9-10 | 8 Lessons learned; Acknowledgments; References |
 
 ## How to cite
 

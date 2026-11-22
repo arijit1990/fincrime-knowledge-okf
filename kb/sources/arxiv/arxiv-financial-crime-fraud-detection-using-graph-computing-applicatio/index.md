@@ -1,3 +1,5 @@
 # Parts
 
 * [Financial Crime & Fraud Detection Using Graph Computing: Application Considerations & Outlook](overview.md) - Preprint by arXiv (2021-02-03); GLOBAL_ACADEMIC; academic finding; status unknown.
+* [Financial Crime & Fraud Detection Using Graph Computing: Application Considerations & Outlook - part 1 of 2 (pp. 1-5)](digest-001.md) - Verified paraphrased digest, pp. 1-5: Financial Crime & Fraud Detection Using Graph Computing: Application Considerations & Outlook; Financial Crime & Fraud Detection Using Graph Computing: Application Considerations & Outlook > I. INTRODUCTION; Financial Crime & Fraud Detection Using Graph Computing: Application Considerations & Outlook > A. Fraud and Financial Crime Trends; and 4 more sections
+* [Financial Crime & Fraud Detection Using Graph Computing: Application Considerations & Outlook - part 2 of 2 (pp. 5-6)](digest-002.md) - Verified paraphrased digest, pp. 5-6: Financial Crime & Fraud Detection Using Graph Computing: Application Considerations & Outlook > REFERENCES

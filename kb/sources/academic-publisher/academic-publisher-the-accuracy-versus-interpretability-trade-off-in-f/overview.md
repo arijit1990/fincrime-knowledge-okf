@@ -10,7 +10,7 @@ tags:
 - global_academic
 - ml_statistics
 - model_monitoring
-status: draft
+status: stable
 source_id: academic-publisher-the-accuracy-versus-interpretability-trade-off-in-f
 issuer: academic_publisher
 issuer_name: Academic publisher / repository
@@ -39,15 +39,14 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://www.cambridge.org/core/journals/data-and-policy/article/accuracy-versus-interpretability-tradeoff-in-fraud-detection-model/3BA1586A6B635E08BE556FAB89AD8770
   title: The accuracy versus interpretability trade-off in fraud detection model
   author: org:academic_publisher
   last_modified: '2021-01-01T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 116
 ---
 
 # The accuracy versus interpretability trade-off in fraud detection model
@@ -67,8 +66,6 @@ digest_pending_parts: 3
 | Licence | Per-paper licence (Reproduction not permitted for commercial/internal use (cc-by-nc-sa)) |
 | Topics | [model monitoring](../../../topics/model-monitoring.md), [ml statistics](../../../topics/ml-statistics.md), [fraud screening synergies](../../../topics/fraud-screening-synergies.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Bibliographic details
 
 - Authors: Anna Nesvijevskaia, Sophie Ouillade, Pauline Guilmin, Jean‐Daniel Zucker
@@ -86,6 +83,9 @@ OpenAlex 'concept drift fraud detection': 41 citations; Data & Policy
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | The accuracy versus interpretability trade-off in fraud detection model; The accuracy versus interpretability trade-off in fraud detection model > Abstract; The accuracy versus interpretability trade-off in fraud detection model > Information; The accuracy versus interpretability trade-off in fraud detection model > Policy Significance Statement; and 2 more sections |
+| [digest part 2](digest-002.md) | p. 1 | The accuracy versus interpretability trade-off in fraud detection model > 3. SOTA Review of Fraud Detection; The accuracy versus interpretability trade-off in fraud detection model > 4. Experimentation |
+| [digest part 3](digest-003.md) | p. 1 | The accuracy versus interpretability trade-off in fraud detection model > 5. Conclusion; The accuracy versus interpretability trade-off in fraud detection model > Abbreviations; The accuracy versus interpretability trade-off in fraud detection model > Funding Statement; The accuracy versus interpretability trade-off in fraud detection model > Author Contributions; and 2 more sections |
 
 ## How to cite
 

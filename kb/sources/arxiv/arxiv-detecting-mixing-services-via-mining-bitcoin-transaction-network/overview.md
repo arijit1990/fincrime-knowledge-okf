@@ -9,7 +9,7 @@ tags:
 - network_graph
 - preprint
 - typologies
-status: draft
+status: stable
 source_id: arxiv-detecting-mixing-services-via-mining-bitcoin-transaction-network
 issuer: arxiv
 issuer_name: arXiv
@@ -37,7 +37,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2001.05233
@@ -45,8 +45,7 @@ sources:
   author: org:arxiv
   last_modified: '2021-01-21T00:00:00Z'
 download_url: https://arxiv.org/pdf/2001.05233
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 233
 ---
 
 # Detecting Mixing Services via Mining Bitcoin Transaction Network With Hybrid Motifs
@@ -66,8 +65,6 @@ digest_pending_parts: 3
 | Licence | Per-paper licence (Reproduction not permitted for commercial/internal use (http://arxiv.org/licenses/nonexclusive-distrib/1.0/)) |
 | Topics | [network graph](../../../topics/network-graph.md), [typologies](../../../topics/typologies.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Bibliographic details
 
 - Authors: Jiajing Wu, Jieli Liu, Weili Chen, Huawei Huang, Zibin Zheng, Yan Zhang
@@ -85,6 +82,9 @@ OpenAlex 'money laundering network analysis': 215 citations; IEEE Transactions o
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-6 | Detecting Mixing Services via Mining Bitcoin Transaction Network with Hybrid Motifs; Detecting Mixing Services via Mining Bitcoin Transaction Network with Hybrid Motifs > I. INTRODUCTION; Detecting Mixing Services via Mining Bitcoin Transaction Network with Hybrid Motifs > II. DATA COLLECTION; Detecting Mixing Services via Mining Bitcoin Transaction Network with Hybrid Motifs > A. AAIN and Temporal Motifs; and 4 more sections |
+| [digest part 2](digest-002.md) | pp. 6-9 | Detecting Mixing Services via Mining Bitcoin Transaction Network with Hybrid Motifs > B. Account Features; Detecting Mixing Services via Mining Bitcoin Transaction Network with Hybrid Motifs > C. Transaction Features; Detecting Mixing Services via Mining Bitcoin Transaction Network with Hybrid Motifs > V. DETECTION MODEL; Detecting Mixing Services via Mining Bitcoin Transaction Network with Hybrid Motifs > VI. EXPERIMENTAL RESULTS; and 4 more sections |
+| [digest part 3](digest-003.md) | pp. 9-12 | Detecting Mixing Services via Mining Bitcoin Transaction Network with Hybrid Motifs > D. Parameter Sensitivity Analysis; Detecting Mixing Services via Mining Bitcoin Transaction Network with Hybrid Motifs > E. Discussion; Detecting Mixing Services via Mining Bitcoin Transaction Network with Hybrid Motifs > VII. RELATED WORK; Detecting Mixing Services via Mining Bitcoin Transaction Network with Hybrid Motifs > VIII. CONCLUSION AND FUTURE WORK |
 
 ## How to cite
 

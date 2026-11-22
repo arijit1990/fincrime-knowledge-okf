@@ -1,3 +1,8 @@
 # Parts
 
 * [Machine Learning for Fraud Detection in E-Commerce: A Research Agenda](overview.md) - Preprint by arXiv (2021-05-07); GLOBAL_ACADEMIC; academic finding; status unknown.
+* [Machine Learning for Fraud Detection in E-Commerce: A Research Agenda - part 1 of 5 (pp. 1-7)](digest-001.md) - Verified paraphrased digest, pp. 1-7: 1 Introduction; 2 An Operational Model of an Anti-Fraud Department; 2 An Operational Model of an Anti-Fraud Department > 2.1 Entities & Relations in the Operational Model; and 4 more sections
+* [Machine Learning for Fraud Detection in E-Commerce: A Research Agenda - part 2 of 5 (pp. 7-13)](digest-002.md) - Verified paraphrased digest, pp. 7-13: 4 Decision-Making; 4 Decision-Making > 4.1 Summary of the Literature; 4 Decision-Making > 4.2 Open Research Challenges; and 3 more sections
+* [Machine Learning for Fraud Detection in E-Commerce: A Research Agenda - part 3 of 5 (pp. 13-18)](digest-003.md) - Verified paraphrased digest, pp. 13-18: 6 Concept Drift; 6 Concept Drift > 6.1 Summary of the Literature; 6 Concept Drift > Challenge 11: Separating platform changes from changes in attack; and 3 more sections
+* [Machine Learning for Fraud Detection in E-Commerce: A Research Agenda - part 4 of 5 (pp. 18-25)](digest-004.md) - Verified paraphrased digest, pp. 18-25: 8 Model Deployment & Monitoring; 8 Model Deployment & Monitoring > 8.1 Summary of the Literature; 8 Model Deployment & Monitoring > 8.2 Open Research Challenges; and 2 more sections
+* [Machine Learning for Fraud Detection in E-Commerce: A Research Agenda - part 5 of 5 (p. 25)](digest-005.md) - Verified paraphrased digest, p. 25: References

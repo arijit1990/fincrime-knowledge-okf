@@ -8,7 +8,7 @@ domain_id: public_private_partnership
 domain_scope: core
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 ---
 
 # Public-private partnerships & information sharing

@@ -10,7 +10,7 @@ tags:
 - model_development
 - network_graph
 - preprint
-status: draft
+status: stable
 source_id: arxiv-catch-me-if-you-can-semi-supervised-graph-learning-for-spotting
 issuer: arxiv
 issuer_name: arXiv
@@ -40,7 +40,7 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2302.11880
@@ -48,8 +48,7 @@ sources:
   author: org:arxiv
   last_modified: '2023-02-23T00:00:00Z'
 download_url: https://arxiv.org/pdf/2302.11880
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 133
 ---
 
 # Catch Me If You Can: Semi-supervised Graph Learning for Spotting Money Laundering
@@ -73,8 +72,6 @@ digest_pending_parts: 3
 
 - 6 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -85,6 +82,9 @@ Semi-supervised graph learning on financial transaction graphs to identify suspi
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-6 | Catch Me If You Can: Semi-supervised Graph Learning for Spotting Money Laundering; Catch Me If You Can: Semi-supervised Graph Learning for Spotting Money Laundering > 1 INTRODUCTION; Catch Me If You Can: Semi-supervised Graph Learning for Spotting Money Laundering > 2 RELATED WORKS; Catch Me If You Can: Semi-supervised Graph Learning for Spotting Money Laundering > 3 METHODS; and 1 more sections |
+| [digest part 2](digest-002.md) | pp. 6-10 | Catch Me If You Can: Semi-supervised Graph Learning for Spotting Money Laundering > 4 EXPERIMENTS; Catch Me If You Can: Semi-supervised Graph Learning for Spotting Money Laundering > 5 CONCLUSION AND OUTLOOK; Catch Me If You Can: Semi-supervised Graph Learning for Spotting Money Laundering > ACKNOWLEDGMENT; Catch Me If You Can: Semi-supervised Graph Learning for Spotting Money Laundering > REFERENCES |
+| [digest part 3](digest-003.md) | p. 10 | Catch Me If You Can: Semi-supervised Graph Learning for Spotting Money Laundering > REFERENCES |
 
 ## How to cite
 

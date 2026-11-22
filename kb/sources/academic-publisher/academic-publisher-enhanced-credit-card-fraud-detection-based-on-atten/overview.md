@@ -10,7 +10,7 @@ tags:
 - global_academic
 - ml_statistics
 - transaction_behaviour
-status: draft
+status: stable
 source_id: academic-publisher-enhanced-credit-card-fraud-detection-based-on-atten
 issuer: academic_publisher
 issuer_name: Academic publisher / repository
@@ -39,15 +39,14 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://link.springer.com/article/10.1186/s40537-021-00541-8
   title: Enhanced credit card fraud detection based on attention mechanism and LSTM deep model
   author: org:academic_publisher
   last_modified: '2021-12-01T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 72
 ---
 
 # Enhanced credit card fraud detection based on attention mechanism and LSTM deep model
@@ -67,8 +66,6 @@ digest_pending_parts: 3
 | Licence | Per-paper licence (Reproduction not permitted for commercial/internal use (Per-paper licence)) |
 | Topics | [ml statistics](../../../topics/ml-statistics.md), [transaction behaviour](../../../topics/transaction-behaviour.md), [fraud screening synergies](../../../topics/fraud-screening-synergies.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -79,6 +76,9 @@ Peer-reviewed open-access paper applying LSTM with attention to sequential trans
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | Abstract; Abstract > Explore related subjects; Introduction; Related works; and 3 more sections |
+| [digest part 2](digest-002.md) | p. 1 | Methods and materials; Methods and materials > Datasets; Methods and materials > Dimensionality reduction; Methods and materials > Implementation and evaluation metrics; and 4 more sections |
+| [digest part 3](digest-003.md) | p. 1 | Acknowledgements; Author information > Authors and Affiliations; Ethics declarations > Competing interests; Rights and permissions; and 1 more sections |
 
 ## How to cite
 

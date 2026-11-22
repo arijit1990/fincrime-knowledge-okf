@@ -10,7 +10,7 @@ tags:
 - ml_statistics
 - network_graph
 - preprint
-status: draft
+status: stable
 source_id: arxiv-clue-guided-money-laundering-group-discovery
 issuer: arxiv
 issuer_name: arXiv
@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2606.26189
@@ -47,8 +47,7 @@ sources:
   author: org:arxiv
   last_modified: '2026-06-24T00:00:00Z'
 download_url: https://arxiv.org/pdf/2606.26189
-digest_points: 0
-digest_pending_parts: 7
+digest_points: 343
 ---
 
 # Clue-Guided Money Laundering Group Discovery
@@ -68,8 +67,6 @@ digest_pending_parts: 7
 | Licence | Per-paper licence (Reproduction not permitted for commercial/internal use (http://arxiv.org/licenses/nonexclusive-distrib/1.0/)) |
 | Topics | [network graph](../../../topics/network-graph.md), [ml statistics](../../../topics/ml-statistics.md), [advanced analytics](../../../topics/advanced-analytics.md) |
 
-> **Digest in progress:** 7 of 7 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -80,6 +77,13 @@ Recent graph method framing investigation-stage group discovery from a few confi
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-3 | I. INTRODUCTION; M; II. RELATED WORK; III. PROBLEM DEFINITION; and 5 more sections |
+| [digest part 2](digest-002.md) | pp. 3-6 | IV. CLUE2GROUP; L; MIST-GNN; 0Y; and 8 more sections |
+| [digest part 3](digest-003.md) | pp. 6-8 | ( )* S LIC; T; E R E E; P P; and 5 more sections |
+| [digest part 4](digest-004.md) | pp. 9-12 | TABLE II PERFORMANCE OF MIST-GNN AND COMPARED MODELS; TABLE III PERFORMANCE COMPARISON OF EDGA AND BASELINE; TABLE IV SIZE COMPARISON OF LICS, GROUND-TRUTH GROUPS, AND |
+| [digest part 5](digest-005.md) | pp. 12-15 | TABLE V AVERAGE PER-ROUND RUNTIME OF CLUE2GROUP; REFERENCES; VI. CONCLUSION |
+| [digest part 6](digest-006.md) | pp. 15-18 | I. SACC TIME COMPLEXITY; ( ), LIC LIC O +  (4); LTCE; III. TRAINING DETAILS |
+| [digest part 7](digest-007.md) | pp. 18-19 | IV. DENSITY-DEPENDENT EFFECTIVENESS OF LTCE |
 
 ## How to cite
 

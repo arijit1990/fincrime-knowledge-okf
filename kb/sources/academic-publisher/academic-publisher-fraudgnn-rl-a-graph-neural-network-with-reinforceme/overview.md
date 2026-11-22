@@ -10,7 +10,7 @@ tags:
 - global_academic
 - ml_statistics
 - model_monitoring
-status: draft
+status: stable
 source_id: academic-publisher-fraudgnn-rl-a-graph-neural-network-with-reinforceme
 issuer: academic_publisher
 issuer_name: Academic publisher / repository
@@ -40,15 +40,14 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://doi.org/10.1109/ojcs.2025.3543450
   title: 'FraudGNN-RL: A Graph Neural Network With Reinforcement Learning for Adaptive Financial Fraud Detection'
   author: org:academic_publisher
   last_modified: '2025-01-01T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 10
 ---
 
 # FraudGNN-RL: A Graph Neural Network With Reinforcement Learning for Adaptive Financial Fraud Detection
@@ -72,8 +71,6 @@ digest_pending_parts: 1
 
 - abstract only: the full text was not available to the knowledge base
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Bibliographic details
 
 - Authors: Yiwen Cui, Xu Han, Jiaying Chen, Xinguang Zhang, Jingyun Yang, Xuguang Zhang
@@ -91,6 +88,7 @@ OpenAlex 'concept drift fraud detection': 60 citations; IEEE Open Journal of the
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | Abstract |
 
 ## How to cite
 

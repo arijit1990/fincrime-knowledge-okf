@@ -10,7 +10,7 @@ tags:
 - ml_statistics
 - network_graph
 - preprint
-status: draft
+status: stable
 source_id: arxiv-laundrograph-self-supervised-graph-representation-learning-for-a
 issuer: arxiv
 issuer_name: arXiv
@@ -40,7 +40,7 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2210.14360
@@ -48,8 +48,7 @@ sources:
   author: org:arxiv
   last_modified: '2022-10-25T00:00:00Z'
 download_url: https://arxiv.org/pdf/2210.14360
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 120
 ---
 
 # LaundroGraph: Self-Supervised Graph Representation Learning for Anti-Money Laundering
@@ -73,8 +72,6 @@ digest_pending_parts: 3
 
 - 2 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -85,6 +82,9 @@ Self-supervised GNN on a customer-transaction bipartite graph from real bank dat
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-3 | CCS CONCEPTS; KEYWORDS > ACM Reference Format:; 1 INTRODUCTION; 2 RELATED WORK; and 2 more sections |
+| [digest part 2](digest-002.md) | pp. 3-5 | 3.2 Self-Supervised anomaly detection; 4 EXPERIMENTS; 4.1 Experimental setup |
+| [digest part 3](digest-003.md) | pp. 5-9 | 4.2 Classification results; 4.3 Transaction visualization; 4.4 Customer visualization; 5 CONCLUSION; and 2 more sections |
 
 ## How to cite
 

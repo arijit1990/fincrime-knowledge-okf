@@ -1,3 +1,8 @@
 # Parts
 
 * [A Survey of Predictive Modelling under Imbalanced Distributions](overview.md) - Preprint by arXiv (2015-05-07); GLOBAL_ACADEMIC; academic finding; status unknown.
+* [A Survey of Predictive Modelling under Imbalanced Distributions - part 1 of 5 (pp. 1-14)](digest-001.md) - Verified paraphrased digest, pp. 1-14: A Survey of Predictive Modelling under Imbalanced Distributions; A Survey of Predictive Modelling under Imbalanced Distributions > 1 Introduction; A Survey of Predictive Modelling under Imbalanced Distributions > 2 Problem Definition; and 2 more sections
+* [A Survey of Predictive Modelling under Imbalanced Distributions - part 2 of 5 (pp. 14-23)](digest-002.md) - Verified paraphrased digest, pp. 14-23: A Survey of Predictive Modelling under Imbalanced Distributions > 4 Modelling Strategies for Handling Imbalanced Domains
+* [A Survey of Predictive Modelling under Imbalanced Distributions - part 3 of 5 (pp. 23-33)](digest-003.md) - Verified paraphrased digest, pp. 23-33: A Survey of Predictive Modelling under Imbalanced Distributions > 4 Modelling Strategies for Handling Imbalanced Domains; A Survey of Predictive Modelling under Imbalanced Distributions > 5 Related Problems; A Survey of Predictive Modelling under Imbalanced Distributions > 6 Conclusions; and 1 more sections
+* [A Survey of Predictive Modelling under Imbalanced Distributions - part 4 of 5 (pp. 33-42)](digest-004.md) - Verified paraphrased digest, pp. 33-42: A Survey of Predictive Modelling under Imbalanced Distributions > References
+* [A Survey of Predictive Modelling under Imbalanced Distributions - part 5 of 5 (pp. 42-48)](digest-005.md) - Verified paraphrased digest, pp. 42-48: A Survey of Predictive Modelling under Imbalanced Distributions > References

@@ -10,7 +10,7 @@ tags:
 - model_development
 - network_graph
 - preprint
-status: draft
+status: stable
 source_id: arxiv-do-transaction-level-and-actor-level-aml-queues-agree-an-empiric
 issuer: arxiv
 issuer_name: arXiv
@@ -40,7 +40,7 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2604.23494
@@ -48,8 +48,7 @@ sources:
   author: org:arxiv
   last_modified: '2026-04-26T00:00:00Z'
 download_url: https://arxiv.org/pdf/2604.23494
-digest_points: 0
-digest_pending_parts: 4
+digest_points: 209
 ---
 
 # Do Transaction-Level and Actor-Level AML Queues Agree? An Empirical Evaluation of Granularity Effects on the Elliptic++ Graph
@@ -73,8 +72,6 @@ digest_pending_parts: 4
 
 - 7 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 4 of 4 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -85,6 +82,10 @@ Evaluates how transaction- vs actor-level scoring changes investigation queue co
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-7 | Abstract; 1 Introduction; 2 Related Work > 2.1 Bitcoin AML Detection; 2 Related Work > 2.2 Multi-Granularity Graph Analysis; and 8 more sections |
+| [digest part 2](digest-002.md) | pp. 7-12 | 3 Methodology > 3.6 Evaluation Metrics; 3 Methodology > 3.7 Feature-Matching Ablations; 3 Methodology > 3.8 Hybrid Consensus Policy; 4 Results > 4.1 Queue Disagreement (H1); and 6 more sections |
+| [digest part 3](digest-003.md) | pp. 12-17 | 5 Discussion > 5.1 Practical Implications for Queue Design; 5 Discussion > 5.2 The Temporal Heterogeneity Story; 5 Discussion > 5.3 Why Enrichment Fails; 5 Discussion > 5.4 Limitations; and 4 more sections |
+| [digest part 4](digest-004.md) | pp. 17-20 | A Per-Timestep Results; B Degree-Strata Analysis; C Reproducibility; D Shared-Core Feature Mapping |
 
 ## How to cite
 

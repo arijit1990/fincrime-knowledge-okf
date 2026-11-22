@@ -9,7 +9,7 @@ tags:
 - global_academic
 - ml_statistics
 - privacy_data_protection
-status: draft
+status: stable
 source_id: academic-publisher-privacy-preserving-federated-learning-for-detecting
 issuer: academic_publisher
 issuer_name: Academic publisher / repository
@@ -38,15 +38,14 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://www.jstage.jst.go.jp/article/ipsjjip/30/0/30_789/_article
   title: Privacy-Preserving Federated Learning for Detecting Fraudulent Financial Transactions in Japanese Banks
   author: org:academic_publisher
   last_modified: '2022-01-01T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 10
 ---
 
 # Privacy-Preserving Federated Learning for Detecting Fraudulent Financial Transactions in Japanese Banks
@@ -70,8 +69,6 @@ digest_pending_parts: 1
 
 - abstract only: the full text was not available to the knowledge base
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Bibliographic details
 
 - Authors: Sachiko Kanamori, Taeko Abe, Takuma Ito, Keita Emura, Lihua Wang, Shuntaro Yamamoto, Le Trieu Phong, Kaien Abe
@@ -89,6 +86,7 @@ OpenAlex 'federated learning financial crime detection': 32 citations; Journal o
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | Abstract |
 
 ## How to cite
 

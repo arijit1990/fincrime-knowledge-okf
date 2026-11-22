@@ -10,7 +10,7 @@ tags:
 - network_graph
 - preprint
 - transaction_behaviour
-status: draft
+status: stable
 source_id: arxiv-topology-agnostic-detection-of-temporal-money-laundering-flows-i
 issuer: arxiv
 issuer_name: arXiv
@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2309.13662
@@ -47,8 +47,7 @@ sources:
   author: org:arxiv
   last_modified: '2023-09-24T00:00:00Z'
 download_url: https://arxiv.org/pdf/2309.13662
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 113
 ---
 
 # Topology-Agnostic Detection of Temporal Money Laundering Flows in Billion-Scale Transactions
@@ -68,8 +67,6 @@ digest_pending_parts: 3
 | Licence | Per-paper licence (Reproduction not permitted for commercial/internal use (http://arxiv.org/licenses/nonexclusive-distrib/1.0/)) |
 | Topics | [network graph](../../../topics/network-graph.md), [transaction behaviour](../../../topics/transaction-behaviour.md), [advanced analytics](../../../topics/advanced-analytics.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -80,6 +77,9 @@ FaSTM: scalable detection of temporal laundering flows across mule accounts at b
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-7 | 1 Introduction; 1 Introduction > 2 H. Tariq and M. Hassani; 2 Related Work; 3 Preliminaries; and 2 more sections |
+| [digest part 2](digest-002.md) | pp. 7-15 | 4 The Method; 4 The Method > 4.1 Temporal Graph Creation; 4 The Method > 4.2 2_nd_ Order Graph Creation; 4 The Method > 4.3 Weight Calculation; and 5 more sections |
+| [digest part 3](digest-003.md) | pp. 15-19 | 6 Conclusion and Future Work; References |
 
 ## How to cite
 

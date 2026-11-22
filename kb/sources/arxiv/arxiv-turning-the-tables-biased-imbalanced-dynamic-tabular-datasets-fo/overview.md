@@ -11,7 +11,7 @@ tags:
 - global_academic
 - preprint
 - responsible_ai
-status: draft
+status: stable
 source_id: arxiv-turning-the-tables-biased-imbalanced-dynamic-tabular-datasets-fo
 issuer: arxiv
 issuer_name: arXiv
@@ -41,7 +41,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2211.13358
@@ -49,8 +49,7 @@ sources:
   author: org:arxiv
   last_modified: '2022-11-24T00:00:00Z'
 download_url: https://arxiv.org/pdf/2211.13358
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 170
 ---
 
 # Turning the Tables: Biased, Imbalanced, Dynamic Tabular Datasets for ML Evaluation
@@ -70,8 +69,6 @@ digest_pending_parts: 3
 | Licence | Per-paper licence (Reproduction not permitted for commercial/internal use (http://arxiv.org/licenses/nonexclusive-distrib/1.0/)) |
 | Topics | [datasets benchmarks](../../../topics/datasets-benchmarks.md), [fraud screening synergies](../../../topics/fraud-screening-synergies.md), [responsible ai](../../../topics/responsible-ai.md), [data features](../../../topics/data-features.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -82,6 +79,9 @@ NeurIPS 2022 paper introducing the Bank Account Fraud (BAF) suite: privacy-prese
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-6 | Turning the Tables: Biased, Imbalanced, Dynamic Tabular Datasets for ML Evaluation; Turning the Tables: Biased, Imbalanced, Dynamic Tabular Datasets for ML Evaluation > Abstract; Turning the Tables: Biased, Imbalanced, Dynamic Tabular Datasets for ML Evaluation > 1 Introduction; Turning the Tables: Biased, Imbalanced, Dynamic Tabular Datasets for ML Evaluation > 2 Background; and 1 more sections |
+| [digest part 2](digest-002.md) | pp. 7-13 | Turning the Tables: Biased, Imbalanced, Dynamic Tabular Datasets for ML Evaluation > 3 The BAF Dataset Suite; Turning the Tables: Biased, Imbalanced, Dynamic Tabular Datasets for ML Evaluation > 4 Empirical Observations; Turning the Tables: Biased, Imbalanced, Dynamic Tabular Datasets for ML Evaluation > 5 Limitations and Intended Uses; Turning the Tables: Biased, Imbalanced, Dynamic Tabular Datasets for ML Evaluation > References |
+| [digest part 3](digest-003.md) | pp. 13-19 | Turning the Tables: Biased, Imbalanced, Dynamic Tabular Datasets for ML Evaluation > References; Turning the Tables: Biased, Imbalanced, Dynamic Tabular Datasets for ML Evaluation > Checklist; Turning the Tables: Biased, Imbalanced, Dynamic Tabular Datasets for ML Evaluation > A Appendix |
 
 ## How to cite
 

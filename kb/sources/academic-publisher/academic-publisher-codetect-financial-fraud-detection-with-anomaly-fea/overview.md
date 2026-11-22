@@ -9,7 +9,7 @@ tags:
 - advanced_analytics
 - global_academic
 - transaction_behaviour
-status: draft
+status: stable
 source_id: academic-publisher-codetect-financial-fraud-detection-with-anomaly-fea
 issuer: academic_publisher
 issuer_name: Academic publisher / repository
@@ -38,15 +38,14 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://doi.org/10.1109/access.2018.2816564
   title: 'CoDetect: Financial Fraud Detection With Anomaly Feature Detection'
   author: org:academic_publisher
   last_modified: '2018-01-01T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 9
 ---
 
 # CoDetect: Financial Fraud Detection With Anomaly Feature Detection
@@ -70,8 +69,6 @@ digest_pending_parts: 1
 
 - abstract only: the full text was not available to the knowledge base
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Bibliographic details
 
 - Authors: Dongxu Huang, Dejun Mu, Libin Yang, Xiaoyan Cai
@@ -89,6 +86,7 @@ OpenAlex 'anomaly detection financial transactions': 148 citations; IEEE Access
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | Abstract |
 
 ## How to cite
 

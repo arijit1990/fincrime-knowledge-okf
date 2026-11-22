@@ -10,7 +10,7 @@ tags:
 - fraud_screening_synergies
 - global_academic
 - preprint
-status: draft
+status: stable
 source_id: arxiv-a-customer-level-fraudulent-activity-detection-benchmark-for-enh
 issuer: arxiv
 issuer_name: arXiv
@@ -40,15 +40,14 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2404.14746
   title: A Customer Level Fraudulent Activity Detection Benchmark for Enhancing Machine Learning Model Research and Evaluation
   author: org:arxiv
   last_modified: '2024-04-23T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 3
 ---
 
 # A Customer Level Fraudulent Activity Detection Benchmark for Enhancing Machine Learning Model Research and Evaluation
@@ -72,8 +71,6 @@ digest_pending_parts: 1
 
 - only 252 tokens were extracted: the stored file is probably a landing/abstract page, not the full document
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -84,6 +81,7 @@ Customer-level (rather than transaction-level) fraud benchmark dataset, useful f
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | Title: A Customer Level Fraudulent Activity Detection Benchmark for Enhancing Machine Learning Model Research and Evaluation; Title: A Customer Level Fraudulent Activity Detection Benchmark for Enhancing Machine Learning Model Research and Evaluation > Access Paper: |
 
 ## How to cite
 

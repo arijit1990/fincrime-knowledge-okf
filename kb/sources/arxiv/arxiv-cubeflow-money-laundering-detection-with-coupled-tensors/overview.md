@@ -9,7 +9,7 @@ tags:
 - global_academic
 - network_graph
 - preprint
-status: draft
+status: stable
 source_id: arxiv-cubeflow-money-laundering-detection-with-coupled-tensors
 issuer: arxiv
 issuer_name: arXiv
@@ -38,7 +38,7 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2103.12411
@@ -46,8 +46,7 @@ sources:
   author: org:arxiv
   last_modified: '2021-03-23T00:00:00Z'
 download_url: https://arxiv.org/pdf/2103.12411
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 92
 ---
 
 # CubeFlow: Money Laundering Detection with Coupled Tensors
@@ -71,8 +70,6 @@ digest_pending_parts: 3
 
 - 1 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -83,6 +80,9 @@ Unsupervised dense-flow detection over attributed transaction tensors extending 
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-5 | 1 Introduction; 2 Related Work; 3 PROBLEM FORMULATION; 3 PROBLEM FORMULATION > _Such that:_ |
+| [digest part 2](digest-002.md) | pp. 5-11 | 4 Proposed Method > 4.1 Proposed Metric; 4 Proposed Method > 4.2 Proposed Algorithm: CubeFlow; 5 Experiments; 5 Experiments > 5.1 Experimental Setting; and 3 more sections |
+| [digest part 3](digest-003.md) | pp. 11-12 | 6 Conclusion; References |
 
 ## How to cite
 

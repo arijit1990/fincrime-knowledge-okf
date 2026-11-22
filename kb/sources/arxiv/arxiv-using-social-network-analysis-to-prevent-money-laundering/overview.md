@@ -9,7 +9,7 @@ tags:
 - network_graph
 - preprint
 - typologies
-status: draft
+status: stable
 source_id: arxiv-using-social-network-analysis-to-prevent-money-laundering
 issuer: arxiv
 issuer_name: arXiv
@@ -37,7 +37,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2105.05793
@@ -45,8 +45,7 @@ sources:
   author: org:arxiv
   last_modified: '2016-09-20T00:00:00Z'
 download_url: https://arxiv.org/pdf/2105.05793
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 113
 ---
 
 # Using social network analysis to prevent money laundering
@@ -66,8 +65,6 @@ digest_pending_parts: 3
 | Licence | Per-paper licence (Reproduction not permitted for commercial/internal use (http://creativecommons.org/licenses/by-nc-nd/4.0/)) |
 | Topics | [network graph](../../../topics/network-graph.md), [typologies](../../../topics/typologies.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Bibliographic details
 
 - Authors: Andrea Fronzetti Colladon, Elisa Remondi
@@ -85,6 +82,9 @@ OpenAlex 'money laundering network analysis': 225 citations; Expert Systems with
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-14 | Using Social Network Analysis to Prevent Money Laundering; Using Social Network Analysis to Prevent Money Laundering > Using Social Network Analysis to Prevent Money Laundering; Using Social Network Analysis to Prevent Money Laundering > Keywords; Using Social Network Analysis to Prevent Money Laundering > 1. The problem of Money Laundering; and 4 more sections |
+| [digest part 2](digest-002.md) | pp. 14-25 | Using Social Network Analysis to Prevent Money Laundering > 3.2. Network and Control Variables; Using Social Network Analysis to Prevent Money Laundering > 4. Results; Using Social Network Analysis to Prevent Money Laundering > 5. Discussion and Conclusions; Using Social Network Analysis to Prevent Money Laundering > Acknowledgements; and 1 more sections |
+| [digest part 3](digest-003.md) | pp. 25-26 | Using Social Network Analysis to Prevent Money Laundering > References |
 
 ## How to cite
 

@@ -9,7 +9,7 @@ tags:
 - ml_statistics
 - network_graph
 - preprint
-status: draft
+status: stable
 source_id: arxiv-temp-trag-edge-based-temporal-message-passing-in-transaction-gra
 issuer: arxiv
 issuer_name: arXiv
@@ -38,7 +38,7 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2503.16901
@@ -46,8 +46,7 @@ sources:
   author: org:arxiv
   last_modified: '2025-03-21T00:00:00Z'
 download_url: https://arxiv.org/pdf/2503.16901
-digest_points: 0
-digest_pending_parts: 2
+digest_points: 94
 ---
 
 # TeMP-TraG: Edge-based Temporal Message Passing in Transaction Graphs
@@ -71,8 +70,6 @@ digest_pending_parts: 2
 
 - 3 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 2 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -83,6 +80,8 @@ Edge-based temporal message passing that weights recent transactions, improving 
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-10 | 1 Introduction; 2 Related Work; 2 Related Work > 2.1 Graph-Based AML and Financial Fraud Detection; 2 Related Work > 2.2 GNNs for Multigraphs and Edge-Based Learning; and 7 more sections |
+| [digest part 2](digest-002.md) | pp. 10-16 | 5 Experimental Setup > 5.1 Datasets; 5 Experimental Setup > 5.2 Baselines & Selected Models for Extension; 5 Experimental Setup > 5.3 Metrics; 6 Results > 6.1 Overall Results; and 4 more sections |
 
 ## How to cite
 

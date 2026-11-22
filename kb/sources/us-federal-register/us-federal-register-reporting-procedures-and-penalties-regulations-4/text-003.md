@@ -25,10 +25,10 @@ parts_total: 3
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2019/06/21/2019-13163/reporting-procedures-and-penalties-regulations

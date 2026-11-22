@@ -10,7 +10,7 @@ tags:
 - network_graph
 - preprint
 - technology_architecture
-status: draft
+status: stable
 source_id: arxiv-financial-crime-fraud-detection-using-graph-computing-applicatio
 issuer: arxiv
 issuer_name: arXiv
@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2103.01854
@@ -47,8 +47,7 @@ sources:
   author: org:arxiv
   last_modified: '2021-02-03T00:00:00Z'
 download_url: https://arxiv.org/pdf/2103.01854
-digest_points: 0
-digest_pending_parts: 2
+digest_points: 55
 ---
 
 # Financial Crime & Fraud Detection Using Graph Computing: Application Considerations & Outlook
@@ -68,8 +67,6 @@ digest_pending_parts: 2
 | Licence | Per-paper licence (Reproduction not permitted for commercial/internal use (http://arxiv.org/licenses/nonexclusive-distrib/1.0/)) |
 | Topics | [network graph](../../../topics/network-graph.md), [ml statistics](../../../topics/ml-statistics.md), [technology architecture](../../../topics/technology-architecture.md) |
 
-> **Digest in progress:** 2 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -80,6 +77,8 @@ Survey of graph computing for financial crime and fraud detection: graph feature
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-5 | Financial Crime & Fraud Detection Using Graph Computing: Application Considerations & Outlook; Financial Crime & Fraud Detection Using Graph Computing: Application Considerations & Outlook > I. INTRODUCTION; Financial Crime & Fraud Detection Using Graph Computing: Application Considerations & Outlook > A. Fraud and Financial Crime Trends; Financial Crime & Fraud Detection Using Graph Computing: Application Considerations & Outlook > B. Graph-based Detection Techniques; and 3 more sections |
+| [digest part 2](digest-002.md) | pp. 5-6 | Financial Crime & Fraud Detection Using Graph Computing: Application Considerations & Outlook > REFERENCES |
 
 ## How to cite
 

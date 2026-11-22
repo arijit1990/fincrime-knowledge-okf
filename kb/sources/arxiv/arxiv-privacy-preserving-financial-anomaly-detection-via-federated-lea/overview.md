@@ -9,7 +9,7 @@ tags:
 - ml_statistics
 - preprint
 - privacy_data_protection
-status: draft
+status: stable
 source_id: arxiv-privacy-preserving-financial-anomaly-detection-via-federated-lea
 issuer: arxiv
 issuer_name: arXiv
@@ -38,7 +38,7 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2310.04546
@@ -46,8 +46,7 @@ sources:
   author: org:arxiv
   last_modified: '2023-06-10T00:00:00Z'
 download_url: https://arxiv.org/pdf/2310.04546
-digest_points: 0
-digest_pending_parts: 4
+digest_points: 133
 ---
 
 # Privacy-Preserving Financial Anomaly Detection via Federated Learning & Multi-Party Computation
@@ -71,8 +70,6 @@ digest_pending_parts: 4
 
 - 2 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 4 of 4 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -83,6 +80,10 @@ Winning PETs-prize financial-crime entry combining federated learning, MPC and D
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-5 | Privacy-Preserving Financial Anomaly Detection via Federated Learning & Multi-Party Computation; Privacy-Preserving Financial Anomaly Detection via Federated Learning & Multi-Party Computation > ABSTRACT; Privacy-Preserving Financial Anomaly Detection via Federated Learning & Multi-Party Computation > 1 INTRODUCTION; Privacy-Preserving Financial Anomaly Detection via Federated Learning & Multi-Party Computation > 1.1 Problem Statement; and 5 more sections |
+| [digest part 2](digest-002.md) | pp. 5-9 | Privacy-Preserving Financial Anomaly Detection via Federated Learning & Multi-Party Computation > 4 TECHNICAL APPROACH; Privacy-Preserving Financial Anomaly Detection via Federated Learning & Multi-Party Computation > 5 PROOF OF PRIVACY; Privacy-Preserving Financial Anomaly Detection via Federated Learning & Multi-Party Computation > 6 EXPERIMENTAL RESULTS; Privacy-Preserving Financial Anomaly Detection via Federated Learning & Multi-Party Computation > 6.1 Centralized Approach; and 3 more sections |
+| [digest part 3](digest-003.md) | pp. 9-12 | Privacy-Preserving Financial Anomaly Detection via Federated Learning & Multi-Party Computation > 6.6 Privacy-Accuracy Trade-off; Privacy-Preserving Financial Anomaly Detection via Federated Learning & Multi-Party Computation > 7 GENERALIZATION OF OUR FRAMEWORK; Privacy-Preserving Financial Anomaly Detection via Federated Learning & Multi-Party Computation > 8 CONCLUSION; Privacy-Preserving Financial Anomaly Detection via Federated Learning & Multi-Party Computation > DISCLAIMERS; and 1 more sections |
+| [digest part 4](digest-004.md) | p. 12 | Privacy-Preserving Financial Anomaly Detection via Federated Learning & Multi-Party Computation > REFERENCES |
 
 ## How to cite
 

@@ -24,10 +24,10 @@ parts_total: 3
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2025/06/30/2025-11991/imposition-of-special-measure-prohibiting-certain-transmittals-of-funds-involving-vector-casa-de

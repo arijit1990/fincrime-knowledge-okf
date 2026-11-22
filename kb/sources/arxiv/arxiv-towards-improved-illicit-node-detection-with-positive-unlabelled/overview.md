@@ -10,7 +10,7 @@ tags:
 - model_development
 - network_graph
 - preprint
-status: draft
+status: stable
 source_id: arxiv-towards-improved-illicit-node-detection-with-positive-unlabelled
 issuer: arxiv
 issuer_name: arXiv
@@ -40,7 +40,7 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2303.02462
@@ -48,8 +48,7 @@ sources:
   author: org:arxiv
   last_modified: '2023-04-03T00:00:00Z'
 download_url: https://arxiv.org/pdf/2303.02462
-digest_points: 0
-digest_pending_parts: 2
+digest_points: 49
 ---
 
 # Towards Improved Illicit Node Detection with Positive-Unlabelled Learning
@@ -73,8 +72,6 @@ digest_pending_parts: 2
 
 - 4 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 2 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -85,6 +82,8 @@ Treats illicit-node labels as positive-unlabelled and examines how the labelling
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-5 | Towards Improved Illicit Node Detection with Positive-Unlabelled Learning; Towards Improved Illicit Node Detection with Positive-Unlabelled Learning > I. INTRODUCTION; Towards Improved Illicit Node Detection with Positive-Unlabelled Learning > II. RELATED WORK; Towards Improved Illicit Node Detection with Positive-Unlabelled Learning > III. POSITIVE AND UNLABELED (PU) LEARNING; and 6 more sections |
+| [digest part 2](digest-002.md) | p. 5 | Towards Improved Illicit Node Detection with Positive-Unlabelled Learning > V. CONCLUSION |
 
 ## How to cite
 

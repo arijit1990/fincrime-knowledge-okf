@@ -9,7 +9,7 @@ tags:
 - global_academic
 - trade_based_ml
 - typologies
-status: draft
+status: stable
 source_id: academic-publisher-a-review-of-money-laundering-literature-the-state-o
 issuer: academic_publisher
 issuer_name: Academic publisher / repository
@@ -38,15 +38,14 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://research.bond.edu.au/en/publications/a-review-of-money-laundering-literature-the-state-of-research-in-/
   title: 'A review of money laundering literature: the state of research in key areas'
   author: org:academic_publisher
   last_modified: '2020-03-18T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 11
 ---
 
 # A review of money laundering literature: the state of research in key areas
@@ -70,8 +69,6 @@ digest_pending_parts: 1
 
 - abstract only: the full text was not available to the knowledge base
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Bibliographic details
 
 - Authors: Milind Tiwari, Adrian Gepp, Kuldeep Kumar
@@ -89,6 +86,7 @@ OpenAlex 'trade-based money laundering': 113 citations; Pacific Accounting Revie
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | Abstract |
 
 ## How to cite
 

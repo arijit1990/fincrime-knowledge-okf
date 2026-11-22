@@ -9,7 +9,7 @@ tags:
 - global_academic
 - ml_statistics
 - model_development
-status: draft
+status: stable
 source_id: academic-publisher-investigation-of-applying-machine-learning-for-watc
 issuer: academic_publisher
 issuer_name: Academic publisher / repository
@@ -38,15 +38,14 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://doi.org/10.1109/access.2021.3052313
   title: Investigation of Applying Machine Learning for Watch-List Filtering in Anti-Money Laundering
   author: org:academic_publisher
   last_modified: '2021-01-01T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 16
 ---
 
 # Investigation of Applying Machine Learning for Watch-List Filtering in Anti-Money Laundering
@@ -70,8 +69,6 @@ digest_pending_parts: 1
 
 - abstract only: the full text was not available to the knowledge base
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Bibliographic details
 
 - Authors: Mohannad Alkhalili, Mahmoud H. Qutqut, Fadi Almasalha
@@ -89,6 +86,7 @@ OpenAlex 'anti-money laundering machine learning': 90 citations; IEEE Access
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | Abstract |
 
 ## How to cite
 

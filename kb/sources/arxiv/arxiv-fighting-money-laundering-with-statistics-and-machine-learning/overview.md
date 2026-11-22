@@ -10,7 +10,7 @@ tags:
 - global_academic
 - ml_statistics
 - preprint
-status: draft
+status: stable
 source_id: arxiv-fighting-money-laundering-with-statistics-and-machine-learning
 issuer: arxiv
 issuer_name: arXiv
@@ -40,7 +40,7 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2201.04207
@@ -48,8 +48,7 @@ sources:
   author: org:arxiv
   last_modified: '2022-11-01T00:00:00Z'
 download_url: https://arxiv.org/pdf/2201.04207
-digest_points: 0
-digest_pending_parts: 5
+digest_points: 217
 ---
 
 # Fighting Money Laundering with Statistics and Machine Learning
@@ -73,8 +72,6 @@ digest_pending_parts: 5
 
 - 1 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 5 of 5 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -85,6 +82,11 @@ IEEE Access 2023 review of AML ML methods highlighting the lack of public data a
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-7 | Fighting Money Laundering with Statistics and Machine Learning > 1 Introduction; Fighting Money Laundering with Statistics and Machine Learning > 2 Terminology; Fighting Money Laundering with Statistics and Machine Learning > 3 Client Risk Profiling; Fighting Money Laundering with Statistics and Machine Learning > 4 Suspicious Behavior Flagging |
+| [digest part 2](digest-002.md) | pp. 8-13 | Fighting Money Laundering with Statistics and Machine Learning > 4 Suspicious Behavior Flagging; Fighting Money Laundering with Statistics and Machine Learning > 5 Future Research Directions |
+| [digest part 3](digest-003.md) | pp. 13-18 | Fighting Money Laundering with Statistics and Machine Learning > 5 Future Research Directions; Fighting Money Laundering with Statistics and Machine Learning > 6 Conclusion; Fighting Money Laundering with Statistics and Machine Learning > References |
+| [digest part 4](digest-004.md) | pp. 19-23 | Fighting Money Laundering with Statistics and Machine Learning > References |
+| [digest part 5](digest-005.md) | pp. 23-25 | Fighting Money Laundering with Statistics and Machine Learning > References |
 
 ## How to cite
 

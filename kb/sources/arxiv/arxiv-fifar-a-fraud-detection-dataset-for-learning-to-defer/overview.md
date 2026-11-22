@@ -10,7 +10,7 @@ tags:
 - ml_statistics
 - model_development
 - preprint
-status: draft
+status: stable
 source_id: arxiv-fifar-a-fraud-detection-dataset-for-learning-to-defer
 issuer: arxiv
 issuer_name: arXiv
@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2312.13218
@@ -47,8 +47,7 @@ sources:
   author: org:arxiv
   last_modified: '2023-12-20T00:00:00Z'
 download_url: https://arxiv.org/pdf/2312.13218
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 134
 ---
 
 # FiFAR: A Fraud Detection Dataset for Learning to Defer
@@ -68,8 +67,6 @@ digest_pending_parts: 3
 | Licence | Per-paper licence (Reproduction not permitted for commercial/internal use (http://arxiv.org/licenses/nonexclusive-distrib/1.0/)) |
 | Topics | [alerts triage](../../../topics/alerts-triage.md), [model development](../../../topics/model-development.md), [ml statistics](../../../topics/ml-statistics.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -80,6 +77,9 @@ Benchmark with predictions from 50 synthetic fraud analysts under work-capacity 
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-3 | ABSTRACT; KEYWORDS; 1 INTRODUCTION; 2 BACKGROUND AND RELATED WORK; and 5 more sections |
+| [digest part 2](digest-002.md) | pp. 3-5 | 3.3 Human Decision-Making Properties; 3.4 Definition of Capacity Constraints; 3.5 HAIC Setup; 4.1 Evaluating Assignments |
+| [digest part 3](digest-003.md) | pp. 5-8 | 4.2 Baselines; 4.3 Results; 5 CONCLUSIONS AND FUTURE WORK; REFERENCES |
 
 ## How to cite
 

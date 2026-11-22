@@ -10,7 +10,7 @@ tags:
 - network_graph
 - preprint
 - virtual_assets
-status: draft
+status: stable
 source_id: arxiv-anti-money-laundering-in-bitcoin-experimenting-with-graph-convol-2
 issuer: arxiv
 issuer_name: arXiv
@@ -40,7 +40,7 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/1908.02591
@@ -48,8 +48,7 @@ sources:
   author: org:arxiv
   last_modified: '2019-07-31T00:00:00Z'
 download_url: https://arxiv.org/pdf/1908.02591
-digest_points: 0
-digest_pending_parts: 2
+digest_points: 99
 ---
 
 # Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics
@@ -73,8 +72,6 @@ digest_pending_parts: 2
 
 - 4 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 2 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -85,6 +82,8 @@ KDD 2019 workshop paper introducing the Elliptic Data Set (~200k labelled Bitcoi
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-6 | Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics; Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics > ABSTRACT; Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics > CCS CONCEPTS; Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics > 1 TOWARD FINANCIAL INCLUSION; and 10 more sections |
+| [digest part 2](digest-002.md) | pp. 6-7 | Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics > 6 GRAPH VISUALIZATION; Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics > 6.1 Visual Investigation of the Elliptic Data Set; Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics > 7 SUMMARY; Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics > ACKNOWLEDGMENTS; and 1 more sections |
 
 ## How to cite
 

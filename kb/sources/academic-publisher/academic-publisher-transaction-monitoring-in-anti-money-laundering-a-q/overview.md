@@ -10,7 +10,7 @@ tags:
 - effectiveness
 - global_academic
 - rules_scenarios
-status: draft
+status: stable
 source_id: academic-publisher-transaction-monitoring-in-anti-money-laundering-a-q
 issuer: academic_publisher
 issuer_name: Academic publisher / repository
@@ -40,15 +40,14 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://linkinghub.elsevier.com/retrieve/pii/S0167739X24002607
   title: 'Transaction monitoring in anti-money laundering: A qualitative analysis and points of view from industry'
   author: org:academic_publisher
   last_modified: '2024-05-17T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 8
 ---
 
 # Transaction monitoring in anti-money laundering: A qualitative analysis and points of view from industry
@@ -72,8 +71,6 @@ digest_pending_parts: 1
 
 - abstract only: the full text was not available to the knowledge base
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Bibliographic details
 
 - Authors: Berkan Oztas, Deniz Çetinkaya, Festus Fatai Adedoyin, Marcin Budka, Gokhan Aksu, Hüseyin Doğan
@@ -91,6 +88,7 @@ OpenAlex 'transaction monitoring false positives': 41 citations; Future Generati
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | Abstract |
 
 ## How to cite
 

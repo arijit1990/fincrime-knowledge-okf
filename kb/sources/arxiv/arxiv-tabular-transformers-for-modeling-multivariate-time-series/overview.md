@@ -10,7 +10,7 @@ tags:
 - ml_statistics
 - preprint
 - transaction_behaviour
-status: draft
+status: stable
 source_id: arxiv-tabular-transformers-for-modeling-multivariate-time-series
 issuer: arxiv
 issuer_name: arXiv
@@ -40,7 +40,7 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2011.01843
@@ -48,8 +48,7 @@ sources:
   author: org:arxiv
   last_modified: '2020-03-11T00:00:00Z'
 download_url: https://arxiv.org/pdf/2011.01843
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 48
 ---
 
 # Tabular Transformers for Modeling Multivariate Time Series
@@ -73,8 +72,6 @@ digest_pending_parts: 1
 
 - 1 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -85,6 +82,7 @@ Introduces TabBERT, a BERT-style model pre-trained on sequences of card transact
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-5 | TABULAR TRANSFORMERS FOR MODELING MULTIVARIATE TIME SERIES; TABULAR TRANSFORMERS FOR MODELING MULTIVARIATE TIME SERIES > ABSTRACT; TABULAR TRANSFORMERS FOR MODELING MULTIVARIATE TIME SERIES > and 2) generate realistic synthetic tabular time series.; TABULAR TRANSFORMERS FOR MODELING MULTIVARIATE TIME SERIES > 2.1. From Language Modeling to Tabular Time Series; and 6 more sections |
 
 ## How to cite
 

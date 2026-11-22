@@ -1,3 +1,6 @@
 # Parts
 
 * [Using social network analysis to prevent money laundering](overview.md) - Preprint by arXiv (2016-09-20); GLOBAL_ACADEMIC; academic finding; status unknown.
+* [Using social network analysis to prevent money laundering - part 1 of 3 (pp. 1-14)](digest-001.md) - Verified paraphrased digest, pp. 1-14: Using Social Network Analysis to Prevent Money Laundering; Using Social Network Analysis to Prevent Money Laundering > Using Social Network Analysis to Prevent Money Laundering; Using Social Network Analysis to Prevent Money Laundering > Keywords; and 5 more sections
+* [Using social network analysis to prevent money laundering - part 2 of 3 (pp. 14-25)](digest-002.md) - Verified paraphrased digest, pp. 14-25: Using Social Network Analysis to Prevent Money Laundering > 3.2. Network and Control Variables; Using Social Network Analysis to Prevent Money Laundering > 4. Results; Using Social Network Analysis to Prevent Money Laundering > 5. Discussion and Conclusions; and 2 more sections
+* [Using social network analysis to prevent money laundering - part 3 of 3 (pp. 25-26)](digest-003.md) - Verified paraphrased digest, pp. 25-26: Using Social Network Analysis to Prevent Money Laundering > References

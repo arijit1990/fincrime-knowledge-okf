@@ -10,7 +10,7 @@ tags:
 - ml_statistics
 - network_graph
 - preprint
-status: draft
+status: stable
 source_id: arxiv-graph-feature-preprocessor-real-time-subgraph-based-feature-extr
 issuer: arxiv
 issuer_name: arXiv
@@ -40,7 +40,7 @@ text_quality_warnings:
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T14:32:20Z'
+  at: '2026-11-22T15:47:01Z'
 sources:
 - id: original
   resource: https://arxiv.org/abs/2402.08593
@@ -48,8 +48,7 @@ sources:
   author: org:arxiv
   last_modified: '2024-02-13T00:00:00Z'
 download_url: https://arxiv.org/pdf/2402.08593
-digest_points: 0
-digest_pending_parts: 5
+digest_points: 180
 ---
 
 # Graph Feature Preprocessor: Real-time Subgraph-based Feature Extraction for Financial Crime Detection
@@ -73,8 +72,6 @@ digest_pending_parts: 5
 
 - 4 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 5 of 5 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -85,6 +82,11 @@ Streaming mining of ML subgraph patterns (fan-in/out, cycles, scatter-gather) as
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-3 | Abstract; 1 Introduction; 2 Graph Feature Preprocessor; 2.1 Dynamic Graph Management |
+| [digest part 2](digest-002.md) | pp. 3-6 | 2.2 Graph Pattern Mining; 2.3 Feature Encoding; 3 Experimental setup |
+| [digest part 3](digest-003.md) | pp. 6-8 | 4 Results; 5 Related Work |
+| [digest part 4](digest-004.md) | pp. 8-10 | 6 Conclusions; Acknowledgments; References |
+| [digest part 5](digest-005.md) | pp. 10-11 | References |
 
 ## How to cite
 
