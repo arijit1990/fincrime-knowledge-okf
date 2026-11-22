@@ -10,7 +10,7 @@ tags:
 - typologies
 - typology_report
 - virtual_assets
-status: draft
+status: stable
 source_id: egmont-report-on-abuse-of-virtual-assets-for-terrorist-financing-purpo
 issuer: egmont
 issuer_name: Egmont Group of FIUs
@@ -39,14 +39,13 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T23:42:13Z'
+  at: '2026-11-22T04:42:14Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2023/12/2023-July-HoFIU-06-IEWG-Project-Abuse-of-VA-for-TF-Summary-1.pdf
   title: Report on Abuse of Virtual Assets for Terrorist Financing Purposes (Public Summary)
   author: org:egmont
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 51
 ---
 
 # Report on Abuse of Virtual Assets for Terrorist Financing Purposes (Public Summary)
@@ -66,8 +65,6 @@ digest_pending_parts: 1
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [virtual assets](../../../topics/virtual-assets.md), [terrorist financing](../../../topics/terrorist-financing.md), [typologies](../../../topics/typologies.md) |
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -78,6 +75,7 @@ FIU-derived typologies and indicators of terrorist use of virtual assets.
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-13 | Public Summary; Public Summary > ABBREVIATIONS; Public Summary > 1. Introduction; Public Summary > 2. Literature Review; and 3 more sections |
 
 ## How to cite
 

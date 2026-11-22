@@ -43,15 +43,15 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T23:42:13Z'
+  at: '2026-11-22T04:42:14Z'
 sources:
 - id: original
   resource: https://www.fsb.org/uploads/P100626.pdf
   title: 'Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Consultation report'
   author: org:fsb
   last_modified: '2026-06-10T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 7
+digest_points: 1
+digest_pending_parts: 6
 ---
 
 # Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Consultation report
@@ -71,7 +71,7 @@ digest_pending_parts: 7
 | Licence | FSB terms (Reproduction not permitted for commercial/internal use (FSB terms)) |
 | Topics | [responsible ai](../../../topics/responsible-ai.md), [model governance](../../../topics/model-governance.md), [model validation](../../../topics/model-validation.md), [model monitoring](../../../topics/model-monitoring.md), [data governance](../../../topics/data-governance.md) |
 
-> **Digest in progress:** 7 of 7 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 6 of 7 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 > **Consultation / proposal.** Not final; do not present as a binding requirement.
 
@@ -85,6 +85,7 @@ Newest international sound-practice proposals for AI governance, validation and 
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 7](digest-007.md) | pp. 63-66 | References |
 
 ## How to cite
 

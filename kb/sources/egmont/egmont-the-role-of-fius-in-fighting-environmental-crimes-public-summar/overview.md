@@ -10,7 +10,7 @@ tags:
 - intl
 - typologies
 - typology_report
-status: draft
+status: stable
 source_id: egmont-the-role-of-fius-in-fighting-environmental-crimes-public-summar
 issuer: egmont
 issuer_name: Egmont Group of FIUs
@@ -39,14 +39,13 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T23:42:13Z'
+  at: '2026-11-22T04:42:14Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2025/10/Public-Summary-FIUs-Role-in-Fighting-Enviro-Crime.pdf
   title: The Role of FIUs in Fighting Environmental Crimes (Public Summary)
   author: org:egmont
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 30
 ---
 
 # The Role of FIUs in Fighting Environmental Crimes (Public Summary)
@@ -66,8 +65,6 @@ digest_pending_parts: 1
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [typologies](../../../topics/typologies.md), [emerging threats](../../../topics/emerging-threats.md), [bribery corruption tax](../../../topics/bribery-corruption-tax.md) |
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 > **Consultation / proposal.** Not final; do not present as a binding requirement.
 
 ## Curator note
@@ -80,6 +77,7 @@ FIU survey and cases on illicit financial flows from environmental crime and lin
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-7 | 1.0 Introduction; 2.0 Key Findings; 2.1 Detailed Overview of Key Finding 1 - Challenges > 2.1.1 LACK OF RESOURCES (FINANCIAL, TECHNOLOGICAL, HUMAN); 2.1 Detailed Overview of Key Finding 1 - Challenges > CRIMES; and 6 more sections |
 
 ## How to cite
 

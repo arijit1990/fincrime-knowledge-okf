@@ -12,6 +12,7 @@
 * [BEST EGMONT CASES – Financial Analysis Cases 2014–2020 - part 9 of 15 (pp. 75-82)](digest-009.md) - Verified paraphrased digest, pp. 75-82: SMUGGLING AND GAMBLING; CASE; AUSTRAC’S ANALYSIS DIAGRAM
 * [BEST EGMONT CASES – Financial Analysis Cases 2014–2020 - part 10 of 15 (pp. 82-91)](digest-010.md) - Verified paraphrased digest, pp. 82-91: CASE; ANALYSIS OF ML SCHEME; TRADE-BASED MONEY LAUNDERING AND THIRD-PARTY MONEY LAUNDERING
 * [BEST EGMONT CASES – Financial Analysis Cases 2014–2020 - part 11 of 15 (pp. 91-103)](digest-011.md) - Verified paraphrased digest, pp. 91-103: ANALYSIS OF ML NETWORK; UK 9 17 43920.199; CASE
+* [BEST EGMONT CASES – Financial Analysis Cases 2014–2020 - part 12 of 15 (pp. 103-109)](digest-012.md) - Verified paraphrased digest, pp. 103-109: CASE; ANALYSIS OF ML NETWORK; 350,000.00 USD; and 2 more sections
 * [BEST EGMONT CASES – Financial Analysis Cases 2014–2020 - part 13 of 15 (pp. 109-117)](digest-013.md) - Verified paraphrased digest, pp. 109-117: XX-XXXX-XXXX; YYYY-YYYY; TERRORISM, ORGANIZED CRIME AND HUMAN TRAFFICKING; and 1 more sections
 * [BEST EGMONT CASES – Financial Analysis Cases 2014–2020 - part 14 of 15 (pp. 118-125)](digest-014.md) - Verified paraphrased digest, pp. 118-125: J-24 CASE PROCESSING CIRCUIT ML/TF — CENTIF CI >; CASE; ANALYSIS OF ML NETWORK; and 1 more sections
 * [BEST EGMONT CASES – Financial Analysis Cases 2014–2020 - part 15 of 15 (pp. 126-132)](digest-015.md) - Verified paraphrased digest, pp. 126-132: J-26 HUMAN TRAFFICKING AND MONEY LAUNDERING SCHEME — SENEGAL

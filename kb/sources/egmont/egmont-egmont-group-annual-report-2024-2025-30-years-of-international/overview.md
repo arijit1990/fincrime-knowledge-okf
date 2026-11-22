@@ -37,14 +37,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T23:42:13Z'
+  at: '2026-11-22T04:42:14Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2026/05/Egmont_Group_Annual_Report_2024-2025.pdf
   title: 'Egmont Group Annual Report 2024-2025: 30 Years of International Cooperation'
   author: org:egmont
-digest_points: 45
-digest_pending_parts: 7
+digest_points: 206
+digest_pending_parts: 3
 ---
 
 # Egmont Group Annual Report 2024-2025: 30 Years of International Cooperation
@@ -64,7 +64,7 @@ digest_pending_parts: 7
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [typologies](../../../topics/typologies.md), [public private partnership](../../../topics/public-private-partnership.md) |
 
-> **Digest in progress:** 7 of 9 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 3 of 9 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -77,6 +77,10 @@ Latest Egmont annual report summarising FIU projects, typology outputs and infor
 | Part | Pages | Sections |
 |---|---|---|
 | [digest part 1](digest-001.md) | pp. 1-11 | Celebrating 30 Years of Global Cooperation; 30 Years of Milestones and Global Engagement; 30 Years of Milestones and Global Engagement > Who We Are; Structure; and 5 more sections |
+| [digest part 2](digest-002.md) | pp. 12-25 | Membership; Membership > Highlights; Working Group Highlights > 43; ECOFEL Highlights; and 4 more sections |
+| [digest part 3](digest-003.md) | pp. 26-37 | Looking Towards the Future; Looking Towards the Future > Egmont Group Events; 25th Annual Egmont Working and Regional Groups Meetings; Egmont Committee Intersessional Meeting Egmont Committee Intersessional Meeting; and 4 more sections |
+| [digest part 4](digest-004.md) | pp. 38-47 | Membership Support and Compliance Working Group (MSCWG); Policy and Procedures Working Group (PPWG); Technical Assistance and Training Working Group (TATWG) |
+| [digest part 5](digest-005.md) | pp. 47-54 | Developments; ECOFEL workshops, training courses, and other events; ECOFEL workshops, training courses, and other events > Regional Group Developments; Americas Regional Group; and 1 more sections |
 | [digest part 9](digest-009.md) | pp. 78-80 | 2024 Best Egmont Case Award (BECA) Finalist FIU INDIA > Annex D: Observers and International Partners |
 
 ## How to cite

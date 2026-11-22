@@ -1,4 +1,12 @@
 # Parts
 
 * [FSB Correspondent Banking Data Report](overview.md) - Annual report by Financial Stability Board (2017-07-04); INTL; international standard; status current.
+* [FSB Correspondent Banking Data Report - part 1 of 11 (pp. 1-11)](digest-001.md) - Verified paraphrased digest, pp. 1-11: FSB Correspondent Banking Data Report; FSB Correspondent Banking Data Report > Table of abbreviations; FSB Correspondent Banking Data Report > Executive summary; and 1 more sections
+* [FSB Correspondent Banking Data Report - part 2 of 11 (pp. 12-25)](digest-002.md) - Verified paraphrased digest, pp. 12-25: FSB Correspondent Banking Data Report > 1. Introduction; FSB Correspondent Banking Data Report > 2. Scale of the withdrawal from correspondent banking
+* [FSB Correspondent Banking Data Report - part 3 of 11 (pp. 25-30)](digest-003.md) - Verified paraphrased digest, pp. 25-30: FSB Correspondent Banking Data Report > 2. Scale of the withdrawal from correspondent banking
 * [FSB Correspondent Banking Data Report - part 4 of 11 (pp. 30-43)](digest-004.md) - Verified paraphrased digest, pp. 30-43: FSB Correspondent Banking Data Report > 2. Scale of the withdrawal from correspondent banking; FSB Correspondent Banking Data Report > 3. Effects of the withdrawal from correspondent banking
+* [FSB Correspondent Banking Data Report - part 5 of 11 (pp. 43-49)](digest-005.md) - Verified paraphrased digest, pp. 43-49: FSB Correspondent Banking Data Report > 3. Effects of the withdrawal from correspondent banking; FSB Correspondent Banking Data Report > 4. Drivers of the withdrawal from correspondent banking
+* [FSB Correspondent Banking Data Report - part 7 of 11 (pp. 66-70)](digest-007.md) - Verified paraphrased digest, pp. 66-70: FSB Correspondent Banking Data Report > Annex 2: Jurisdiction by jurisdiction information
+* [FSB Correspondent Banking Data Report - part 8 of 11 (pp. 71-75)](digest-008.md) - Verified paraphrased digest, pp. 71-75: FSB Correspondent Banking Data Report > Annex 2: Jurisdiction by jurisdiction information
+* [FSB Correspondent Banking Data Report - part 9 of 11 (pp. 76-80)](digest-009.md) - Verified paraphrased digest, pp. 76-80: FSB Correspondent Banking Data Report > Annex 2: Jurisdiction by jurisdiction information
+* [FSB Correspondent Banking Data Report - part 10 of 11 (pp. 81-85)](digest-010.md) - Verified paraphrased digest, pp. 81-85: FSB Correspondent Banking Data Report > Annex 2: Jurisdiction by jurisdiction information

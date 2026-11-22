@@ -10,7 +10,7 @@ tags:
 - trade_based_ml
 - typologies
 - typology_report
-status: draft
+status: stable
 source_id: egmont-trade-based-money-laundering-trends-and-developments
 issuer: egmont
 issuer_name: Egmont Group of FIUs
@@ -39,14 +39,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T23:42:13Z'
+  at: '2026-11-22T04:42:14Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2021/09/2020_Trade_Based_Money_Laundering_-_Trends_and_Developments_joint_FATF_Egmont_Group_report.pdf
   title: Trade-Based Money Laundering Trends and Developments
   author: org:egmont
-digest_points: 0
-digest_pending_parts: 5
+digest_points: 265
 ---
 
 # Trade-Based Money Laundering Trends and Developments
@@ -66,8 +65,6 @@ digest_pending_parts: 5
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [trade based ml](../../../topics/trade-based-ml.md), [typologies](../../../topics/typologies.md), [terrorist financing](../../../topics/terrorist-financing.md) |
 
-> **Digest in progress:** 5 of 5 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -78,6 +75,11 @@ Joint FATF-Egmont core reference on TBML techniques, illicit cash integration an
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-14 | Trade-Based Money Laundering Trends and Developments; Trade-Based Money Laundering Trends and Developments > _Table of Contents_ |
+| [digest part 2](digest-002.md) | pp. 14-26 | Trade-Based Money Laundering Trends and Developments > _Table of Contents_ |
+| [digest part 3](digest-003.md) | pp. 26-40 | Trade-Based Money Laundering Trends and Developments > _Table of Contents_ |
+| [digest part 4](digest-004.md) | pp. 40-52 | Trade-Based Money Laundering Trends and Developments > _Table of Contents_ |
+| [digest part 5](digest-005.md) | pp. 53-66 | Trade-Based Money Laundering Trends and Developments > _Table of Contents_ |
 
 ## How to cite
 

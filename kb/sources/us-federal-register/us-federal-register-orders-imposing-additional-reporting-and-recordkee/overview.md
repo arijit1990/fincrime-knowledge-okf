@@ -35,7 +35,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T23:42:13Z'
+  at: '2026-11-22T04:42:14Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2021/11/15/2021-24602/orders-imposing-additional-reporting-and-recordkeeping-requirements

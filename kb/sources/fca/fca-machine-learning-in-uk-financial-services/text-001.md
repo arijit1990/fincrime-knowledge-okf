@@ -26,10 +26,10 @@ parts_total: 5
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T23:42:13Z'
+  at: '2026-11-22T04:42:14Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-21T23:42:13Z'
+  at: '2026-11-22T04:42:14Z'
 sources:
 - id: original
   resource: https://www.fca.org.uk/publication/research/research-note-on-machine-learning-in-uk-financial-services.pdf

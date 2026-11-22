@@ -11,7 +11,7 @@ tags:
 - model_governance
 - responsible_ai
 - uk
-status: draft
+status: stable
 source_id: pra-boe-the-ai-public-private-forum-final-report
 issuer: pra_boe
 issuer_name: Prudential Regulation Authority / Bank of England
@@ -41,7 +41,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T23:42:13Z'
+  at: '2026-11-22T04:42:14Z'
 sources:
 - id: original
   resource: https://www.bankofengland.co.uk/research/fintech/ai-public-private-forum
@@ -49,8 +49,7 @@ sources:
   author: org:pra_boe
   last_modified: '2026-08-28T00:00:00Z'
 download_url: https://www.bankofengland.co.uk/-/media/boe/files/fintech/ai-public-private-forum-final-report.pdf
-digest_points: 96
-digest_pending_parts: 3
+digest_points: 358
 ---
 
 # The AI Public-Private Forum: Final report
@@ -70,8 +69,6 @@ digest_pending_parts: 3
 | Licence | BoE terms (Reproduction not permitted for commercial/internal use (BoE terms)) |
 | Topics | [model governance](../../../topics/model-governance.md), [data governance](../../../topics/data-governance.md), [responsible ai](../../../topics/responsible-ai.md), [explainability](../../../topics/explainability.md) |
 
-> **Digest in progress:** 3 of 5 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -84,6 +81,9 @@ BoE/FCA AIPPF final report structured around data, model risk and governance - p
 |---|---|---|
 | [digest part 1](digest-001.md) | pp. 1-12 | - |
 | [digest part 2](digest-002.md) | pp. 12-19 | - |
+| [digest part 3](digest-003.md) | pp. 19-27 | X Y 28 5,536 |
+| [digest part 4](digest-004.md) | pp. 27-37 | X Y 28 5,536 |
+| [digest part 5](digest-005.md) | pp. 37-47 | X Y 28 5,536 |
 
 ## How to cite
 

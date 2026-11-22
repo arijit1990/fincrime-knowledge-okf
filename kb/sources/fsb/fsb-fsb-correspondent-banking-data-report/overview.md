@@ -35,7 +35,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T23:42:13Z'
+  at: '2026-11-22T04:42:14Z'
 sources:
 - id: original
   resource: https://www.fsb.org/2017/07/fsb-correspondent-banking-data-report/
@@ -43,8 +43,8 @@ sources:
   author: org:fsb
   last_modified: '2017-07-04T00:00:00Z'
 download_url: https://www.fsb.org/uploads/P040717-4.pdf
-digest_points: 36
-digest_pending_parts: 10
+digest_points: 226
+digest_pending_parts: 2
 ---
 
 # FSB Correspondent Banking Data Report
@@ -64,7 +64,7 @@ digest_pending_parts: 10
 | Licence | FSB terms (Reproduction not permitted for commercial/internal use (FSB terms)) |
 | Topics | [correspondent banking](../../../topics/correspondent-banking.md) |
 
-> **Digest in progress:** 10 of 11 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 2 of 11 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -76,7 +76,15 @@ FSB data on the decline of correspondent banking relationships and AML/CFT-relat
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-11 | FSB Correspondent Banking Data Report; FSB Correspondent Banking Data Report > Table of abbreviations; FSB Correspondent Banking Data Report > Executive summary; FSB Correspondent Banking Data Report > 1. Introduction |
+| [digest part 2](digest-002.md) | pp. 12-25 | FSB Correspondent Banking Data Report > 1. Introduction; FSB Correspondent Banking Data Report > 2. Scale of the withdrawal from correspondent banking |
+| [digest part 3](digest-003.md) | pp. 25-30 | FSB Correspondent Banking Data Report > 2. Scale of the withdrawal from correspondent banking |
 | [digest part 4](digest-004.md) | pp. 30-43 | FSB Correspondent Banking Data Report > 2. Scale of the withdrawal from correspondent banking; FSB Correspondent Banking Data Report > 3. Effects of the withdrawal from correspondent banking |
+| [digest part 5](digest-005.md) | pp. 43-49 | FSB Correspondent Banking Data Report > 3. Effects of the withdrawal from correspondent banking; FSB Correspondent Banking Data Report > 4. Drivers of the withdrawal from correspondent banking |
+| [digest part 7](digest-007.md) | pp. 66-70 | FSB Correspondent Banking Data Report > Annex 2: Jurisdiction by jurisdiction information |
+| [digest part 8](digest-008.md) | pp. 71-75 | FSB Correspondent Banking Data Report > Annex 2: Jurisdiction by jurisdiction information |
+| [digest part 9](digest-009.md) | pp. 76-80 | FSB Correspondent Banking Data Report > Annex 2: Jurisdiction by jurisdiction information |
+| [digest part 10](digest-010.md) | pp. 81-85 | FSB Correspondent Banking Data Report > Annex 2: Jurisdiction by jurisdiction information |
 
 ## How to cite
 

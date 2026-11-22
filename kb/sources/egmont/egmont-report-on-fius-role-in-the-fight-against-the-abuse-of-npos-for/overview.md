@@ -9,7 +9,7 @@ tags:
 - terrorist_financing
 - typologies
 - typology_report
-status: draft
+status: stable
 source_id: egmont-report-on-fius-role-in-the-fight-against-the-abuse-of-npos-for
 issuer: egmont
 issuer_name: Egmont Group of FIUs
@@ -37,14 +37,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T23:42:13Z'
+  at: '2026-11-22T04:42:14Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2024/05/Report-FIUs-RFAA-of-NPOs-for-TF-Activities_V.F.pdf
   title: Report on FIUs' Role in the Fight Against the Abuse of NPOs for Terrorist Financing Activities (Public Summary)
   author: org:egmont
-digest_points: 0
-digest_pending_parts: 2
+digest_points: 108
 ---
 
 # Report on FIUs' Role in the Fight Against the Abuse of NPOs for Terrorist Financing Activities (Public Summary)
@@ -64,8 +63,6 @@ digest_pending_parts: 2
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [terrorist financing](../../../topics/terrorist-financing.md), [typologies](../../../topics/typologies.md) |
 
-> **Digest in progress:** 2 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -76,6 +73,8 @@ Updated typologies and financial threat indicators for TF abuse of non-profit or
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-17 | REPORT ON FIUS’ ROLE IN THE FIGHT AGAINST THE ABUSE OF NPOS FOR TERRORIST FINANCING ACTIVITIES > Abstract; REPORT ON FIUS’ ROLE IN THE FIGHT AGAINST THE ABUSE OF NPOS FOR TERRORIST FINANCING ACTIVITIES > TABLE OF CONTENTS; REPORT ON FIUS’ ROLE IN THE FIGHT AGAINST THE ABUSE OF NPOS FOR TERRORIST FINANCING ACTIVITIES > LIST OF ABBREVIATIONS; REPORT ON FIUS’ ROLE IN THE FIGHT AGAINST THE ABUSE OF NPOS FOR TERRORIST FINANCING ACTIVITIES > EXECUTIVE SUMMARY; and 4 more sections |
+| [digest part 2](digest-002.md) | pp. 17-31 | REPORT ON FIUS’ ROLE IN THE FIGHT AGAINST THE ABUSE OF NPOS FOR TERRORIST FINANCING ACTIVITIES > SECTION I – THE NPO SECTOR; REPORT ON FIUS’ ROLE IN THE FIGHT AGAINST THE ABUSE OF NPOS FOR TERRORIST FINANCING ACTIVITIES > SECTION III – MEASURES; REPORT ON FIUS’ ROLE IN THE FIGHT AGAINST THE ABUSE OF NPOS FOR TERRORIST FINANCING ACTIVITIES > SECTION IV – FIU'S ROLE IN IDENTIFICATION AND DETECTION; REPORT ON FIUS’ ROLE IN THE FIGHT AGAINST THE ABUSE OF NPOS FOR TERRORIST FINANCING ACTIVITIES > SECTION V – FIU'S ANALYSIS OF FINANCIAL INFORMATION; and 2 more sections |
 
 ## How to cite
 

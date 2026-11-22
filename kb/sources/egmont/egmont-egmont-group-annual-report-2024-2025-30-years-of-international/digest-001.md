@@ -41,7 +41,7 @@ digest_points: 35
 
 # Egmont Group Annual Report 2024-2025: 30 Years of International Cooperation (digest)
 
-[source overview](overview.md)
+[source overview](overview.md) | [next part](digest-002.md)
 
 > **Digest, not the original wording.** The licence of this source does not permit reproducing its text, so this part (pp. 1-11) is a paraphrased digest of every material point. Each point was machine-checked: its anchor phrase occurs verbatim in the original, and an independent reviewing agent confirmed the point is supported by the text. Labels: normative strength / kind. Quote the original, not this digest, when exact wording matters (see `resource`). Normative force of this document: **empirical observation**.
 
@@ -138,6 +138,6 @@ digest_points: 35
 
 ---
 
-[source overview](overview.md)
+[source overview](overview.md) | [next part](digest-002.md)
 
 [^original]: Egmont Group of FIUs, "Egmont Group Annual Report 2024-2025: 30 Years of International Cooperation" (2026-05). https://egmontgroup.org/wp-content/uploads/2026/05/Egmont_Group_Annual_Report_2024-2025.pdf

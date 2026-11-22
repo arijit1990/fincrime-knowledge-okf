@@ -10,7 +10,7 @@ tags:
 - model_governance
 - responsible_ai
 - risk_assessment
-status: draft
+status: stable
 source_id: fsb-artificial-intelligence-and-machine-learning-in-financial-services
 issuer: fsb
 issuer_name: Financial Stability Board
@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T23:42:13Z'
+  at: '2026-11-22T04:42:14Z'
 sources:
 - id: original
   resource: https://www.fsb.org/2017/11/fsb-considers-financial-stability-implications-of-artificial-intelligence-and-machine-learning/
@@ -47,8 +47,7 @@ sources:
   author: org:fsb
   last_modified: '2017-11-01T00:00:00Z'
 download_url: https://www.fsb.org/uploads/R011117.pdf
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 13
 ---
 
 # Artificial intelligence and machine learning in financial services
@@ -68,8 +67,6 @@ digest_pending_parts: 1
 | Licence | FSB terms (Reproduction not permitted for commercial/internal use (FSB terms)) |
 | Topics | [responsible ai](../../../topics/responsible-ai.md), [model governance](../../../topics/model-governance.md), [explainability](../../../topics/explainability.md) |
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -80,6 +77,7 @@ Foundational FSB report on AI/ML use cases (incl. RegTech/AML) and risks such as
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-2 | Press release; Press release > FSB considers financial stability implications of artificial intelligence and machine learning |
 
 ## How to cite
 

@@ -41,14 +41,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T23:42:13Z'
+  at: '2026-11-22T04:42:14Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2022/11/2022-Report-on-FIE-FinTech-Cooperation-and-Assoc.-Crimes.pdf
   title: FIU – FinTech Cooperation and Associated Cybercrime Typologies and Risks
   author: org:egmont
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 62
+digest_pending_parts: 2
 ---
 
 # FIU – FinTech Cooperation and Associated Cybercrime Typologies and Risks
@@ -68,7 +68,7 @@ digest_pending_parts: 3
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [emerging threats](../../../topics/emerging-threats.md), [typologies](../../../topics/typologies.md), [virtual assets](../../../topics/virtual-assets.md), [public private partnership](../../../topics/public-private-partnership.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 2 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -80,6 +80,7 @@ Common FinTech-reported typologies and red flags for cyber-enabled crime, ML and
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-14 | Table of contents > Background; Table of contents > 1. What Is FinTech?; Table of contents > 2. Types of FinTech; Table of contents > 3. Legal Frameworks to Regulate FinTech |
 
 ## How to cite
 

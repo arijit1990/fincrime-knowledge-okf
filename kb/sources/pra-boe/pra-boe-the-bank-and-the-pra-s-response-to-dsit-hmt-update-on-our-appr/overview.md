@@ -10,7 +10,7 @@ tags:
 - regulatory_expectation
 - responsible_ai
 - uk
-status: draft
+status: stable
 source_id: pra-boe-the-bank-and-the-pra-s-response-to-dsit-hmt-update-on-our-appr
 issuer: pra_boe
 issuer_name: Prudential Regulation Authority / Bank of England
@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T23:42:13Z'
+  at: '2026-11-22T04:42:14Z'
 sources:
 - id: original
   resource: https://www.bankofengland.co.uk/prudential-regulation/letter/2024/artificial-intelligence-and-machine-learning-letter
@@ -47,8 +47,7 @@ sources:
   author: org:pra_boe
   last_modified: '2026-10-01T00:00:00Z'
 download_url: https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/letter/2024/dsit-hmt-letter.pdf
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 99
 ---
 
 # The Bank and the PRA's response to DSIT/HMT: update on our approach to AI
@@ -68,8 +67,6 @@ digest_pending_parts: 3
 | Licence | BoE terms (Reproduction not permitted for commercial/internal use (BoE terms)) |
 | Topics | [responsible ai](../../../topics/responsible-ai.md), [model governance](../../../topics/model-governance.md), [explainability](../../../topics/explainability.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -80,6 +77,9 @@ Sets out how the PRA's technology-agnostic framework (incl. SS1/23) maps to the 
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-11 | Sarah Breeden; Our current and future work on the safe and responsible adoption of AI/ML in financial services; collaboration; Conclusion; and 2 more sections |
+| [digest part 2](digest-002.md) | pp. 11-17 | Summary of guidance issued / plan to issue; Current and future work we are doing to understand, assess, and manage risks posed by AI/ML |
+| [digest part 3](digest-003.md) | pp. 17-21 | Interactions with our remit and other regulators, including collaboration; Current and future capabilities to address AI risks within our regulatory remit |
 
 ## How to cite
 

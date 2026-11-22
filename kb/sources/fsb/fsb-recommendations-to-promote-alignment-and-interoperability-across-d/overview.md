@@ -41,7 +41,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T23:42:13Z'
+  at: '2026-11-22T04:42:14Z'
 sources:
 - id: original
   resource: https://www.fsb.org/2024/12/recommendations-to-promote-alignment-and-interoperability-across-data-frameworks-related-to-cross-border-payments-final-report/
@@ -49,8 +49,8 @@ sources:
   author: org:fsb
   last_modified: '2025-03-13T00:00:00Z'
 download_url: https://www.fsb.org/uploads/P121224-1.pdf
-digest_points: 0
-digest_pending_parts: 4
+digest_points: 26
+digest_pending_parts: 3
 ---
 
 # Recommendations to Promote Alignment and Interoperability Across Data Frameworks Related to Cross-border Payments: Final report
@@ -70,7 +70,7 @@ digest_pending_parts: 4
 | Licence | FSB terms (Reproduction not permitted for commercial/internal use (FSB terms)) |
 | Topics | [privacy data protection](../../../topics/privacy-data-protection.md), [correspondent banking](../../../topics/correspondent-banking.md), [data features](../../../topics/data-features.md), [cross border](../../../topics/cross-border.md) |
 
-> **Digest in progress:** 4 of 4 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 3 of 4 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -82,6 +82,7 @@ FSB recommendations reconciling AML/CFT (incl. FATF R.16) and sanctions data nee
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-9 | Table of Contents; Executive summary; Introduction |
 
 ## How to cite
 

@@ -12,7 +12,7 @@ tags:
 - typologies
 - typology_report
 - virtual_assets
-status: draft
+status: stable
 source_id: egmont-best-egmont-cases-financial-analysis-cases-2014-2020
 issuer: egmont
 issuer_name: Egmont Group of FIUs
@@ -43,7 +43,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T23:42:13Z'
+  at: '2026-11-22T04:42:14Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/news/best-egmont-case-award-book-publication/
@@ -51,8 +51,7 @@ sources:
   author: org:egmont
   last_modified: '2022-02-10T00:00:00Z'
 download_url: https://egmontgroup.org/wp-content/uploads/2021/10/Financial-Analysis-Cases-2014-2020.pdf
-digest_points: 704
-digest_pending_parts: 1
+digest_points: 727
 ---
 
 # BEST EGMONT CASES – Financial Analysis Cases 2014–2020
@@ -71,8 +70,6 @@ digest_pending_parts: 1
 | Content in this bundle | verified digest (licence does not permit reproduction), 15 part(s), pp. 1-132 |
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [typologies](../../../topics/typologies.md), [trade based ml](../../../topics/trade-based-ml.md), [bribery corruption tax](../../../topics/bribery-corruption-tax.md), [terrorist financing](../../../topics/terrorist-financing.md), [virtual assets](../../../topics/virtual-assets.md) |
-
-> **Digest in progress:** 1 of 15 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -95,6 +92,7 @@ digest_pending_parts: 1
 | [digest part 9](digest-009.md) | pp. 75-82 | SMUGGLING AND GAMBLING; CASE; AUSTRAC’S ANALYSIS DIAGRAM |
 | [digest part 10](digest-010.md) | pp. 82-91 | CASE; ANALYSIS OF ML SCHEME; TRADE-BASED MONEY LAUNDERING AND THIRD-PARTY MONEY LAUNDERING |
 | [digest part 11](digest-011.md) | pp. 91-103 | ANALYSIS OF ML NETWORK; UK 9 17 43920.199; CASE |
+| [digest part 12](digest-012.md) | pp. 103-109 | CASE; ANALYSIS OF ML NETWORK; 350,000.00 USD; C.P.44140; and 1 more sections |
 | [digest part 13](digest-013.md) | pp. 109-117 | XX-XXXX-XXXX; YYYY-YYYY; TERRORISM, ORGANIZED CRIME AND HUMAN TRAFFICKING; CASE |
 | [digest part 14](digest-014.md) | pp. 118-125 | J-24 CASE PROCESSING CIRCUIT ML/TF — CENTIF CI >; CASE; ANALYSIS OF ML NETWORK; “B N” (ISIL) |
 | [digest part 15](digest-015.md) | pp. 126-132 | J-26 HUMAN TRAFFICKING AND MONEY LAUNDERING SCHEME — SENEGAL |

@@ -10,7 +10,7 @@ tags:
 - trade_based_ml
 - typologies
 - typology_report
-status: draft
+status: stable
 source_id: egmont-trade-based-money-laundering-risk-indicators
 issuer: egmont
 issuer_name: Egmont Group of FIUs
@@ -39,14 +39,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T23:42:13Z'
+  at: '2026-11-22T04:42:14Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2021/10/Trade-Based-Money-Laundering-Risk-Indicators.pdf
   title: Trade-Based Money Laundering Risk Indicators
   author: org:egmont
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 46
 ---
 
 # Trade-Based Money Laundering Risk Indicators
@@ -66,8 +65,6 @@ digest_pending_parts: 1
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [trade based ml](../../../topics/trade-based-ml.md), [typologies](../../../topics/typologies.md), [rules scenarios](../../../topics/rules-scenarios.md) |
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -78,6 +75,7 @@ Authoritative TBML red-flag indicator set directly usable for scenario/rule desi
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-10 | Trade-Based Money Laundering ~~Risk Indicators~~; Trade-Based Money Laundering ~~Risk Indicators~~ > _Trade-Based Money Laundering – Trends and Developments_; Trade-Based Money Laundering ~~Risk Indicators~~ > Audience and how risk indicators can be used; Trade-Based Money Laundering ~~Risk Indicators~~ > Structural risk indicators; and 1 more sections |
 
 ## How to cite
 

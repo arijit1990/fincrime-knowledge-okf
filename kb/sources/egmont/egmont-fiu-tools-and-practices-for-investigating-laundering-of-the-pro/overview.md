@@ -39,14 +39,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T23:42:13Z'
+  at: '2026-11-22T04:42:14Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2021/09/2019_Public_Summary_FIU_Tools_and_Practices_for_Investigating_Laundering_of_the_Proceeds_of_Corruption.pdf
   title: FIU Tools and Practices for Investigating Laundering of the Proceeds of Corruption (Public Summary)
   author: org:egmont
-digest_points: 0
-digest_pending_parts: 2
+digest_points: 69
+digest_pending_parts: 1
 ---
 
 # FIU Tools and Practices for Investigating Laundering of the Proceeds of Corruption (Public Summary)
@@ -66,7 +66,7 @@ digest_pending_parts: 2
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [bribery corruption tax](../../../topics/bribery-corruption-tax.md), [typologies](../../../topics/typologies.md), [investigations](../../../topics/investigations.md) |
 
-> **Digest in progress:** 2 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 1 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -78,6 +78,7 @@ Tools, techniques and indicators FIUs use to detect and analyse laundering of co
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-15 | Public Summary; Public Summary > OVERVIEW; Public Summary > METHODOLOGY AND DEFINITIONS; Public Summary > KEY FINDINGS OF THE SURVEY; and 1 more sections |
 
 ## How to cite
 

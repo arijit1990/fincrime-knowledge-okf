@@ -7,7 +7,7 @@ tags:
 jurisdiction: UK
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-21T23:42:13Z'
+  at: '2026-11-22T04:42:14Z'
 ---
 
 # United Kingdom
