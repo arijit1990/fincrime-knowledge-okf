@@ -7,7 +7,7 @@ tags:
 jurisdiction: GLOBAL_ACADEMIC
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T09:42:06Z'
+  at: '2026-11-22T09:50:18Z'
 ---
 
 # Not jurisdiction-specific (academic/technical)

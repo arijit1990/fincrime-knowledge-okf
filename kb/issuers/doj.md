@@ -8,7 +8,7 @@ issuer_id: doj
 tier: 1
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T09:42:06Z'
+  at: '2026-11-22T09:50:18Z'
 ---
 
 # US Department of Justice

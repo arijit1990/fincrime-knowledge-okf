@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T09:42:06Z'
+  at: '2026-11-22T09:50:18Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2021/09/2019_Public_Summary_FIU_Tools_and_Practices_for_Investigating_Laundering_of_the_Proceeds_of_Corruption.pdf

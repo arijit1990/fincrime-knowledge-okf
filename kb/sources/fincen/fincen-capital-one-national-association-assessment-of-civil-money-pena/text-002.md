@@ -25,10 +25,10 @@ parts_total: 3
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T09:42:06Z'
+  at: '2026-11-22T09:50:18Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-22T09:42:06Z'
+  at: '2026-11-22T09:50:18Z'
 sources:
 - id: original
   resource: https://www.fincen.gov/system/files/enforcement_action/2023-04-05/Assessment_CONA_508_0.pdf

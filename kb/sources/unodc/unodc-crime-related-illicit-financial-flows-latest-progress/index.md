@@ -1,3 +1,5 @@
 # Parts
 
 * [Crime-related illicit financial flows: latest progress](overview.md) - Statistical report by UN Office on Drugs and Crime (2023-12); INTL; empirical observation; status current.
+* [Crime-related illicit financial flows: latest progress - part 1 of 2 (pp. 1-19)](digest-001.md) - Verified paraphrased digest, pp. 1-19: Crime-related illicit financial; Crime-related illicit financial > Definition of illicit financial flows; Crime-related illicit financial > IFF Conceptual Framework; and 2 more sections
+* [Crime-related illicit financial flows: latest progress - part 2 of 2 (pp. 19-23)](digest-002.md) - Verified paraphrased digest, pp. 19-23: Summary > Drug Trafficking; Summary > Figure 16. Annual average inward IFFs (best estimates and/or ranges, in millions of USD) resulting from drug trafficking, derived from selected countr; Summary > Figure 17. Annual average outward IFFs (best estimates, in millions of USD) resulting from drug trafficking for selected drug markets derived from cou; and 3 more sections

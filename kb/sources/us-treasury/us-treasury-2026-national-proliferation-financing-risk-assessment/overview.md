@@ -36,7 +36,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T09:42:06Z'
+  at: '2026-11-22T09:50:18Z'
 sources:
 - id: original
   resource: https://home.treasury.gov/system/files/246/2026-NPFRA.pdf

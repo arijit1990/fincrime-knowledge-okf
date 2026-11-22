@@ -8,7 +8,7 @@ tags:
 - international_standard
 - intl
 - other
-status: draft
+status: stable
 source_id: fsb-fsb-publishes-updates-on-work-to-assess-and-address-correspondent
 issuer: fsb
 issuer_name: Financial Stability Board
@@ -35,15 +35,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T09:42:06Z'
+  at: '2026-11-22T09:50:18Z'
 sources:
 - id: original
   resource: https://www.fsb.org/2019/05/fsb-publishes-updates-on-work-to-assess-and-address-correspondent-banking-declines/
   title: FSB publishes updates on work to assess and address correspondent banking declines
   author: org:fsb
   last_modified: '2023-08-24T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 18
 ---
 
 # FSB publishes updates on work to assess and address correspondent banking declines
@@ -63,8 +62,6 @@ digest_pending_parts: 1
 | Licence | FSB terms (Reproduction not permitted for commercial/internal use (FSB terms)) |
 | Topics | [correspondent banking](../../../topics/correspondent-banking.md) |
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -75,6 +72,7 @@ Landing page for FSB's 2019 correspondent banking progress report and remittance
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | Notes to editors |
 
 ## How to cite
 

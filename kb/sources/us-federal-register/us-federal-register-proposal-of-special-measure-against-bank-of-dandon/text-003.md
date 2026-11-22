@@ -24,10 +24,10 @@ parts_total: 4
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T09:42:06Z'
+  at: '2026-11-22T09:50:18Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-22T09:42:06Z'
+  at: '2026-11-22T09:50:18Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2017/07/07/2017-14026/proposal-of-special-measure-against-bank-of-dandong-as-a-financial-institution-of-primary-money

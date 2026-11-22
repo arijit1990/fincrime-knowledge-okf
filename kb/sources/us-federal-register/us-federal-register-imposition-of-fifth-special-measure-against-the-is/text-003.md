@@ -24,10 +24,10 @@ parts_total: 5
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T09:42:06Z'
+  at: '2026-11-22T09:50:18Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-22T09:42:06Z'
+  at: '2026-11-22T09:50:18Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2019/11/04/2019-23697/imposition-of-fifth-special-measure-against-the-islamic-republic-of-iran-as-a-jurisdiction-of

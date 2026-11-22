@@ -9,7 +9,7 @@ tags:
 - standard
 - taxonomy_ontology
 - typologies
-status: draft
+status: stable
 source_id: unodc-conceptual-framework-for-the-statistical-measurement-of-illicit
 issuer: unodc
 issuer_name: UN Office on Drugs and Crime
@@ -37,14 +37,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T09:42:06Z'
+  at: '2026-11-22T09:50:18Z'
 sources:
 - id: original
   resource: https://www.unodc.org/documents/data-and-analysis/statistics/IFF/IFF_Conceptual_Framework_for_publication_FINAL_16Oct_print.pdf
   title: Conceptual Framework for the Statistical Measurement of Illicit Financial Flows
   author: org:unodc
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 108
 ---
 
 # Conceptual Framework for the Statistical Measurement of Illicit Financial Flows
@@ -64,8 +63,6 @@ digest_pending_parts: 3
 | Licence | UN terms (Reproduction not permitted for commercial/internal use (UN terms)) |
 | Topics | [taxonomy ontology](../../../topics/taxonomy-ontology.md), [typologies](../../../topics/typologies.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -76,6 +73,9 @@ UNODC/UNCTAD framework defining and classifying illicit financial flows - a taxo
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-15 | TABLE OF CONTENTS; TABLE OF CONTENTS > EXECUTIVE SUMMARY; TABLE OF CONTENTS > STATISTICAL CHALLENGES; TABLE OF CONTENTS > Conceptual challenges; and 3 more sections |
+| [digest part 2](digest-002.md) | pp. 15-25 | TABLE OF CONTENTS > STATISTICAL DEFINITION OF ILLICIT FINANCIAL FLOWS; TABLE OF CONTENTS > STATISTICAL APPROACH FOR MEASURING ILLICIT FINANCIAL FLOWS; TABLE OF CONTENTS > Illicit financial flows related to income generation; TABLE OF CONTENTS > Illicit financial flows from income management |
+| [digest part 3](digest-003.md) | pp. 25-28 | TABLE OF CONTENTS > CONCLUSION |
 
 ## How to cite
 

@@ -35,7 +35,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T09:42:06Z'
+  at: '2026-11-22T09:50:18Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2026/01/13/2026-00449/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-financial

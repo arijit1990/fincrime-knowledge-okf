@@ -9,7 +9,7 @@ tags:
 - intl
 - statistical_report
 - typologies
-status: draft
+status: stable
 source_id: unodc-crime-related-illicit-financial-flows-latest-progress
 issuer: unodc
 issuer_name: UN Office on Drugs and Crime
@@ -37,15 +37,14 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T09:42:06Z'
+  at: '2026-11-22T09:50:18Z'
 sources:
 - id: original
   resource: https://www.unodc.org/unodc/data-and-analysis/iff.html
   title: 'Crime-related illicit financial flows: latest progress'
   author: org:unodc
 download_url: https://www.unodc.org/documents/data-and-analysis/IFF/2023/IFFs_Estimates_Report_2023-final-11dec2023.pdf
-digest_points: 0
-digest_pending_parts: 2
+digest_points: 55
 ---
 
 # Crime-related illicit financial flows: latest progress
@@ -65,8 +64,6 @@ digest_pending_parts: 2
 | Licence | UN terms (Reproduction not permitted for commercial/internal use (UN terms)) |
 | Topics | [typologies](../../../topics/typologies.md), [cross border](../../../topics/cross-border.md) |
 
-> **Digest in progress:** 2 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -77,6 +74,8 @@ UNODC statistical estimates and country pilots measuring crime-related IFFs (SDG
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-19 | Crime-related illicit financial; Crime-related illicit financial > Definition of illicit financial flows; Crime-related illicit financial > IFF Conceptual Framework; Crime-related illicit financial > Latin America; and 1 more sections |
+| [digest part 2](digest-002.md) | pp. 19-23 | Summary > Drug Trafficking; Summary > Figure 16. Annual average inward IFFs (best estimates and/or ranges, in millions of USD) resulting from drug trafficking, derived from selected countr; Summary > Figure 17. Annual average outward IFFs (best estimates, in millions of USD) resulting from drug trafficking for selected drug markets derived from cou; Summary > Smuggling of migrants; and 2 more sections |
 
 ## How to cite
 

@@ -42,7 +42,7 @@ digest_points: 33
 
 # Casinos, Money Laundering, Underground Banking, and Transnational Organized Crime in East and Southeast Asia: A Hidden and Accelerating Threat (digest)
 
-[source overview](overview.md)
+[previous part](digest-011.md) | [source overview](overview.md)
 
 > **Digest, not the original wording.** The licence of this source does not permit reproducing its text, so this part (pp. 96-106) is a paraphrased digest of every material point. Each point was machine-checked: its anchor phrase occurs verbatim in the original, and an independent reviewing agent confirmed the point is supported by the text. Labels: normative strength / kind. Quote the original, not this digest, when exact wording matters (see `resource`). Normative force of this document: **empirical observation**.
 
@@ -120,6 +120,6 @@ digest_points: 33
 
 ---
 
-[source overview](overview.md)
+[previous part](digest-011.md) | [source overview](overview.md)
 
 [^original]: UN Office on Drugs and Crime, "Casinos, Money Laundering, Underground Banking, and Transnational Organized Crime in East and Southeast Asia: A Hidden and Accelerating Threat" (2024-01). https://www.unodc.org/roseap/uploads/documents/Publications/2024/Casino_Underground_Banking_Report_2024.pdf

@@ -8,7 +8,7 @@ issuer_id: wolfsberg
 tier: 2
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T09:42:06Z'
+  at: '2026-11-22T09:50:18Z'
 ---
 
 # Wolfsberg Group

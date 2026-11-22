@@ -9,7 +9,7 @@ tags:
 - regulation
 - standard
 - virtual_assets
-status: draft
+status: stable
 source_id: fsb-high-level-recommendations-for-the-regulation-supervision-and-over
 issuer: fsb
 issuer_name: Financial Stability Board
@@ -37,7 +37,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T09:42:06Z'
+  at: '2026-11-22T09:50:18Z'
 sources:
 - id: original
   resource: https://www.fsb.org/2023/07/high-level-recommendations-for-the-regulation-supervision-and-oversight-of-crypto-asset-activities-and-markets-final-report/
@@ -45,8 +45,7 @@ sources:
   author: org:fsb
   last_modified: '2025-02-21T00:00:00Z'
 download_url: https://www.fsb.org/uploads/P170723-2.pdf
-digest_points: 0
-digest_pending_parts: 2
+digest_points: 108
 ---
 
 # High-level Recommendations for the Regulation, Supervision and Oversight of Crypto-asset Activities and Markets: Final report
@@ -66,8 +65,6 @@ digest_pending_parts: 2
 | Licence | FSB terms (Reproduction not permitted for commercial/internal use (FSB terms)) |
 | Topics | [virtual assets](../../../topics/virtual-assets.md), [regulation](../../../topics/regulation.md) |
 
-> **Digest in progress:** 2 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -78,6 +75,8 @@ Global baseline regulatory framework for crypto-asset activities, complementing 
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-14 | Table of Contents; 1. Introduction; 2. Objectives, scope and follow-up > 2.1. Objectives and scope; 2. Objectives, scope and follow-up > 2.2. Follow-up and review; and 3 more sections |
+| [digest part 2](digest-002.md) | pp. 14-18 | 3. Final recommendations > Recommendation 5: Risk management; Glossary > Blockchain; Glossary > Crypto-asset services; Glossary > DeFi protocols; and 1 more sections |
 
 ## How to cite
 
