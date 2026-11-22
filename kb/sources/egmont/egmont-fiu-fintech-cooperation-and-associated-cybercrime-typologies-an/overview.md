@@ -11,7 +11,7 @@ tags:
 - typologies
 - typology_report
 - virtual_assets
-status: draft
+status: stable
 source_id: egmont-fiu-fintech-cooperation-and-associated-cybercrime-typologies-an
 issuer: egmont
 issuer_name: Egmont Group of FIUs
@@ -41,14 +41,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:42:14Z'
+  at: '2026-11-22T04:56:05Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2022/11/2022-Report-on-FIE-FinTech-Cooperation-and-Assoc.-Crimes.pdf
   title: FIU – FinTech Cooperation and Associated Cybercrime Typologies and Risks
   author: org:egmont
-digest_points: 62
-digest_pending_parts: 2
+digest_points: 182
 ---
 
 # FIU – FinTech Cooperation and Associated Cybercrime Typologies and Risks
@@ -68,8 +67,6 @@ digest_pending_parts: 2
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [emerging threats](../../../topics/emerging-threats.md), [typologies](../../../topics/typologies.md), [virtual assets](../../../topics/virtual-assets.md), [public private partnership](../../../topics/public-private-partnership.md) |
 
-> **Digest in progress:** 2 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -81,6 +78,8 @@ Common FinTech-reported typologies and red flags for cyber-enabled crime, ML and
 | Part | Pages | Sections |
 |---|---|---|
 | [digest part 1](digest-001.md) | pp. 1-14 | Table of contents > Background; Table of contents > 1. What Is FinTech?; Table of contents > 2. Types of FinTech; Table of contents > 3. Legal Frameworks to Regulate FinTech |
+| [digest part 2](digest-002.md) | pp. 15-29 | Table of contents > 3. Legal Frameworks to Regulate FinTech; Table of contents > 4. Reporting regimes and engagement with international counterparts; Table of contents > 5. Cooperation with FinTech entities; Table of contents > 6. International cooperation |
+| [digest part 3](digest-003.md) | pp. 29-37 | Table of contents > 6. International cooperation; Table of contents > 7. Tools for the job; Table of contents > 8. Risks and offence types; Table of contents > 9. Conclusion |
 
 ## How to cite
 

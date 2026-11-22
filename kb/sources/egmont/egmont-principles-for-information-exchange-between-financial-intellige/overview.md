@@ -9,7 +9,7 @@ tags:
 - regulation
 - standard
 - terrorist_financing
-status: draft
+status: stable
 source_id: egmont-principles-for-information-exchange-between-financial-intellige
 issuer: egmont
 issuer_name: Egmont Group of FIUs
@@ -37,14 +37,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:42:14Z'
+  at: '2026-11-22T04:56:05Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2022/07/EG-Principles-for-Information-Exchange-Revised-July-2025.pdf
   title: Principles for Information Exchange Between Financial Intelligence Units
   author: org:egmont
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 102
 ---
 
 # Principles for Information Exchange Between Financial Intelligence Units
@@ -64,8 +63,6 @@ digest_pending_parts: 1
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [regulation](../../../topics/regulation.md), [terrorist financing](../../../topics/terrorist-financing.md) |
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -76,6 +73,7 @@ Core Egmont standard governing FIU-to-FIU international information exchange tha
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-15 | PRINCIPLES FOR INFORMATION EXCHANGE BETWEEN FINANCIAL INTELLIGENCE UNITS; PRINCIPLES FOR INFORMATION EXCHANGE BETWEEN FINANCIAL INTELLIGENCE UNITS > EGMONT GROUP OF FINANCIAL INTELLIGENCE UNITS PRINCIPLES FOR INFORMATION EXCHANGE BETWEEN FINANCIAL INTELLIGENCE UNITS; PRINCIPLES FOR INFORMATION EXCHANGE BETWEEN FINANCIAL INTELLIGENCE UNITS > A. Introduction; PRINCIPLES FOR INFORMATION EXCHANGE BETWEEN FINANCIAL INTELLIGENCE UNITS > B. General framework; and 2 more sections |
 
 ## How to cite
 

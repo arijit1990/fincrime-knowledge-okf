@@ -9,7 +9,7 @@ tags:
 - network_graph
 - typologies
 - typology_report
-status: draft
+status: stable
 source_id: egmont-egmont-group-bulletin-professional-money-laundering-facilitator
 issuer: egmont
 issuer_name: Egmont Group of FIUs
@@ -37,15 +37,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:42:14Z'
+  at: '2026-11-22T04:56:05Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2021/09/2019_Egmont_Group_Bulletin_Professional_Money_Laundering_Facilitators.pdf
   title: 'Egmont Group Bulletin: Professional Money Laundering Facilitators'
   author: org:egmont
   last_modified: '2019-06-30T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 36
 ---
 
 # Egmont Group Bulletin: Professional Money Laundering Facilitators
@@ -65,8 +64,6 @@ digest_pending_parts: 1
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [typologies](../../../topics/typologies.md), [network graph](../../../topics/network-graph.md) |
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -77,6 +74,7 @@ Public FIU bulletin on professional ML networks and facilitators with indicators
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-6 | EGMONT GROUP BULLETIN Professional Money Laundering Facilitators; EGMONT GROUP BULLETIN Professional Money Laundering Facilitators > THE EGMONT GROUP OF FINANCIAL INTELLIGENCE UNITS; EGMONT GROUP BULLETIN Professional Money Laundering Facilitators > COMMISSIONS / FEES; EGMONT GROUP BULLETIN Professional Money Laundering Facilitators > ADVERTISING / MARKETING; and 5 more sections |
 
 ## How to cite
 

@@ -38,7 +38,7 @@ text_quality_warnings:
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:42:14Z'
+  at: '2026-11-22T04:56:05Z'
 sources:
 - id: original
   resource: https://www.justice.gov/opa/pr/department-justice-releases-first-ever-corporate-enforcement-policy-all-criminal-cases

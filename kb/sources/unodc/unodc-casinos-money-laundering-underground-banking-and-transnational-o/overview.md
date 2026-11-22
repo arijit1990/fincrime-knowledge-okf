@@ -40,14 +40,14 @@ text_quality_warnings:
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:42:14Z'
+  at: '2026-11-22T04:56:05Z'
 sources:
 - id: original
   resource: https://www.unodc.org/roseap/uploads/documents/Publications/2024/Casino_Underground_Banking_Report_2024.pdf
   title: 'Casinos, Money Laundering, Underground Banking, and Transnational Organized Crime in East and Southeast Asia: A Hidden and Accelerating Threat'
   author: org:unodc
-digest_points: 0
-digest_pending_parts: 12
+digest_points: 33
+digest_pending_parts: 11
 ---
 
 # Casinos, Money Laundering, Underground Banking, and Transnational Organized Crime in East and Southeast Asia: A Hidden and Accelerating Threat
@@ -71,7 +71,7 @@ digest_pending_parts: 12
 
 - 980 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 12 of 12 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 11 of 12 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -83,6 +83,7 @@ Case-based analysis of junkets, online gambling, crypto exchanges and undergroun
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 12](digest-012.md) | pp. 96-106 | Report Development and Analysis > Alvin Chau Cheok-wa (周焯华) and Suncity junket; Report Development and Analysis > Kokang, Special Region 1 of Myanmar |
 
 ## How to cite
 

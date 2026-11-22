@@ -8,7 +8,7 @@ issuer_id: academic_publisher
 tier: 3
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:42:14Z'
+  at: '2026-11-22T04:56:05Z'
 ---
 
 # Academic publisher / repository

@@ -11,7 +11,7 @@ tags:
 - typologies
 - typology_report
 - virtual_assets
-status: draft
+status: stable
 source_id: egmont-illicit-financial-flows-from-cyber-enabled-fraud
 issuer: egmont
 issuer_name: Egmont Group of FIUs
@@ -42,14 +42,13 @@ text_quality_warnings:
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:42:14Z'
+  at: '2026-11-22T04:56:05Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2023/11/Final_Illicit-financial-flows-from-cyber-enabled-fraud.pdf
   title: Illicit Financial Flows from Cyber-Enabled Fraud
   author: org:egmont
-digest_points: 94
-digest_pending_parts: 4
+digest_points: 250
 ---
 
 # Illicit Financial Flows from Cyber-Enabled Fraud
@@ -73,8 +72,6 @@ digest_pending_parts: 4
 
 - 8 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 4 of 6 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -85,8 +82,12 @@ Joint FATF/Egmont/INTERPOL report on BEC, phishing, impersonation, investment an
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-15 | _Table of Contents_; _List of Acronyms_; Executive Summary; 1. Introduction; and 1 more sections |
 | [digest part 2](digest-002.md) | pp. 15-28 | 2. Risk environment: Cyber-enabled Fraud |
+| [digest part 3](digest-003.md) | pp. 28-41 | 2. Risk environment: Cyber-enabled Fraud; 3. Other emerging ML vulnerabilities; 4. National operational responses and strategies |
+| [digest part 4](digest-004.md) | pp. 42-50 | 4. National operational responses and strategies |
 | [digest part 5](digest-005.md) | pp. 51-62 | 5. International co-operation and asset recovery |
+| [digest part 6](digest-006.md) | pp. 63-72 | 6. Conclusion and priority areas; Priority areas to effectively counter CEF and related ML; Priority areas to effectively counter CEF and related ML > Annex A: Risk indicators for CEF; Priority areas to effectively counter CEF and related ML > Annex B: Harnessing synergies between anti-fraud and AML/CFT controls |
 
 ## How to cite
 

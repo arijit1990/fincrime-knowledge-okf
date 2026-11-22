@@ -8,7 +8,7 @@ tags:
 - intl
 - regulation
 - regulatory_expectation
-status: draft
+status: stable
 source_id: egmont-operational-guidance-for-fiu-activities-and-the-exchange-of-inf
 issuer: egmont
 issuer_name: Egmont Group of FIUs
@@ -35,14 +35,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:42:14Z'
+  at: '2026-11-22T04:56:05Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2013/07/EGMONT-Group-Operational-Guidance-for-FIU-Activities-and-the-Exchange-of-Information-%E2%80%93-Revised-May-2024.pdf
   title: Operational Guidance for FIU Activities and the Exchange of Information
   author: org:egmont
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 156
 ---
 
 # Operational Guidance for FIU Activities and the Exchange of Information
@@ -62,8 +61,6 @@ digest_pending_parts: 3
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [regulation](../../../topics/regulation.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -74,6 +71,9 @@ Operational guidance on FIU analysis and information exchange; explains how FIUs
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-17 | EGMONT GROUP OF FINANCIAL INTELLIGENCE UNITS OPERATIONAL GUIDANCE FOR FIU ACTIVITIES AND THE EXCHANGE OF INFORMATION; A. Introduction; B. General framework; C. Egmont operational guidance |
+| [digest part 2](digest-002.md) | pp. 18-31 | C. Egmont operational guidance; Table of Amendments; Annex A: Sample query form |
+| [digest part 3](digest-003.md) | pp. 31-36 | Annex B: Sample Spontaneous Disclosure cover letter; Annex C: Promoting the role of FIUs in national counter - terrorism apparatus; Annex C: Promoting the role of FIUs in national counter - terrorism apparatus > PROMOTING THE ROLE OF FIUs; Annex C: Promoting the role of FIUs in national counter - terrorism apparatus > IMPROVING SUSPICIOUS TRANSACTION REPORT (STR) QUALITY; and 2 more sections |
 
 ## How to cite
 

@@ -9,7 +9,7 @@ tags:
 - privacy_data_protection
 - public_private_partnership
 - regulatory_expectation
-status: draft
+status: stable
 source_id: egmont-public-statement-by-the-egmont-group-of-financial-intelligence
 issuer: egmont
 issuer_name: Egmont Group of FIUs
@@ -37,15 +37,14 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:42:14Z'
+  at: '2026-11-22T04:56:05Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/news/public-statement-by-the-egmont-group-of-financial-intelligence-units-advancing-the-future-of-public-private-partnerships-in-combating-money-laundering-and-terrorist-financing/
   title: Public Statement by the Egmont Group of Financial Intelligence Units - Advancing the Future of Public-Private Partnerships in Combating Money Laundering and Terrorist Financing
   author: org:egmont
   last_modified: '2026-07-15T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 24
 ---
 
 # Public Statement by the Egmont Group of Financial Intelligence Units - Advancing the Future of Public-Private Partnerships in Combating Money Laundering and Terrorist Financing
@@ -65,8 +64,6 @@ digest_pending_parts: 1
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [public private partnership](../../../topics/public-private-partnership.md), [privacy data protection](../../../topics/privacy-data-protection.md) |
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -77,6 +74,7 @@ Latest FIU-community position on PPP information sharing: structured intelligenc
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | News and Events > Public Statement by the Egmont Group of Financial Intelligence Units – Advancing the Future of Public-Private Partnerships in Combating Money Launderi; News and Events > Fraud Alert |
 
 ## How to cite
 

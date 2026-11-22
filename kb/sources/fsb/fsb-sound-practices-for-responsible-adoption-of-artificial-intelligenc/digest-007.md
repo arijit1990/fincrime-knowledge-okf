@@ -45,7 +45,7 @@ digest_points: 1
 
 # Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Consultation report (digest)
 
-[source overview](overview.md)
+[previous part](digest-006.md) | [source overview](overview.md)
 
 > **Digest, not the original wording.** The licence of this source does not permit reproducing its text, so this part (pp. 63-66) is a paraphrased digest of every material point. Each point was machine-checked: its anchor phrase occurs verbatim in the original, and an independent reviewing agent confirmed the point is supported by the text. Labels: normative strength / kind. Quote the original, not this digest, when exact wording matters (see `resource`). Normative force of this document: **hypothesis**.
 
@@ -56,6 +56,6 @@ digest_points: 1
 
 ---
 
-[source overview](overview.md)
+[previous part](digest-006.md) | [source overview](overview.md)
 
 [^original]: Financial Stability Board, "Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Consultation report" (2026-06-10). https://www.fsb.org/uploads/P100626.pdf

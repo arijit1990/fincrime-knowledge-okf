@@ -11,7 +11,7 @@ tags:
 - intl
 - privacy_data_protection
 - standard
-status: draft
+status: stable
 source_id: fsb-recommendations-to-promote-alignment-and-interoperability-across-d
 issuer: fsb
 issuer_name: Financial Stability Board
@@ -41,7 +41,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:42:14Z'
+  at: '2026-11-22T04:56:05Z'
 sources:
 - id: original
   resource: https://www.fsb.org/2024/12/recommendations-to-promote-alignment-and-interoperability-across-data-frameworks-related-to-cross-border-payments-final-report/
@@ -49,8 +49,7 @@ sources:
   author: org:fsb
   last_modified: '2025-03-13T00:00:00Z'
 download_url: https://www.fsb.org/uploads/P121224-1.pdf
-digest_points: 26
-digest_pending_parts: 3
+digest_points: 128
 ---
 
 # Recommendations to Promote Alignment and Interoperability Across Data Frameworks Related to Cross-border Payments: Final report
@@ -70,8 +69,6 @@ digest_pending_parts: 3
 | Licence | FSB terms (Reproduction not permitted for commercial/internal use (FSB terms)) |
 | Topics | [privacy data protection](../../../topics/privacy-data-protection.md), [correspondent banking](../../../topics/correspondent-banking.md), [data features](../../../topics/data-features.md), [cross border](../../../topics/cross-border.md) |
 
-> **Digest in progress:** 3 of 4 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -83,6 +80,9 @@ FSB recommendations reconciling AML/CFT (incl. FATF R.16) and sanctions data nee
 | Part | Pages | Sections |
 |---|---|---|
 | [digest part 1](digest-001.md) | pp. 1-9 | Table of Contents; Executive summary; Introduction |
+| [digest part 2](digest-002.md) | pp. 10-18 | 1. Addressing uncertainty about how to balance regulatory and supervisory obligations; 1. Addressing uncertainty about how to balance regulatory and supervisory obligations > Box 1: GPA Information on cross-border data transfer mechanisms |
+| [digest part 3](digest-003.md) | pp. 18-24 | 1. Addressing uncertainty about how to balance regulatory and supervisory obligations > Box 1: GPA Information on cross-border data transfer mechanisms; 3. Mitigating restrictions on the flow of data related to payments across borders |
+| [digest part 4](digest-004.md) | pp. 24-26 | 4. Reducing barriers to innovation; 4. Reducing barriers to innovation > Box 2: Privacy Enhancing Technologies |
 
 ## How to cite
 

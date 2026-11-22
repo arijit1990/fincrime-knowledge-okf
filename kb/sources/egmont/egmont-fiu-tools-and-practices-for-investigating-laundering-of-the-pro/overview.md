@@ -10,7 +10,7 @@ tags:
 - investigations
 - typologies
 - typology_report
-status: draft
+status: stable
 source_id: egmont-fiu-tools-and-practices-for-investigating-laundering-of-the-pro
 issuer: egmont
 issuer_name: Egmont Group of FIUs
@@ -39,14 +39,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:42:14Z'
+  at: '2026-11-22T04:56:05Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2021/09/2019_Public_Summary_FIU_Tools_and_Practices_for_Investigating_Laundering_of_the_Proceeds_of_Corruption.pdf
   title: FIU Tools and Practices for Investigating Laundering of the Proceeds of Corruption (Public Summary)
   author: org:egmont
-digest_points: 69
-digest_pending_parts: 1
+digest_points: 141
 ---
 
 # FIU Tools and Practices for Investigating Laundering of the Proceeds of Corruption (Public Summary)
@@ -66,8 +65,6 @@ digest_pending_parts: 1
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [bribery corruption tax](../../../topics/bribery-corruption-tax.md), [typologies](../../../topics/typologies.md), [investigations](../../../topics/investigations.md) |
 
-> **Digest in progress:** 1 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -79,6 +76,7 @@ Tools, techniques and indicators FIUs use to detect and analyse laundering of co
 | Part | Pages | Sections |
 |---|---|---|
 | [digest part 1](digest-001.md) | pp. 1-15 | Public Summary; Public Summary > OVERVIEW; Public Summary > METHODOLOGY AND DEFINITIONS; Public Summary > KEY FINDINGS OF THE SURVEY; and 1 more sections |
+| [digest part 2](digest-002.md) | pp. 16-22 | Public Summary > EGMONT GROUP SET OF INDICATORS FOR CORRUPTION RELATED CASES FROM THE FIUS’ PERSPECTIVE |
 
 ## How to cite
 

@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:42:14Z'
+  at: '2026-11-22T04:56:05Z'
 sources:
 - id: original
   resource: https://www.fsb.org/2024/11/the-financial-stability-implications-of-artificial-intelligence/
@@ -47,8 +47,8 @@ sources:
   author: org:fsb
   last_modified: '2024-11-25T00:00:00Z'
 download_url: https://www.fsb.org/uploads/P14112024.pdf
-digest_points: 0
-digest_pending_parts: 5
+digest_points: 38
+digest_pending_parts: 4
 ---
 
 # The Financial Stability Implications of Artificial Intelligence
@@ -68,7 +68,7 @@ digest_pending_parts: 5
 | Licence | FSB terms (Reproduction not permitted for commercial/internal use (FSB terms)) |
 | Topics | [responsible ai](../../../topics/responsible-ai.md), [model governance](../../../topics/model-governance.md), [data governance](../../../topics/data-governance.md) |
 
-> **Digest in progress:** 5 of 5 part(s) are not yet digested and verified. Use the original at the link above for those pages.
+> **Digest in progress:** 4 of 5 part(s) are not yet digested and verified. Use the original at the link above for those pages.
 
 ## Curator note
 
@@ -80,6 +80,7 @@ FSB assessment of AI vulnerabilities (third-party concentration, model risk, dat
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-12 | Table of Contents; Executive summary; 1. Introduction; 2. Developments in AI since 2017; and 2 more sections |
 
 ## How to cite
 

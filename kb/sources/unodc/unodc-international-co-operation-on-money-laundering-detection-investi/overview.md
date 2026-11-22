@@ -37,7 +37,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:42:14Z'
+  at: '2026-11-22T04:56:05Z'
 sources:
 - id: original
   resource: https://www.unodc.org/unodc/news/2025/September/fatf--egmont-group--interpol-and-unodc-call-for-stronger-cooperation-between-countries-as-they-launch-handbook-to-fight-money-laundering.html

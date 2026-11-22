@@ -9,7 +9,7 @@ tags:
 - intl
 - public_private_partnership
 - typologies
-status: draft
+status: stable
 source_id: egmont-egmont-group-annual-report-2024-2025-30-years-of-international
 issuer: egmont
 issuer_name: Egmont Group of FIUs
@@ -37,14 +37,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:42:14Z'
+  at: '2026-11-22T04:56:05Z'
 sources:
 - id: original
   resource: https://egmontgroup.org/wp-content/uploads/2026/05/Egmont_Group_Annual_Report_2024-2025.pdf
   title: 'Egmont Group Annual Report 2024-2025: 30 Years of International Cooperation'
   author: org:egmont
-digest_points: 206
-digest_pending_parts: 3
+digest_points: 313
 ---
 
 # Egmont Group Annual Report 2024-2025: 30 Years of International Cooperation
@@ -64,8 +63,6 @@ digest_pending_parts: 3
 | Licence | Egmont terms (Reproduction not permitted for commercial/internal use (Egmont terms)) |
 | Topics | [typologies](../../../topics/typologies.md), [public private partnership](../../../topics/public-private-partnership.md) |
 
-> **Digest in progress:** 3 of 9 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -81,6 +78,9 @@ Latest Egmont annual report summarising FIU projects, typology outputs and infor
 | [digest part 3](digest-003.md) | pp. 26-37 | Looking Towards the Future; Looking Towards the Future > Egmont Group Events; 25th Annual Egmont Working and Regional Groups Meetings; Egmont Committee Intersessional Meeting Egmont Committee Intersessional Meeting; and 4 more sections |
 | [digest part 4](digest-004.md) | pp. 38-47 | Membership Support and Compliance Working Group (MSCWG); Policy and Procedures Working Group (PPWG); Technical Assistance and Training Working Group (TATWG) |
 | [digest part 5](digest-005.md) | pp. 47-54 | Developments; ECOFEL workshops, training courses, and other events; ECOFEL workshops, training courses, and other events > Regional Group Developments; Americas Regional Group; and 1 more sections |
+| [digest part 6](digest-006.md) | pp. 55-60 | Eurasia Regional Group; Europe I Regional Group; Europe II Regional Group; East and Southern Africa (ESA) Regional Group |
+| [digest part 7](digest-007.md) | pp. 61-68 | Middle East and Northern Africa (MENA) Regional Group; West and Central Africa (WCA) Regional Group; West and Central Africa (WCA) Regional Group > Best Egmont Case Award (BECA); 2024 Best Egmont Case Award (BECA) Winner FIU PHILIPPINES; and 1 more sections |
+| [digest part 8](digest-008.md) | pp. 69-78 | 2024 Best Egmont Case Award (BECA) Finalist FIU INDIA; 2024 Best Egmont Case Award (BECA) Finalist FIU INDIA > Acknowledgements; 2024 Best Egmont Case Award (BECA) Finalist FIU INDIA > Annex A: Member List; 2024 Best Egmont Case Award (BECA) Finalist FIU INDIA > Annex B: Egmont Committee Composition; and 1 more sections |
 | [digest part 9](digest-009.md) | pp. 78-80 | 2024 Best Egmont Case Award (BECA) Finalist FIU INDIA > Annex D: Observers and International Partners |
 
 ## How to cite

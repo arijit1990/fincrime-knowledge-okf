@@ -24,10 +24,10 @@ parts_total: 1
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:42:14Z'
+  at: '2026-11-22T04:56:05Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-22T04:42:14Z'
+  at: '2026-11-22T04:56:05Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2026/04/16/2026-07416/imposition-of-special-measure-prohibiting-certain-transmittals-of-funds-involving-cibanco-sa

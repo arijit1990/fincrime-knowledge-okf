@@ -25,10 +25,10 @@ parts_total: 2
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:42:14Z'
+  at: '2026-11-22T04:56:05Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-22T04:42:14Z'
+  at: '2026-11-22T04:56:05Z'
 sources:
 - id: original
   resource: https://www.occ.gov/news-issuances/bulletins/2025/bulletin-2025-37.html
