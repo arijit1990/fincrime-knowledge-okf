@@ -35,7 +35,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:56:05Z'
+  at: '2026-11-22T09:42:06Z'
 sources:
 - id: original
   resource: https://www.fsb.org/2019/05/fsb-publishes-updates-on-work-to-assess-and-address-correspondent-banking-declines/

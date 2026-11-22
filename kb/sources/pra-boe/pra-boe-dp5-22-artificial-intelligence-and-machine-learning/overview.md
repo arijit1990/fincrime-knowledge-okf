@@ -41,7 +41,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:56:05Z'
+  at: '2026-11-22T09:42:06Z'
 sources:
 - id: original
   resource: https://www.bankofengland.co.uk/prudential-regulation/publication/2022/october/artificial-intelligence

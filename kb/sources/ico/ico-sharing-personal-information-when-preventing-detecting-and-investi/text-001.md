@@ -26,10 +26,10 @@ parts_total: 1
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:56:05Z'
+  at: '2026-11-22T09:42:06Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-22T04:56:05Z'
+  at: '2026-11-22T09:42:06Z'
 sources:
 - id: original
   resource: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-sharing/sharing-personal-information-when-preventing-detecting-and-investigating-scams-and-frauds/

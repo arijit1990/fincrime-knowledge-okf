@@ -24,10 +24,10 @@ parts_total: 8
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T04:56:05Z'
+  at: '2026-11-22T09:42:06Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-22T04:56:05Z'
+  at: '2026-11-22T09:42:06Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2024/08/09/2024-16546/anti-money-laundering-and-countering-the-financing-of-terrorism-program-requirements
