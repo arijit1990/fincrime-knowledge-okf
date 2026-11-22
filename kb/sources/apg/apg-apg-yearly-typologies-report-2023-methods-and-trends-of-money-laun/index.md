@@ -1,3 +1,17 @@
 # Parts
 
 * [APG Yearly Typologies Report 2023: Methods and Trends of Money Laundering and Terrorism Financing](overview.md) - Typology report by Asia/Pacific Group on Money Laundering (2023-12); INTL; empirical observation; status current.
+* [APG Yearly Typologies Report 2023: Methods and Trends of Money Laundering and Terrorism Financing - part 1 of 14 (pp. 1-13)](digest-001.md) - Verified paraphrased digest, pp. 1-13: 6 FATF, FSRBS AND OBSERVERS’ RESEARCH PROJECTS & PUBLICATIONS ......................105
+* [APG Yearly Typologies Report 2023: Methods and Trends of Money Laundering and Terrorism Financing - part 2 of 14 (pp. 13-22)](digest-002.md) - Verified paraphrased digest, pp. 13-22: 6 FATF, FSRBS AND OBSERVERS’ RESEARCH PROJECTS & PUBLICATIONS ......................105
+* [APG Yearly Typologies Report 2023: Methods and Trends of Money Laundering and Terrorism Financing - part 3 of 14 (pp. 22-32)](digest-003.md) - Verified paraphrased digest, pp. 22-32: 6 FATF, FSRBS AND OBSERVERS’ RESEARCH PROJECTS & PUBLICATIONS ......................105
+* [APG Yearly Typologies Report 2023: Methods and Trends of Money Laundering and Terrorism Financing - part 4 of 14 (pp. 32-40)](digest-004.md) - Verified paraphrased digest, pp. 32-40: 6 FATF, FSRBS AND OBSERVERS’ RESEARCH PROJECTS & PUBLICATIONS ......................105
+* [APG Yearly Typologies Report 2023: Methods and Trends of Money Laundering and Terrorism Financing - part 5 of 14 (pp. 40-48)](digest-005.md) - Verified paraphrased digest, pp. 40-48: Q
+* [APG Yearly Typologies Report 2023: Methods and Trends of Money Laundering and Terrorism Financing - part 6 of 14 (pp. 48-57)](digest-006.md) - Verified paraphrased digest, pp. 48-57: Q
+* [APG Yearly Typologies Report 2023: Methods and Trends of Money Laundering and Terrorism Financing - part 7 of 14 (pp. 57-66)](digest-007.md) - Verified paraphrased digest, pp. 57-66: Q
+* [APG Yearly Typologies Report 2023: Methods and Trends of Money Laundering and Terrorism Financing - part 8 of 14 (pp. 66-76)](digest-008.md) - Verified paraphrased digest, pp. 66-76: Q
+* [APG Yearly Typologies Report 2023: Methods and Trends of Money Laundering and Terrorism Financing - part 9 of 14 (pp. 76-85)](digest-009.md) - Verified paraphrased digest, pp. 76-85: Q
+* [APG Yearly Typologies Report 2023: Methods and Trends of Money Laundering and Terrorism Financing - part 10 of 14 (pp. 86-96)](digest-010.md) - Verified paraphrased digest, pp. 86-96: Q
+* [APG Yearly Typologies Report 2023: Methods and Trends of Money Laundering and Terrorism Financing - part 11 of 14 (pp. 96-105)](digest-011.md) - Verified paraphrased digest, pp. 96-105: Q
+* [APG Yearly Typologies Report 2023: Methods and Trends of Money Laundering and Terrorism Financing - part 12 of 14 (pp. 106-113)](digest-012.md) - Verified paraphrased digest, pp. 106-113: Q
+* [APG Yearly Typologies Report 2023: Methods and Trends of Money Laundering and Terrorism Financing - part 13 of 14 (pp. 113-124)](digest-013.md) - Verified paraphrased digest, pp. 113-124: Type of threats 1 Tax and other mandatory payment evasion and other tax crimes (including VAT manipulation (fraud)) 2 Bribery and other corruption-rel
+* [APG Yearly Typologies Report 2023: Methods and Trends of Money Laundering and Terrorism Financing - part 14 of 14 (p. 124)](digest-014.md) - Verified paraphrased digest, p. 124: Type of threats 1 Tax and other mandatory payment evasion and other tax crimes (including VAT manipulation (fraud)) 2 Bribery and other corruption-rel

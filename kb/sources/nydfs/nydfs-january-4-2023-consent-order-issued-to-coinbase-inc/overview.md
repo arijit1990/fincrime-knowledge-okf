@@ -10,7 +10,7 @@ tags:
 - supervisory_expectation
 - us
 - virtual_assets
-status: draft
+status: stable
 source_id: nydfs-january-4-2023-consent-order-issued-to-coinbase-inc
 issuer: nydfs
 issuer_name: New York DFS
@@ -39,15 +39,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://www.dfs.ny.gov/system/files/documents/2023/01/ea20230104_coinbase.pdf
   title: 'January 4,2023: Consent Order Issued to Coinbase, Inc.'
   author: org:nydfs
   last_modified: '2018-07-01T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 2
+digest_points: 176
 ---
 
 # January 4,2023: Consent Order Issued to Coinbase, Inc.
@@ -67,8 +66,6 @@ digest_pending_parts: 2
 | Licence | NY State terms (Reproduction not permitted for commercial/internal use (NY State terms)) |
 | Topics | [enforcement](../../../topics/enforcement.md), [virtual assets](../../../topics/virtual-assets.md), [alerts triage](../../../topics/alerts-triage.md) |
 
-> **Digest in progress:** 2 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -79,6 +76,8 @@ Crypto exchange with >100,000 unreviewed TM alerts and EDD backlog; canonical al
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-18 | CONSENT ORDER; Introduction and Procedural History |
+| [digest part 2](digest-002.md) | pp. 18-29 | Introduction and Procedural History; Cybersecurity Event Reporting Requirements; Monetary Penalty; Further Action by the Department; and 3 more sections |
 
 ## How to cite
 

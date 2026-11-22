@@ -10,7 +10,7 @@ tags:
 - genai
 - intl
 - typology_report
-status: draft
+status: stable
 source_id: unodc-emerging-threats-the-intersection-of-criminal-and-technological
 issuer: unodc
 issuer_name: UN Office on Drugs and Crime
@@ -39,14 +39,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://www.unodc.org/roseap/uploads/documents/Publications/2025/UNODC_Report_Emerging_threats_-_The_intersection_of_criminal_and_technological_innovation_in_the_use_of_automation_and_AI.pdf
   title: 'Emerging threats: The intersection of criminal and technological innovation in the use of automation and artificial intelligence in the cybercrime landscape of Southeast Asia'
   author: org:unodc
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 133
 ---
 
 # Emerging threats: The intersection of criminal and technological innovation in the use of automation and artificial intelligence in the cybercrime landscape of Southeast Asia
@@ -66,8 +65,6 @@ digest_pending_parts: 3
 | Licence | UN terms (Reproduction not permitted for commercial/internal use (UN terms)) |
 | Topics | [emerging threats](../../../topics/emerging-threats.md), [genai](../../../topics/genai.md), [fraud screening synergies](../../../topics/fraud-screening-synergies.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -78,6 +75,9 @@ How criminal groups use automation and AI (deepfakes, LLMs) in scam operations -
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-9 | September 2025 > Introduction; September 2025 > Automation of crime; September 2025 > Malicious use of AI powering illicit activities |
+| [digest part 2](digest-002.md) | pp. 9-16 | September 2025 > Malicious use of AI powering illicit activities |
+| [digest part 3](digest-003.md) | pp. 16-24 | September 2025 > Malicious use of AI powering illicit activities; September 2025 > strategic response; September 2025 > Acknowledgments; September 2025 > Disclaimer |
 
 ## How to cite
 

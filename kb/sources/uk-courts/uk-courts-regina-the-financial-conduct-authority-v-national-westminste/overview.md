@@ -10,7 +10,7 @@ tags:
 - legal_requirement
 - transaction_behaviour
 - uk
-status: draft
+status: stable
 source_id: uk-courts-regina-the-financial-conduct-authority-v-national-westminste
 issuer: uk_courts
 issuer_name: UK courts / judiciary
@@ -39,15 +39,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://www.judiciary.uk/wp-content/uploads/2022/07/FCA-v-Natwest-Sentencing-remarks-131221.pdf
   title: 'REGINA (THE FINANCIAL CONDUCT AUTHORITY) -v- NATIONAL WESTMINSTER BANK PLC: Sentencing Remarks of Mrs Justice Cockerill'
   author: org:uk_courts
   last_modified: '2021-12-13T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 250
 ---
 
 # REGINA (THE FINANCIAL CONDUCT AUTHORITY) -v- NATIONAL WESTMINSTER BANK PLC: Sentencing Remarks of Mrs Justice Cockerill
@@ -67,8 +66,6 @@ digest_pending_parts: 3
 | Licence | Varies (Reproduction not permitted for commercial/internal use (Varies)) |
 | Topics | [enforcement](../../../topics/enforcement.md), [transaction behaviour](../../../topics/transaction-behaviour.md), [alerts triage](../../../topics/alerts-triage.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -79,6 +76,9 @@ Court's account of NatWest's ongoing-monitoring failures and culpability analysi
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-14 | NATIONAL WESTMINSTER BANK PLC > Sentencing Remarks of Mrs Justice Cockerill |
+| [digest part 2](digest-002.md) | pp. 14-28 | NATIONAL WESTMINSTER BANK PLC > Sentencing Remarks of Mrs Justice Cockerill |
+| [digest part 3](digest-003.md) | pp. 28-33 | NATIONAL WESTMINSTER BANK PLC > Sentencing Remarks of Mrs Justice Cockerill; NATIONAL WESTMINSTER BANK PLC > 132. For the offences of:; NATIONAL WESTMINSTER BANK PLC > 133. I sentence NatWest as follows: |
 
 ## How to cite
 

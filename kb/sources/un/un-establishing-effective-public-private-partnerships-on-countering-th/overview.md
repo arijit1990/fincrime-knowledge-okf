@@ -9,7 +9,7 @@ tags:
 - intl
 - other
 - terrorist_financing
-status: draft
+status: stable
 source_id: un-establishing-effective-public-private-partnerships-on-countering-th
 issuer: un
 issuer_name: United Nations (incl. Security Council)
@@ -37,15 +37,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://www.un.org/securitycouncil/ctc/content/countering-financing-terrorism
   title: Establishing effective public-private partnerships on countering the financing of terrorism
   author: org:un
 download_url: https://www.un.org/securitycouncil/ctc/sites/www.un.org.securitycouncil.ctc/files/cted_analytical_brief_on_ppps_cft_2023.pdf
-digest_points: 0
-digest_pending_parts: 2
+digest_points: 127
 ---
 
 # Establishing effective public-private partnerships on countering the financing of terrorism
@@ -65,8 +64,6 @@ digest_pending_parts: 2
 | Licence | UN terms (Reproduction not permitted for commercial/internal use (UN terms)) |
 | Topics | [terrorist financing](../../../topics/terrorist-financing.md), [effectiveness](../../../topics/effectiveness.md) |
 
-> **Digest in progress:** 2 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -77,6 +74,8 @@ CTED analytical brief on designing CFT public-private partnerships and informati
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-13 | Establishing effective public-private partnerships on countering the financing of terrorism; Establishing effective public-private partnerships on countering the financing of terrorism > TABLE OF CONTENTS; Establishing effective public-private partnerships on countering the financing of terrorism > BACKGROUND AND METHODOLOGY; Establishing effective public-private partnerships on countering the financing of terrorism > OVERVIEW; and 2 more sections |
+| [digest part 2](digest-002.md) | pp. 13-21 | Establishing effective public-private partnerships on countering the financing of terrorism > ADDRESSING GAPS AND CHALLENGES IDENTIFIED IN PPP FRAMEWORKS; Establishing effective public-private partnerships on countering the financing of terrorism > CONCLUSIONS |
 
 ## How to cite
 

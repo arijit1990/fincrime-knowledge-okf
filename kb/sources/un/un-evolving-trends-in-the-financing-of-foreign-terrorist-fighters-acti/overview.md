@@ -8,7 +8,7 @@ tags:
 - intl
 - terrorist_financing
 - typology_report
-status: draft
+status: stable
 source_id: un-evolving-trends-in-the-financing-of-foreign-terrorist-fighters-acti
 issuer: un
 issuer_name: United Nations (incl. Security Council)
@@ -35,14 +35,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://www.un.org/securitycouncil/ctc/sites/www.un.org.securitycouncil.ctc/files/cted_trends_tracker_evolving_trends_in_the_financing_of_foreign_terrorist_fighters_activity_2014_-_2024.pdf
   title: 'Evolving Trends in the Financing of Foreign Terrorist Fighters'' Activity: 2014 - 2024'
   author: org:un
-digest_points: 0
-digest_pending_parts: 2
+digest_points: 84
 ---
 
 # Evolving Trends in the Financing of Foreign Terrorist Fighters' Activity: 2014 - 2024
@@ -62,8 +61,6 @@ digest_pending_parts: 2
 | Licence | UN terms (Reproduction not permitted for commercial/internal use (UN terms)) |
 | Topics | [terrorist financing](../../../topics/terrorist-financing.md) |
 
-> **Digest in progress:** 2 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -74,6 +71,8 @@ Official UN trends analysis of FTF financing methods over a decade, informing TF
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-9 | Background; Milestones; Milestones > ADAPTATION TO INCREASED SCRUTINY AND ENHANCED COUNTERING THE FINANCING OF TERRORISM RESPONSES; Milestones > 2018 onwards: ~~DIVERSIFICATION OF DESTINATIONS AND ORIGINS FOR FUNDS~~ AND FIGHTERS; and 1 more sections |
+| [digest part 2](digest-002.md) | pp. 10-14 | Key evolutionary trends; Key evolutionary trends > COMPLEX TERRORISM-FINANCING SCHEME FOR THE RECRUITMENT AND TRAVEL OF FTFS TO AFGHANISTAN USING TETHER (USDT) ON THE TRON NETWORK (TRX)38; Key evolutionary trends > ONLINE FUNDRAISING CAMPAIGNS TO IMPROVE THE DETAINEES’ CONDITIONS IN CAMPS AND/OR TO SECURE THEIR RELEASE; Conclusion |
 
 ## How to cite
 

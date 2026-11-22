@@ -26,10 +26,10 @@ parts_total: 4
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://www.gov.uk/tax-and-chancery-tribunal-decisions/vladimir-consulting-limited-v-the-financial-conduct-authority-2022-ukut-00168-tcc

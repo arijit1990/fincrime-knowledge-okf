@@ -10,7 +10,7 @@ tags:
 - supervisory_expectation
 - supervisory_letter
 - transaction_behaviour
-status: draft
+status: stable
 source_id: hkma-use-of-artificial-intelligence-for-monitoring-of-suspicious-activ
 issuer: hkma
 issuer_name: Hong Kong Monetary Authority
@@ -40,15 +40,14 @@ text_quality_warnings:
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://brdr.hkma.gov.hk/eng/doc-ldg/docId/20241122-3-EN
   title: Use of Artificial Intelligence for Monitoring of Suspicious Activities
   author: org:hkma
   last_modified: '2024-09-09T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 6
 ---
 
 # Use of Artificial Intelligence for Monitoring of Suspicious Activities
@@ -72,8 +71,6 @@ digest_pending_parts: 1
 
 - only 259 tokens were extracted: the stored file is probably a landing/abstract page, not the full document
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -84,6 +81,7 @@ HKMA circular expecting banks to explore AI-based suspicious-activity monitoring
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | Use of Artificial Intelligence for Monitoring of Suspicious Activities; Use of Artificial Intelligence for Monitoring of Suspicious Activities > Directly related Document |
 
 ## How to cite
 

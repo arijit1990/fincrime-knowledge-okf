@@ -24,10 +24,10 @@ parts_total: 4
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2023/01/23/2023-01189/imposition-of-special-measure-prohibiting-the-transmittal-of-funds-involving-bitzlato

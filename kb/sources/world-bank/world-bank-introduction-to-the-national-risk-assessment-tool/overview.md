@@ -7,7 +7,7 @@ tags:
 - empirical_observation
 - intl
 - risk_assessment
-status: draft
+status: stable
 source_id: world-bank-introduction-to-the-national-risk-assessment-tool
 issuer: world_bank
 issuer_name: World Bank / StAR
@@ -34,14 +34,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://documents1.worldbank.org/curated/en/099539106292288480/pdf/IDU02bfcabe00d2c50448808a240b5106c160f10.pdf
   title: Introduction to the National Risk Assessment Tool
   author: org:world_bank
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 74
 ---
 
 # Introduction to the National Risk Assessment Tool
@@ -61,8 +60,6 @@ digest_pending_parts: 1
 | Licence | Often CC BY 3.0 IGO (Reproduction not permitted for commercial/internal use (Often CC BY 3.0 IGO)) |
 | Topics | [risk assessment](../../../topics/risk-assessment.md) |
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -73,6 +70,7 @@ Introduces the World Bank NRA tool (threat/vulnerability modules) widely used fo
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-15 | INTRODUCTION TO THE NATIONAL RISK ASSESSMENT TOOL; INTRODUCTION TO THE NATIONAL RISK ASSESSMENT TOOL > CONTENTS; INTRODUCTION TO THE NATIONAL RISK ASSESSMENT TOOL > Objectives of the Tool; INTRODUCTION TO THE NATIONAL RISK ASSESSMENT TOOL > The General Structure of the Tool; and 9 more sections |
 
 ## How to cite
 

@@ -11,7 +11,7 @@ tags:
 - typologies
 - typology_report
 - virtual_assets
-status: draft
+status: stable
 source_id: unodc-transnational-organized-crime-and-the-convergence-of-cyber-enabl
 issuer: unodc
 issuer_name: UN Office on Drugs and Crime
@@ -41,15 +41,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://www.unodc.org/roseap/en/2024/10/cyberfraud-industry-expands-southeast-asia/story.html
   title: 'Transnational Organized Crime and the Convergence of Cyber-Enabled Fraud, Underground Banking and Technological Innovation in Southeast Asia: A Shifting Threat Landscape'
   author: org:unodc
 download_url: https://www.unodc.org/roseap/uploads/documents/Publications/2024/TOC_Convergence_Report_2024.pdf
-digest_points: 0
-digest_pending_parts: 17
+digest_points: 981
 ---
 
 # Transnational Organized Crime and the Convergence of Cyber-Enabled Fraud, Underground Banking and Technological Innovation in Southeast Asia: A Shifting Threat Landscape
@@ -69,8 +68,6 @@ digest_pending_parts: 17
 | Licence | UN terms (Reproduction not permitted for commercial/internal use (UN terms)) |
 | Topics | [typologies](../../../topics/typologies.md), [emerging threats](../../../topics/emerging-threats.md), [virtual assets](../../../topics/virtual-assets.md), [fraud screening synergies](../../../topics/fraud-screening-synergies.md) |
 
-> **Digest in progress:** 17 of 17 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -81,6 +78,23 @@ Scam-centre economy, underground banking, stablecoin laundering and tech innovat
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-17 | UNITED NATIONS OFFICE ON DRUGS AND CRIME |
+| [digest part 2](digest-002.md) | pp. 18-30 | UNITED NATIONS OFFICE ON DRUGS AND CRIME |
+| [digest part 3](digest-003.md) | pp. 30-36 | UNITED NATIONS OFFICE ON DRUGS AND CRIME |
+| [digest part 4](digest-004.md) | pp. 36-43 | UNITED NATIONS OFFICE ON DRUGS AND CRIME |
+| [digest part 5](digest-005.md) | pp. 43-51 | UNITED NATIONS OFFICE ON DRUGS AND CRIME |
+| [digest part 6](digest-006.md) | pp. 51-58 | UNITED NATIONS OFFICE ON DRUGS AND CRIME |
+| [digest part 7](digest-007.md) | pp. 58-64 | UNITED NATIONS OFFICE ON DRUGS AND CRIME |
+| [digest part 8](digest-008.md) | pp. 64-71 | UNITED NATIONS OFFICE ON DRUGS AND CRIME |
+| [digest part 9](digest-009.md) | pp. 71-79 | UNITED NATIONS OFFICE ON DRUGS AND CRIME |
+| [digest part 10](digest-010.md) | pp. 79-83 | UNITED NATIONS OFFICE ON DRUGS AND CRIME |
+| [digest part 11](digest-011.md) | pp. 83-89 | Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2; CRYPTOCURRENCY EXCHANGE |
+| [digest part 12](digest-012.md) | pp. 89-96 | USDT; BTC |
+| [digest part 13](digest-013.md) | pp. 96-107 | BTC |
+| [digest part 14](digest-014.md) | pp. 107-115 | BTC |
+| [digest part 15](digest-015.md) | pp. 115-123 | BTC |
+| [digest part 16](digest-016.md) | pp. 123-131 | BTC |
+| [digest part 17](digest-017.md) | pp. 131-142 | BTC |
 
 ## How to cite
 

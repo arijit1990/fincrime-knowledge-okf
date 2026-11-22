@@ -9,7 +9,7 @@ tags:
 - intl
 - regulation
 - regulatory_expectation
-status: draft
+status: stable
 source_id: imf-guidance-note-for-addressing-anti-money-laundering-and-combating-t
 issuer: imf
 issuer_name: International Monetary Fund
@@ -37,14 +37,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://www.imf.org/en/publications/policy-papers/issues/2026/07/15/guidance-note-for-addressing-anti-money-laundering-combating-the-financing-of-terrorism-577758
   title: Guidance Note for Addressing Anti-Money Laundering and Combating the Financing of Terrorism Issues in Surveillance, FSAPs and Use of Fund Resources
   author: org:imf
-digest_points: 0
-digest_pending_parts: 6
+digest_points: 322
 ---
 
 # Guidance Note for Addressing Anti-Money Laundering and Combating the Financing of Terrorism Issues in Surveillance, FSAPs and Use of Fund Resources
@@ -64,8 +63,6 @@ digest_pending_parts: 6
 | Licence | IMF terms (Reproduction not permitted for commercial/internal use (IMF terms)) |
 | Topics | [regulation](../../../topics/regulation.md), [effectiveness](../../../topics/effectiveness.md) |
 
-> **Digest in progress:** 6 of 6 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -76,6 +73,12 @@ Manually downloaded official source (site blocks automated access)
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-8 | International Monetary Fund Washington, D.C.; EXECUTIVE SUMMARY; EXECUTIVE SUMMARY > CONTENTS; SECTION I. INTRODUCTION |
+| [digest part 2](digest-002.md) | pp. 9-17 | SECTION II. MACROECONOMIC AND FINANCIAL STABILITY IMPLICATIONS OF MONEY LAUNDERING, FINANCIAL CRIMES, AND TERRORISM FINANCING > A. Definitions; SECTION II. MACROECONOMIC AND FINANCIAL STABILITY IMPLICATIONS OF MONEY LAUNDERING, FINANCIAL CRIMES, AND TERRORISM FINANCING > B. Context Matters—Key Macroeconomic Consequences; SECTION II. MACROECONOMIC AND FINANCIAL STABILITY IMPLICATIONS OF MONEY LAUNDERING, FINANCIAL CRIMES, AND TERRORISM FINANCING > C. Terrorism Financing Risks; SECTION II. MACROECONOMIC AND FINANCIAL STABILITY IMPLICATIONS OF MONEY LAUNDERING, FINANCIAL CRIMES, AND TERRORISM FINANCING > Risks |
+| [digest part 3](digest-003.md) | pp. 17-26 | SECTION II. MACROECONOMIC AND FINANCIAL STABILITY IMPLICATIONS OF MONEY LAUNDERING, FINANCIAL CRIMES, AND TERRORISM FINANCING > Risks; SECTION III. SURVEILLANCE; SECTION III. SURVEILLANCE > A. Mandatory Coverage of Financial Integrity Analysis and Advice in AIV Consultation; SECTION III. SURVEILLANCE > B. Voluntary Coverage in AIV Consultations |
+| [digest part 4](digest-004.md) | pp. 26-34 | SECTION IV. FINANCIAL SECTOR ASSESSMENT PROGRAM; SECTION V. USE OF FUND RESOURCES > A. Inclusion of AML/CFT-Related Conditionality in the Use of Fund Resources; SECTION V. USE OF FUND RESOURCES > B. Key Principles for AML/CFT-Related Program Design and Conditionality |
+| [digest part 5](digest-005.md) | pp. 34-47 | SECTION V. USE OF FUND RESOURCES > B. Key Principles for AML/CFT-Related Program Design and Conditionality; SECTION V. USE OF FUND RESOURCES > Laundering/Combating the Financing of Terrorism-Related Conditionality; SECTION V. USE OF FUND RESOURCES > Annex II. Relevance of Anti- Money Laundering/Combating the Financing of Terrorism to other Fund Policies1 |
+| [digest part 6](digest-006.md) | p. 48 | SECTION V. USE OF FUND RESOURCES > Annex II. Relevance of Anti- Money Laundering/Combating the Financing of Terrorism to other Fund Policies1 |
 
 ## How to cite
 

@@ -10,7 +10,7 @@ tags:
 - proliferation_financing
 - typologies
 - typology_report
-status: draft
+status: stable
 source_id: apg-2022-apg-yearly-typologies-report
 issuer: apg
 issuer_name: Asia/Pacific Group on Money Laundering
@@ -39,15 +39,14 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://www.apgml.org/news/2022-apg-yearly-typologies-report
   title: 2022 APG Yearly Typologies Report
   author: org:apg
 download_url: https://www.amlo.moj.gov.tw/media/20211854/2022-apg-yearly-typologies-report.pdf?mediaDL=true
-digest_points: 0
-digest_pending_parts: 16
+digest_points: 1055
 ---
 
 # 2022 APG Yearly Typologies Report
@@ -67,8 +66,6 @@ digest_pending_parts: 16
 | Licence | APG terms (Reproduction not permitted for commercial/internal use (APG terms)) |
 | Topics | [typologies](../../../topics/typologies.md), [proliferation financing](../../../topics/proliferation-financing.md), [emerging threats](../../../topics/emerging-threats.md) |
 
-> **Digest in progress:** 16 of 16 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -79,6 +76,22 @@ Tracks COVID-19 related ML/TF trends and PF methods across Asia-Pacific; PDF mir
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-11 | CONTENTS; 5. MONEY LAUNDERING AND TERRORISM FINANCING METHODS ........................ 29; 7. MONEY LAUNDERING & TERRORISM FINANCING TRENDS ............................ 109 |
+| [digest part 2](digest-002.md) | pp. 11-20 | 7. MONEY LAUNDERING & TERRORISM FINANCING TRENDS ............................ 109 |
+| [digest part 3](digest-003.md) | pp. 20-30 | 7. MONEY LAUNDERING & TERRORISM FINANCING TRENDS ............................ 109 |
+| [digest part 4](digest-004.md) | pp. 31-41 | 7. MONEY LAUNDERING & TERRORISM FINANCING TRENDS ............................ 109 |
+| [digest part 5](digest-005.md) | pp. 42-52 | 7. MONEY LAUNDERING & TERRORISM FINANCING TRENDS ............................ 109 |
+| [digest part 6](digest-006.md) | pp. 53-63 | 7. MONEY LAUNDERING & TERRORISM FINANCING TRENDS ............................ 109 |
+| [digest part 7](digest-007.md) | pp. 64-73 | 7. MONEY LAUNDERING & TERRORISM FINANCING TRENDS ............................ 109 |
+| [digest part 8](digest-008.md) | pp. 74-85 | 7. MONEY LAUNDERING & TERRORISM FINANCING TRENDS ............................ 109 |
+| [digest part 9](digest-009.md) | pp. 86-97 | 7. MONEY LAUNDERING & TERRORISM FINANCING TRENDS ............................ 109 |
+| [digest part 10](digest-010.md) | pp. 97-103 | 7. MONEY LAUNDERING & TERRORISM FINANCING TRENDS ............................ 109 |
+| [digest part 11](digest-011.md) | pp. 104-113 | 6. PROLIFERATION FINANCING METHODS & TRENDS; 7. MONEY LAUNDERING & TERRORISM FINANCING TRENDS |
+| [digest part 12](digest-012.md) | pp. 114-126 | 7. MONEY LAUNDERING & TERRORISM FINANCING TRENDS |
+| [digest part 13](digest-013.md) | pp. 126-134 | 7. MONEY LAUNDERING & TERRORISM FINANCING TRENDS; Schedule s16BA Crimes Act 2; Schedule s16BA Crimes Act 4 |
+| [digest part 14](digest-014.md) | pp. 134-141 | AML/CFT |
+| [digest part 15](digest-015.md) | pp. 141-153 | 9. COVID-19 RELATED ML & TF TRENDS |
+| [digest part 16](digest-016.md) | pp. 154-160 | 9. COVID-19 RELATED ML & TF TRENDS; TF |
 
 ## How to cite
 

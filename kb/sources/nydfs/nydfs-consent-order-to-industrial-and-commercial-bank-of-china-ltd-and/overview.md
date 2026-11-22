@@ -9,7 +9,7 @@ tags:
 - enforcement_notice
 - supervisory_expectation
 - us
-status: draft
+status: stable
 source_id: nydfs-consent-order-to-industrial-and-commercial-bank-of-china-ltd-and
 issuer: nydfs
 issuer_name: New York DFS
@@ -37,15 +37,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://www.dfs.ny.gov/system/files/documents/2024/01/ea_co_icbc_20240117.pdf
   title: Consent Order to Industrial and Commercial Bank of China Ltd. and Industrial and Commercial Bank of China Ltd., New York Branch
   author: org:nydfs
   last_modified: '2022-12-31T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 2
+digest_points: 81
 ---
 
 # Consent Order to Industrial and Commercial Bank of China Ltd. and Industrial and Commercial Bank of China Ltd., New York Branch
@@ -65,8 +64,6 @@ digest_pending_parts: 2
 | Licence | NY State terms (Reproduction not permitted for commercial/internal use (NY State terms)) |
 | Topics | [enforcement](../../../topics/enforcement.md), [correspondent banking](../../../topics/correspondent-banking.md) |
 
-> **Digest in progress:** 2 of 2 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -77,6 +74,8 @@ $30m penalty on a foreign bank NY branch for BSA/AML compliance failings; illust
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-12 | CONSENT ORDER; Introduction; Events at Issue; Violations of Law and Regulations; and 1 more sections |
+| [digest part 2](digest-002.md) | pp. 12-16 | Full and Complete Cooperation; Further Action by the Department; Waiver of Rights; Notices; and 2 more sections |
 
 ## How to cite
 

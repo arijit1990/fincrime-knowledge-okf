@@ -10,7 +10,7 @@ tags:
 - model_governance
 - responsible_ai
 - risk_assessment
-status: draft
+status: stable
 source_id: fsb-the-financial-stability-implications-of-artificial-intelligence
 issuer: fsb
 issuer_name: Financial Stability Board
@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://www.fsb.org/2024/11/the-financial-stability-implications-of-artificial-intelligence/
@@ -47,8 +47,7 @@ sources:
   author: org:fsb
   last_modified: '2024-11-25T00:00:00Z'
 download_url: https://www.fsb.org/uploads/P14112024.pdf
-digest_points: 136
-digest_pending_parts: 2
+digest_points: 195
 ---
 
 # The Financial Stability Implications of Artificial Intelligence
@@ -68,8 +67,6 @@ digest_pending_parts: 2
 | Licence | FSB terms (Reproduction not permitted for commercial/internal use (FSB terms)) |
 | Topics | [responsible ai](../../../topics/responsible-ai.md), [model governance](../../../topics/model-governance.md), [data governance](../../../topics/data-governance.md) |
 
-> **Digest in progress:** 2 of 5 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -83,6 +80,8 @@ FSB assessment of AI vulnerabilities (third-party concentration, model risk, dat
 | [digest part 1](digest-001.md) | pp. 1-12 | Table of Contents; Executive summary; 1. Introduction; 2. Developments in AI since 2017; and 2 more sections |
 | [digest part 2](digest-002.md) | pp. 13-22 | 3. Selected use cases; 3. Selected use cases > 3.1. Industry use cases; 3. Selected use cases > 3.2. Regulatory and supervisory use cases; 4. Financial stability implications of AI; and 2 more sections |
 | [digest part 3](digest-003.md) | pp. 22-29 | 4. Financial stability implications of AI > 4.2. Financial sector vulnerabilities |
+| [digest part 4](digest-004.md) | pp. 29-34 | 4. Financial stability implications of AI > 4.2. Financial sector vulnerabilities; 5. Conclusion |
+| [digest part 5](digest-005.md) | pp. 35-40 | Annex 1: Supply chain for large language models; Annex 1: Supply chain for large language models > Table A1: Primary distribution channels for foundation models and derivative products; Glossary; Abbreviations |
 
 ## How to cite
 

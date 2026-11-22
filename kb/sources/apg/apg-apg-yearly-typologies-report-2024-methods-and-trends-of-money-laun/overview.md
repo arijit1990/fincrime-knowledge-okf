@@ -11,7 +11,7 @@ tags:
 - terrorist_financing
 - typologies
 - typology_report
-status: draft
+status: stable
 source_id: apg-apg-yearly-typologies-report-2024-methods-and-trends-of-money-laun
 issuer: apg
 issuer_name: Asia/Pacific Group on Money Laundering
@@ -41,14 +41,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://apgml.org/sites/default/files/documents/2024_APG_Typologies_Report.pdf
   title: 'APG Yearly Typologies Report 2024: Methods and Trends of Money Laundering, Terrorism Financing and Proliferation Financing'
   author: org:apg
-digest_points: 0
-digest_pending_parts: 21
+digest_points: 1213
 ---
 
 # APG Yearly Typologies Report 2024: Methods and Trends of Money Laundering, Terrorism Financing and Proliferation Financing
@@ -68,8 +67,6 @@ digest_pending_parts: 21
 | Licence | APG terms (Reproduction not permitted for commercial/internal use (APG terms)) |
 | Topics | [typologies](../../../topics/typologies.md), [beneficial ownership](../../../topics/beneficial-ownership.md), [terrorist financing](../../../topics/terrorist-financing.md), [proliferation financing](../../../topics/proliferation-financing.md) |
 
-> **Digest in progress:** 21 of 21 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -80,6 +77,27 @@ APG yearly regional typologies with case studies; 2024 edition leads with misuse
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-11 | 2 - MONEY LAUNDERING AND TERRORISM FINANCING METHODS 40; 4 - PROLIFERATION FINANCING METHODS AND TRENDS 92; 5 - ASSET RECOVERY METHODS AND TRENDS 109; 6 - FATF, FSRBS AND OBSERVER ORGANISATIONS’ PROJECTS 126; and 3 more sections |
+| [digest part 2](digest-002.md) | pp. 11-20 | 1 - MISUSE OF LEGAL PERSONS |
+| [digest part 3](digest-003.md) | pp. 20-27 | 1 - MISUSE OF LEGAL PERSONS |
+| [digest part 4](digest-004.md) | pp. 27-34 | 1 - MISUSE OF LEGAL PERSONS |
+| [digest part 5](digest-005.md) | pp. 34-40 | 1 - MISUSE OF LEGAL PERSONS |
+| [digest part 6](digest-006.md) | pp. 41-47 | 2 - MONEY LAUNDERING AND TERRORISM FINANCING METHODS |
+| [digest part 7](digest-007.md) | pp. 47-54 | 2 - MONEY LAUNDERING AND TERRORISM FINANCING METHODS |
+| [digest part 8](digest-008.md) | pp. 54-59 | 2 - MONEY LAUNDERING AND TERRORISM FINANCING METHODS |
+| [digest part 9](digest-009.md) | pp. 59-67 | PKR 250; PKR 30 |
+| [digest part 10](digest-010.md) | pp. 67-75 | PKR 30; 3 - MONEY LAUNDERING AND TERRORISM FINANCING TRENDS |
+| [digest part 11](digest-011.md) | pp. 75-83 | 3 - MONEY LAUNDERING AND TERRORISM FINANCING TRENDS |
+| [digest part 12](digest-012.md) | pp. 83-91 | 3 - MONEY LAUNDERING AND TERRORISM FINANCING TRENDS |
+| [digest part 13](digest-013.md) | pp. 91-99 | 3 - MONEY LAUNDERING AND TERRORISM FINANCING TRENDS; 4 - PROLIFERATION FINANCING METHODS AND TRENDS |
+| [digest part 14](digest-014.md) | pp. 99-106 | 4 - PROLIFERATION FINANCING METHODS AND TRENDS |
+| [digest part 15](digest-015.md) | pp. 106-115 | 4 - PROLIFERATION FINANCING METHODS AND TRENDS; 5 - ASSET RECOVERY METHODS AND TRENDS |
+| [digest part 16](digest-016.md) | pp. 115-121 | 5 - ASSET RECOVERY METHODS AND TRENDS |
+| [digest part 17](digest-017.md) | pp. 121-126 | PHP 9,143,220,299.09 100% |
+| [digest part 18](digest-018.md) | pp. 127-133 | 6 - FATF, FSRBS AND OBSERVER ORGANISATIONS’ PROJECTS |
+| [digest part 19](digest-019.md) | pp. 133-140 | 6 - FATF, FSRBS AND OBSERVER ORGANISATIONS’ PROJECTS |
+| [digest part 20](digest-020.md) | pp. 140-150 | 6 - FATF, FSRBS AND OBSERVER ORGANISATIONS’ PROJECTS |
+| [digest part 21](digest-021.md) | pp. 151-154 | 7 - ABBREVIATIONS, ACRONYMS AND CURRENCY EXCHANGE RATES; 8 - INDEX; COVID-19 |
 
 ## How to cite
 

@@ -11,7 +11,7 @@ tags:
 - intl
 - ml_statistics
 - technology_architecture
-status: draft
+status: stable
 source_id: hsbc-technology-fighting-financial-crime-hsbc-holdings-plc
 issuer: hsbc
 issuer_name: HSBC
@@ -41,15 +41,14 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://www.hsbc.com/who-we-are/esg-and-responsible-business/fighting-financial-crime/technology
   title: Technology | Fighting Financial Crime | HSBC Holdings plc
   author: org:hsbc
   last_modified: '2025-12-05T00:00:00Z'
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 20
 ---
 
 # Technology | Fighting Financial Crime | HSBC Holdings plc
@@ -69,8 +68,6 @@ digest_pending_parts: 1
 | Licence | HSBC terms (Reproduction not permitted for commercial/internal use (HSBC terms)) |
 | Topics | [ml statistics](../../../topics/ml-statistics.md), [alerts triage](../../../topics/alerts-triage.md), [technology architecture](../../../topics/technology-architecture.md), [effectiveness](../../../topics/effectiveness.md) |
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -81,6 +78,7 @@ HSBC's own description of Dynamic Risk Assessment and its Google Cloud AML AI de
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | Technology; Technology > Share |
 
 ## How to cite
 

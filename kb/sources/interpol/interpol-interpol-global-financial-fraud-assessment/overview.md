@@ -10,7 +10,7 @@ tags:
 - intl
 - risk_assessment
 - typologies
-status: draft
+status: stable
 source_id: interpol-interpol-global-financial-fraud-assessment
 issuer: interpol
 issuer_name: INTERPOL
@@ -39,14 +39,13 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://www.interpol.int/content/download/21096/file/24COM005563-01%20-%20CAS_Global%20Financial%20Fraud%20Assessment_Public%20version_2024-03_EN_v3.pdf
   title: INTERPOL Global Financial Fraud Assessment
   author: org:interpol
-digest_points: 0
-digest_pending_parts: 3
+digest_points: 170
 ---
 
 # INTERPOL Global Financial Fraud Assessment
@@ -66,8 +65,6 @@ digest_pending_parts: 3
 | Licence | INTERPOL terms (Reproduction not permitted for commercial/internal use (INTERPOL terms)) |
 | Topics | [fraud screening synergies](../../../topics/fraud-screening-synergies.md), [emerging threats](../../../topics/emerging-threats.md), [typologies](../../../topics/typologies.md) |
 
-> **Digest in progress:** 3 of 3 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -78,6 +75,9 @@ Global fraud typologies (investment, romance, BEC, advance-fee) and links to tra
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-10 | Disclaimer; Contents; Executive Summary – Key Findings; Introduction; and 4 more sections |
+| [digest part 2](digest-002.md) | pp. 11-17 | Emerging Trends in Financial Fraud; Emerging Trends in Financial Fraud > OPERATIONS STORM MAKERS I AND II; Regional Trends in Financial Fraud > OPERATIONS DELILAH, FALCON II, AFRICA CYBER SURGE I & II, CONTENDER; Regional Trends in Financial Fraud > OPERATION JACKAL |
+| [digest part 3](digest-003.md) | pp. 18-24 | Organized Financial Fraud; Organized Financial Fraud > I-GRIP CASE STUDY; Organized Financial Fraud > INTERPOL GLOBAL RAPID INTERVENTION OF PAYMENTS (I-GRIP); Conclusions |
 
 ## How to cite
 

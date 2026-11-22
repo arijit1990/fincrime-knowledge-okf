@@ -1,3 +1,9 @@
 # Parts
 
 * [2023 Review of the Fund's Anti-Money Laundering and Combating the Financing of Terrorism Strategy](overview.md) - Other by International Monetary Fund (2023-11-20); INTL; expert interpretation; status current.
+* [2023 Review of the Fund's Anti-Money Laundering and Combating the Financing of Terrorism Strategy - part 1 of 6 (pp. 1-14)](digest-001.md) - Verified paraphrased digest, pp. 1-14: IMF POLICY PAPER; IMF POLICY PAPER > EXECUTIVE SUMMARY; IMF POLICY PAPER > INTRODUCTION
+* [2023 Review of the Fund's Anti-Money Laundering and Combating the Financing of Terrorism Strategy - part 2 of 6 (pp. 14-24)](digest-002.md) - Verified paraphrased digest, pp. 14-24: IMF POLICY PAPER > INTRODUCTION; IMF POLICY PAPER > FINANCIAL INTEGRITY RISKS AND COVERAGE OF AML/CFT IN FUND WORKSTREAMS
+* [2023 Review of the Fund's Anti-Money Laundering and Combating the Financing of Terrorism Strategy - part 3 of 6 (pp. 24-34)](digest-003.md) - Verified paraphrased digest, pp. 24-34: IMF POLICY PAPER > FINANCIAL INTEGRITY RISKS AND COVERAGE OF AML/CFT IN FUND WORKSTREAMS
+* [2023 Review of the Fund's Anti-Money Laundering and Combating the Financing of Terrorism Strategy - part 4 of 6 (pp. 34-45)](digest-004.md) - Verified paraphrased digest, pp. 34-45: IMF POLICY PAPER > FINANCIAL INTEGRITY RISKS AND COVERAGE OF AML/CFT IN FUND WORKSTREAMS; IMF POLICY PAPER > AML/CFT POLICY CONTRIBUTIONS
+* [2023 Review of the Fund's Anti-Money Laundering and Combating the Financing of Terrorism Strategy - part 5 of 6 (pp. 45-55)](digest-005.md) - Verified paraphrased digest, pp. 45-55: IMF POLICY PAPER > AML/CFT POLICY CONTRIBUTIONS; IMF POLICY PAPER > AML/CFT STRATEGY—THE ROAD AHEAD; IMF POLICY PAPER > ISSUES FOR DISCUSSION
+* [2023 Review of the Fund's Anti-Money Laundering and Combating the Financing of Terrorism Strategy - part 6 of 6 (p. 56)](digest-006.md) - Verified paraphrased digest, p. 56: IMF POLICY PAPER > ISSUES FOR DISCUSSION

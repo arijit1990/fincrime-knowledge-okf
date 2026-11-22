@@ -1,3 +1,5 @@
 # Parts
 
 * [Evolving Trends in the Financing of Foreign Terrorist Fighters' Activity: 2014 - 2024](overview.md) - Typology report by United Nations (incl. Security Council) (2024-11); INTL; empirical observation; status current.
+* [Evolving Trends in the Financing of Foreign Terrorist Fighters' Activity: 2014 - 2024 - part 1 of 2 (pp. 1-9)](digest-001.md) - Verified paraphrased digest, pp. 1-9: Background; Milestones; Milestones > ADAPTATION TO INCREASED SCRUTINY AND ENHANCED COUNTERING THE FINANCING OF TERRORISM RESPONSES; and 2 more sections
+* [Evolving Trends in the Financing of Foreign Terrorist Fighters' Activity: 2014 - 2024 - part 2 of 2 (pp. 10-14)](digest-002.md) - Verified paraphrased digest, pp. 10-14: Key evolutionary trends; Key evolutionary trends > COMPLEX TERRORISM-FINANCING SCHEME FOR THE RECRUITMENT AND TRAVEL OF FTFS TO AFGHANISTAN USING TETHER (USDT) ON THE TRON NETWORK (TRX)38; Key evolutionary trends > ONLINE FUNDRAISING CAMPAIGNS TO IMPROVE THE DETAINEES’ CONDITIONS IN CAMPS AND/OR TO SECURE THEIR RELEASE; and 1 more sections

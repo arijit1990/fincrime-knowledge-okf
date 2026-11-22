@@ -10,7 +10,7 @@ tags:
 - typologies
 - typology_report
 - virtual_assets
-status: draft
+status: stable
 source_id: apg-apg-yearly-typologies-report-2023-methods-and-trends-of-money-laun
 issuer: apg
 issuer_name: Asia/Pacific Group on Money Laundering
@@ -39,15 +39,14 @@ text_quality_warnings: []
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://www.apgml.org/news/2023-apg-typologies-report
   title: 'APG Yearly Typologies Report 2023: Methods and Trends of Money Laundering and Terrorism Financing'
   author: org:apg
 download_url: https://www.apgml.org/sites/default/files/documents/2023_APG_Typologies_Report.pdf
-digest_points: 0
-digest_pending_parts: 14
+digest_points: 760
 ---
 
 # APG Yearly Typologies Report 2023: Methods and Trends of Money Laundering and Terrorism Financing
@@ -67,8 +66,6 @@ digest_pending_parts: 14
 | Licence | APG terms (Reproduction not permitted for commercial/internal use (APG terms)) |
 | Topics | [typologies](../../../topics/typologies.md), [virtual assets](../../../topics/virtual-assets.md), [terrorist financing](../../../topics/terrorist-financing.md) |
 
-> **Digest in progress:** 14 of 14 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -79,6 +76,20 @@ digest_pending_parts: 14
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-13 | 6 FATF, FSRBS AND OBSERVERS’ RESEARCH PROJECTS & PUBLICATIONS ......................105 |
+| [digest part 2](digest-002.md) | pp. 13-22 | 6 FATF, FSRBS AND OBSERVERS’ RESEARCH PROJECTS & PUBLICATIONS ......................105 |
+| [digest part 3](digest-003.md) | pp. 22-32 | 6 FATF, FSRBS AND OBSERVERS’ RESEARCH PROJECTS & PUBLICATIONS ......................105 |
+| [digest part 4](digest-004.md) | pp. 32-40 | 6 FATF, FSRBS AND OBSERVERS’ RESEARCH PROJECTS & PUBLICATIONS ......................105 |
+| [digest part 5](digest-005.md) | pp. 40-48 | Q |
+| [digest part 6](digest-006.md) | pp. 48-57 | Q |
+| [digest part 7](digest-007.md) | pp. 57-66 | Q |
+| [digest part 8](digest-008.md) | pp. 66-76 | Q |
+| [digest part 9](digest-009.md) | pp. 76-85 | Q |
+| [digest part 10](digest-010.md) | pp. 86-96 | Q |
+| [digest part 11](digest-011.md) | pp. 96-105 | Q |
+| [digest part 12](digest-012.md) | pp. 106-113 | Q |
+| [digest part 13](digest-013.md) | pp. 113-124 | Type of threats 1 Tax and other mandatory payment evasion and other tax crimes (including VAT manipulation (fraud)) 2 Bribery and other corruption-rel |
+| [digest part 14](digest-014.md) | p. 124 | Type of threats 1 Tax and other mandatory payment evasion and other tax crimes (including VAT manipulation (fraud)) 2 Bribery and other corruption-rel |
 
 ## How to cite
 

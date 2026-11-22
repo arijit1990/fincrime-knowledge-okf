@@ -9,7 +9,7 @@ tags:
 - legal_requirement
 - regulation
 - rulebook_sourcebook
-status: draft
+status: stable
 source_id: unodc-international-co-operation-on-money-laundering-detection-investi
 issuer: unodc
 issuer_name: UN Office on Drugs and Crime
@@ -37,7 +37,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://www.unodc.org/unodc/news/2025/September/fatf--egmont-group--interpol-and-unodc-call-for-stronger-cooperation-between-countries-as-they-launch-handbook-to-fight-money-laundering.html
@@ -45,8 +45,7 @@ sources:
   author: org:unodc
   last_modified: '2025-09-05T00:00:00Z'
 download_url: https://track.unodc.org/track/uploads/res/track/resourcehub/2025/international_co-operation_on_money_laundering_detection_investigation_and_prosecution_handbook_html/International-Cooperation-ML-Detection-Investigation-Prosecution.pdf
-digest_points: 0
-digest_pending_parts: 6
+digest_points: 369
 ---
 
 # International Co-operation on Money Laundering Detection, Investigation, and Prosecution Handbook
@@ -66,8 +65,6 @@ digest_pending_parts: 6
 | Licence | UN terms (Reproduction not permitted for commercial/internal use (UN terms)) |
 | Topics | [regulation](../../../topics/regulation.md), [effectiveness](../../../topics/effectiveness.md) |
 
-> **Digest in progress:** 6 of 6 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -78,6 +75,12 @@ Joint FATF/Egmont/INTERPOL/UNODC handbook on good practice in cross-border ML de
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-9 | - |
+| [digest part 2](digest-002.md) | pp. 10-22 | Part I: Understanding the operational landscape |
+| [digest part 3](digest-003.md) | pp. 22-31 | Part I: Understanding the operational landscape |
+| [digest part 4](digest-004.md) | pp. 32-43 | Part II: Best practices, tools, and mechanisms |
+| [digest part 5](digest-005.md) | pp. 43-56 | Part II: Best practices, tools, and mechanisms |
+| [digest part 6](digest-006.md) | pp. 56-64 | Part II: Best practices, tools, and mechanisms |
 
 ## How to cite
 

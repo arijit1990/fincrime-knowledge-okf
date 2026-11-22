@@ -10,7 +10,7 @@ tags:
 - typologies
 - typology_report
 - virtual_assets
-status: draft
+status: stable
 source_id: unodc-casinos-money-laundering-underground-banking-and-transnational-o
 issuer: unodc
 issuer_name: UN Office on Drugs and Crime
@@ -40,14 +40,13 @@ text_quality_warnings:
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://www.unodc.org/roseap/uploads/documents/Publications/2024/Casino_Underground_Banking_Report_2024.pdf
   title: 'Casinos, Money Laundering, Underground Banking, and Transnational Organized Crime in East and Southeast Asia: A Hidden and Accelerating Threat'
   author: org:unodc
-digest_points: 285
-digest_pending_parts: 5
+digest_points: 519
 ---
 
 # Casinos, Money Laundering, Underground Banking, and Transnational Organized Crime in East and Southeast Asia: A Hidden and Accelerating Threat
@@ -71,8 +70,6 @@ digest_pending_parts: 5
 
 - 980 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 5 of 12 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -83,6 +80,11 @@ Case-based analysis of junkets, online gambling, crypto exchanges and undergroun
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-18 | Acknowledgements; Disclaimer; Southeast Asia and the Pacific; Foreword; and 5 more sections |
+| [digest part 2](digest-002.md) | pp. 18-22 | List of Figures, Tables and Maps > Maps |
+| [digest part 3](digest-003.md) | pp. 24-35 | Report Development and Analysis; Report Development and Analysis > Report Development and Analysis; Report Development and Analysis > Regional Overview |
+| [digest part 4](digest-004.md) | pp. 35-41 | Report Development and Analysis > Regional Overview |
+| [digest part 5](digest-005.md) | pp. 41-48 | Report Development and Analysis > Regional Overview |
 | [digest part 6](digest-006.md) | pp. 48-56 | Report Development and Analysis > Regional Overview |
 | [digest part 7](digest-007.md) | pp. 56-63 | Report Development and Analysis > Regional Overview |
 | [digest part 8](digest-008.md) | pp. 63-69 | Report Development and Analysis > Regional Overview |

@@ -1,3 +1,6 @@
 # Parts
 
 * [REGINA (THE FINANCIAL CONDUCT AUTHORITY) -v- NATIONAL WESTMINSTER BANK PLC: Sentencing Remarks of Mrs Justice Cockerill](overview.md) - Court decision by UK courts / judiciary (2021-12-13); UK; legal requirement; status current.
+* [REGINA (THE FINANCIAL CONDUCT AUTHORITY) -v- NATIONAL WESTMINSTER BANK PLC: Sentencing Remarks of Mrs Justice Cockerill - part 1 of 3 (pp. 1-14)](digest-001.md) - Verified paraphrased digest, pp. 1-14: NATIONAL WESTMINSTER BANK PLC > Sentencing Remarks of Mrs Justice Cockerill
+* [REGINA (THE FINANCIAL CONDUCT AUTHORITY) -v- NATIONAL WESTMINSTER BANK PLC: Sentencing Remarks of Mrs Justice Cockerill - part 2 of 3 (pp. 14-28)](digest-002.md) - Verified paraphrased digest, pp. 14-28: NATIONAL WESTMINSTER BANK PLC > Sentencing Remarks of Mrs Justice Cockerill
+* [REGINA (THE FINANCIAL CONDUCT AUTHORITY) -v- NATIONAL WESTMINSTER BANK PLC: Sentencing Remarks of Mrs Justice Cockerill - part 3 of 3 (pp. 28-33)](digest-003.md) - Verified paraphrased digest, pp. 28-33: NATIONAL WESTMINSTER BANK PLC > Sentencing Remarks of Mrs Justice Cockerill; NATIONAL WESTMINSTER BANK PLC > 132. For the offences of:; NATIONAL WESTMINSTER BANK PLC > 133. I sentence NatWest as follows:

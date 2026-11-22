@@ -8,7 +8,7 @@ domain_id: model_monitoring
 domain_scope: core
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 ---
 
 # Model monitoring & performance management

@@ -8,7 +8,7 @@ tags:
 - empirical_observation
 - intl
 - typology_report
-status: draft
+status: stable
 source_id: world-bank-signatures-for-sale-how-nominee-services-for-shell-companie
 issuer: world_bank
 issuer_name: World Bank / StAR
@@ -36,7 +36,7 @@ text_quality_warnings:
 source_selection: auto_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://star.worldbank.org/publications/signatures-sale-how-nominee-services-shell-companies-are-abused-conceal-beneficial
@@ -44,8 +44,7 @@ sources:
   author: org:world_bank
   last_modified: '2022-04-19T00:00:00Z'
 download_url: https://star.worldbank.org/sites/default/files/2022-04/StAR-nominees_final.pdf
-digest_points: 0
-digest_pending_parts: 5
+digest_points: 299
 ---
 
 # Signatures for Sale: How Nominee Services for Shell Companies Are Abused to Conceal Beneficial Owners
@@ -69,8 +68,6 @@ digest_pending_parts: 5
 
 - 3 unreadable characters (�) from PDF font encoding; affected words are garbled in the extract
 
-> **Digest in progress:** 5 of 5 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -81,6 +78,11 @@ StAR analysis of nominee director/shareholder abuse; informs BO verification and
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-9 | Contents; Executive Summary; Executive Summary > Acknowledgments; Key Findings; and 3 more sections |
+| [digest part 2](digest-002.md) | pp. 9-16 | D > The Uses of Nominee Arrangements: The Good, the Bad, and the Ugly; D > Two Examples of the Misuse of Nominee Services |
+| [digest part 3](digest-003.md) | pp. 17-25 | D > Mystery Shopping and the Marketing of Nominee Services; D > Data From Audit Study and Field Experiment on Secrecy Services |
+| [digest part 4](digest-004.md) | pp. 25-33 | D > Data From Audit Study and Field Experiment on Secrecy Services; D > Comparisons With Mutual Evaluation Reviews; D > Conclusions and Recommendations |
+| [digest part 5](digest-005.md) | pp. 34-44 | D > Notes; D > References; D > Appendix A: Search Term Library; D > Appendix B: Difference in Proportions Tests for Mention of Secrecy Services; and 1 more sections |
 
 ## How to cite
 

@@ -24,10 +24,10 @@ parts_total: 2
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://www.federalregister.gov/documents/2021/01/15/2021-01016/requirements-for-certain-transactions-involving-convertible-virtual-currency-or-digital-assets

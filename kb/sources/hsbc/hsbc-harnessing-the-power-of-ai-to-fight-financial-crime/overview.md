@@ -10,7 +10,7 @@ tags:
 - industry_report
 - intl
 - ml_statistics
-status: draft
+status: stable
 source_id: hsbc-harnessing-the-power-of-ai-to-fight-financial-crime
 issuer: hsbc
 issuer_name: HSBC
@@ -39,14 +39,13 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://www.hsbc.com/news-and-views/views/hsbc-views/harnessing-the-power-of-ai-to-fight-financial-crime
   title: Harnessing the power of AI to fight financial crime
   author: org:hsbc
-digest_points: 0
-digest_pending_parts: 1
+digest_points: 16
 ---
 
 # Harnessing the power of AI to fight financial crime
@@ -66,8 +65,6 @@ digest_pending_parts: 1
 | Licence | HSBC terms (Reproduction not permitted for commercial/internal use (HSBC terms)) |
 | Topics | [ml statistics](../../../topics/ml-statistics.md), [genai](../../../topics/genai.md), [effectiveness](../../../topics/effectiveness.md) |
 
-> **Digest in progress:** 1 of 1 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -78,6 +75,7 @@ HSBC view piece on applying AI to transaction monitoring and its effect on inves
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | p. 1 | Harnessing the power of AI to fight financial crime; Harnessing the power of AI to fight financial crime > Share; Harnessing the power of AI to fight financial crime > Google partnership; Harnessing the power of AI to fight financial crime > Detecting crime; and 1 more sections |
 
 ## How to cite
 

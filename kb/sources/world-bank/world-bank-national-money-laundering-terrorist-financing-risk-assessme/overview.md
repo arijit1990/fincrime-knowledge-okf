@@ -8,7 +8,7 @@ tags:
 - intl
 - risk_assessment
 - virtual_assets
-status: draft
+status: stable
 source_id: world-bank-national-money-laundering-terrorist-financing-risk-assessme
 issuer: world_bank
 issuer_name: World Bank / StAR
@@ -36,14 +36,13 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T10:06:32Z'
+  at: '2026-11-22T14:32:20Z'
 sources:
 - id: original
   resource: https://documents1.worldbank.org/curated/en/099101825095526746/pdf/P502461-a14939d7-c956-4997-973b-b39acb000a8b.pdf
   title: 'National Money Laundering / Terrorist Financing Risk Assessment Toolkit Guidance Manual: AML/CFT National Risk Assessment on Virtual Assets and Virtual Asset Service Providers'
   author: org:world_bank
-digest_points: 0
-digest_pending_parts: 7
+digest_points: 401
 ---
 
 # National Money Laundering / Terrorist Financing Risk Assessment Toolkit Guidance Manual: AML/CFT National Risk Assessment on Virtual Assets and Virtual Asset Service Providers
@@ -63,8 +62,6 @@ digest_pending_parts: 7
 | Licence | Often CC BY 3.0 IGO (Reproduction not permitted for commercial/internal use (Often CC BY 3.0 IGO)) |
 | Topics | [virtual assets](../../../topics/virtual-assets.md), [risk assessment](../../../topics/risk-assessment.md) |
 
-> **Digest in progress:** 7 of 7 part(s) are not yet digested and verified. Use the original at the link above for those pages.
-
 ## Curator note
 
 > Machine-written during source selection to explain why the source was included. Use it for routing only; it is not a statement of the document's content.
@@ -75,6 +72,13 @@ World Bank methodology for assessing national ML/TF risks from virtual assets an
 
 | Part | Pages | Sections |
 |---|---|---|
+| [digest part 1](digest-001.md) | pp. 1-15 | AML/CFT NATIONAL RISK ASSESSMENT ON VIRTUAL ASSETS AND VIRTUAL ASSET SERVICE PROVIDERS |
+| [digest part 2](digest-002.md) | pp. 15-28 | AML/CFT NATIONAL RISK ASSESSMENT ON VIRTUAL ASSETS AND VIRTUAL ASSET SERVICE PROVIDERS; INTERMEDIATE |
+| [digest part 3](digest-003.md) | pp. 28-40 | INTERMEDIATE |
+| [digest part 4](digest-004.md) | pp. 40-51 | INTERMEDIATE |
+| [digest part 5](digest-005.md) | pp. 51-69 | INTERMEDIATE; CDD); CDD)? |
+| [digest part 6](digest-006.md) | pp. 69-84 | CDD)? |
+| [digest part 7](digest-007.md) | pp. 84-88 | CDD)? |
 
 ## How to cite
 

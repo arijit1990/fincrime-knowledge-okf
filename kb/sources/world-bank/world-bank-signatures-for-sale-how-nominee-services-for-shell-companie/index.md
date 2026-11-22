@@ -1,3 +1,8 @@
 # Parts
 
 * [Signatures for Sale: How Nominee Services for Shell Companies Are Abused to Conceal Beneficial Owners](overview.md) - Typology report by World Bank / StAR (2022-04-19); INTL; empirical observation; status current.
+* [Signatures for Sale: How Nominee Services for Shell Companies Are Abused to Conceal Beneficial Owners - part 1 of 5 (pp. 1-9)](digest-001.md) - Verified paraphrased digest, pp. 1-9: Contents; Executive Summary; Executive Summary > Acknowledgments; and 4 more sections
+* [Signatures for Sale: How Nominee Services for Shell Companies Are Abused to Conceal Beneficial Owners - part 2 of 5 (pp. 9-16)](digest-002.md) - Verified paraphrased digest, pp. 9-16: D > The Uses of Nominee Arrangements: The Good, the Bad, and the Ugly; D > Two Examples of the Misuse of Nominee Services
+* [Signatures for Sale: How Nominee Services for Shell Companies Are Abused to Conceal Beneficial Owners - part 3 of 5 (pp. 17-25)](digest-003.md) - Verified paraphrased digest, pp. 17-25: D > Mystery Shopping and the Marketing of Nominee Services; D > Data From Audit Study and Field Experiment on Secrecy Services
+* [Signatures for Sale: How Nominee Services for Shell Companies Are Abused to Conceal Beneficial Owners - part 4 of 5 (pp. 25-33)](digest-004.md) - Verified paraphrased digest, pp. 25-33: D > Data From Audit Study and Field Experiment on Secrecy Services; D > Comparisons With Mutual Evaluation Reviews; D > Conclusions and Recommendations
+* [Signatures for Sale: How Nominee Services for Shell Companies Are Abused to Conceal Beneficial Owners - part 5 of 5 (pp. 34-44)](digest-005.md) - Verified paraphrased digest, pp. 34-44: D > Notes; D > References; D > Appendix A: Search Term Library; and 2 more sections
