@@ -8,7 +8,7 @@ issuer_id: uk_gov_other
 tier: 1
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T09:50:18Z'
+  at: '2026-11-22T10:06:32Z'
 ---
 
 # UK Government (other department)

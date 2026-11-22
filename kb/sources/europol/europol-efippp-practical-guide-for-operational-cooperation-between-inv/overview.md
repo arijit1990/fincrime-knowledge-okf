@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T09:50:18Z'
+  at: '2026-11-22T10:06:32Z'
 sources:
 - id: original
   resource: https://www.europol.europa.eu/publications-events/publications/efippp-practical-guide-for-operational-cooperation-between-investigative-authorities-and-financial-institutions

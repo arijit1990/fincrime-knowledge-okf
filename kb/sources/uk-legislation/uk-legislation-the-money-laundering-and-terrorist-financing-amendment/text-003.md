@@ -24,10 +24,10 @@ parts_total: 3
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T09:50:18Z'
+  at: '2026-11-22T10:06:32Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-22T09:50:18Z'
+  at: '2026-11-22T10:06:32Z'
 sources:
 - id: original
   resource: https://www.legislation.gov.uk/uksi/2026/621/pdfs/uksi_20260621_en.pdf

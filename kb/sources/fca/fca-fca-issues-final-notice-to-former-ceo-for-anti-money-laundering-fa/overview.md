@@ -37,7 +37,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T09:50:18Z'
+  at: '2026-11-22T10:06:32Z'
 sources:
 - id: original
   resource: https://www.fca.org.uk/news/press-releases/fca-issues-final-notice-former-ceo-anti-money-laundering-failings

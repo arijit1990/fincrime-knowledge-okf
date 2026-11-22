@@ -24,10 +24,10 @@ parts_total: 15
 content_mode: full_text
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T09:50:18Z'
+  at: '2026-11-22T10:06:32Z'
 verified:
 - by: process:kb-validate/verbatim-coverage
-  at: '2026-11-22T09:50:18Z'
+  at: '2026-11-22T10:06:32Z'
 sources:
 - id: original
   resource: https://home.treasury.gov/system/files/136/2024-National-Money-Laundering-Risk-Assessment.pdf

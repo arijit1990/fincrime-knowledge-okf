@@ -39,7 +39,7 @@ text_quality_warnings: []
 source_selection: human_verified
 generated:
   by: process:fincrime-kb-build
-  at: '2026-11-22T09:50:18Z'
+  at: '2026-11-22T10:06:32Z'
 sources:
 - id: original
   resource: https://www.nationalcrimeagency.gov.uk/who-we-are/publications/827-national-economic-crime-annual-report-2025-2026/file
